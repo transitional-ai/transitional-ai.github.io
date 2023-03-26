@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a  research group of UNSW [Mathematics and Statistics]([http://www.physics.leidenuniv.nl](https://www.unsw.edu.au/science/our-schools/maths)). Our aim is develop and apply novel artificial intelligence methods to multi-disiplinary areas that includes science, engineering, and humanities.   
+We are a  research group of UNSW [Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths). Our aim is develop and apply novel artificial intelligence methods to multi-disiplinary areas that includes science, engineering, and humanities.   
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -42,8 +42,6 @@ We are a  research group of UNSW [Mathematics and Statistics]([http://www.physic
 
  
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
 
 We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and Minerals](www.nwo.nl) [UNSW Data Science Hub](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Geocoastal Research Group - University of Sydney](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and  [EarthByte Group - University of Sydney](https://erc.europa.eu/funding/starting-grants).
 
@@ -51,3 +49,5 @@ We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px"> 
 </figure>
+
+ * We are  looking for passionate new research students, research interns, and collaborators to join the team * [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
