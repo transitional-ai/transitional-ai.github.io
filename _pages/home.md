@@ -1,7 +1,7 @@
 ---
-title: " "
+title: " Home"
 layout: homelay
-excerpt: " "
+excerpt: " Home "
 sitemap: false
 permalink: /
 ---
