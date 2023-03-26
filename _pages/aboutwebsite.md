@@ -1,12 +1,12 @@
 ---
-title: "About the website"
+title: "t-AI"
 layout: textlay
-excerpt: "About the website."
+excerpt: "t-AI@UNSW"
 sitemap: false
 permalink: /aboutwebsite.html
 ---
 
-# Use this website as a template for your academic research group
+# Research group
 
 This website is powered by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootstrap.com) and  [Bootswatch](http://www.bootswatch.com). We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. 
 
