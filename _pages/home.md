@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "t-AI"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "@UNSW"
 sitemap: false
 permalink: /
 ---
