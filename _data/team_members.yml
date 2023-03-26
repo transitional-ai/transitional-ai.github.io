@@ -1,41 +1,29 @@
 - name: Dr Rohitash Chandra
   photo: Milan1.jpg
-  info: Senior Lecturer in Data Science, started Jan 2020
-  email: rohitash.chandra@unsw.edu.au
-  number_educ: 1
-  education1: PhD in Artificial Intelligence, Victoria University of Wellington, May 2012
+  info: Director  and Senior Lecturer in Data Science @UNSW 
+  email: rohitash.chandra@unsw.edu.au 
  
-- name: Jianfeng (Jacky) Ge
+- name: Dr Ehsan Farahbakhsh
   photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  info: Deputy Director, Postdoc Research Associate at EarthByte Group, University of Sydney <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/e-farahbakhsh.html"> web </a> 
+  email: ge@Physics.LeidenUniv.nl 
 
-- name: Jiasen Niu
+- name:  Dr Amit Krishan Kumar
   photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  info: Theme Lead - Biomedical and Bioinformatics 
+  email: niu@physics.leidenuniv.nl 
 
-- name: Jinwon Lee
+- name: Dr Rodney Beard
   photo: Jinwon.jpg
   info: Postdoc, started July 2021
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
+  email: jwlee0421@postech.ac.kr 
 
-- name: Tjerk Benschop
+- name: Dr John Hawkins
   photo: tjeruk.jpg
   info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD fellowship
-  education3:
-  education4: 
+  email: benschop@physics.leidenuniv.nl 
+  
+- name: Dr Kavitesh Bali
+  photo: tjeruk.jpg
+  info: PhD Student, started November 2018
+  email: benschop@physics.leidenuniv.nl 
