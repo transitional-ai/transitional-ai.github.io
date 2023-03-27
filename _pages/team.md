@@ -1,5 +1,5 @@
 ---
-title: "t~ai Members
+title: "t~ai Members"
 layout: gridlay
 excerpt: "Members"
 sitemap: false
