@@ -1,6 +1,6 @@
 ---
 title: " "
-layout:  
+layout: homelay
 excerpt: " "
 sitemap: false
 permalink: /
