@@ -1,7 +1,7 @@
 ---
-title: "t-AI"
+title: "t~ai"
 layout: textlay
-excerpt: "t-AI@UNSW"
+excerpt: "t-ai"
 sitemap: false
 permalink: /aboutwebsite.html
 ---
