@@ -22,7 +22,17 @@
   authors:  Kumar AK; Jain S; Jain S; Ritam M; Xia Y; Chandra R
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0169260723000883?via%3Dihub
-    display: Computer Methods and Programs in Biomedicine, vol. 231, pp. 107421 - 107421
+    display: Computer Methods and Programs in Biomedicine, vol. 231, pp. 107421 - 107421 (2023)
   highlight: 1
   news1:   <a style="color:#FF0000" href="https://www.youtube.com/watch?v=DnhA8h3YmJs"> Covered in 't~ai Seminar Series'  by Dr Amit Kumar</a>
+   
+
+- title: "Cyclone trajectory and intensity prediction with uncertainty quantification using variational recurrent neural networks"
+  image: Pairs3.png
+  description: Cyclone track forecasting is a critical climate science problem involving time-series prediction of cyclone location and intensity. Machine learning methods have shown much promise in this domain, especially deep learning methods such as recurrent neural networks (RNNs) However, these methods generally make single-point predictions with little focus on uncertainty quantification. Although Markov Chain Monte Carlo (MCMC) methods have often been used for quantifying uncertainty in neural network predictions, these methods are computationally expensive. Variational Inference (VI) is an alternative to MCMC sampling that approximates the posterior distribution of parameters by minimizing a KL-divergence loss between the estimate and the true posterior. In this paper, we present variational RNNs for cyclone track and intensity prediction in four different regions across the globe. We utilise simple RNNs and long short-term memory (LSTM) RNNs and use the energy score (ES) to evaluate multivariate probabilistic predictions. The results show that variational RNNs provide a good approximation with uncertainty quantification when compared to conventional RNNs while maintaining prediction accuracy.   
+  authors:  Kapoor A; Negi A; Marshall L; Chandra R
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1364815223000403?via%3Dihub
+    display: Environmental Modelling & Software, vol. 162, pp. 105654 - 105654 (2023)
+  highlight: 1
    
