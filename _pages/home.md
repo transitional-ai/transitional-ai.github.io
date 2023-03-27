@@ -59,4 +59,4 @@ Transitional  Artificial Intelligence Research Group (t~ai) aims to train the ne
 
 ## History
 
-t~ai was created at UNSW School of Mathematics and Statistics in January 2020 by Dr Rohitash Chandra. The vision of the group was planned in 2019 at the University of Sydney. The group has transitioned from the Artificial Intelligence and Cybernetics Research Group at Software Foundation (Fiji) and University of the South Pacific (2013 - 2015).  Since then, we have been actively recruiting research students and interns who have shaped the course of our research - and enabled the development of novel methodologies and applications. 
+t~ai was created at UNSW School of Mathematics and Statistics in January 2020 by Dr Rohitash Chandra. The vision of the group was planned in 2019 at the University of Sydney. The group has transitioned from the Artificial Intelligence and Cybernetics Research Group at Software Foundation (Fiji) and University of the South Pacific, Fiji (2013 - 2015).  Since then, we have been actively recruiting research students and interns who have shaped the course of our research - and enabled the development of novel methodologies and applications. 
