@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "t~ai Projects"
 layout: textlay
 excerpt: "Projects"
 sitemap: false
