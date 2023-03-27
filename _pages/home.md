@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-## Bula Namaste!
+### Bula Namaste!
 
 We are a  research group  based at the  UNSW [Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths). Our aim is develop and apply novel artificial intelligence methods to multi-disiplinary areas that includes science, engineering, and humanities.  
 
