@@ -50,4 +50,4 @@ We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px"> 
 </figure>
 
- * We are  looking for passionate new research students, research interns, and collaborators to join the team * [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+We are  looking for passionate new research students, research interns, and collaborators to join the team.  [(More info about current and open projects.)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
