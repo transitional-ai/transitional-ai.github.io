@@ -6,14 +6,11 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open Projects
+## Open Projects
 
-**We are currently open for HDR positions (PhD/Masters/Honours) in our group provided you bring your own scholarship or apply for UNSW PhD Scholarship.**
-
-We are  looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
-
+ We are currently open for HDR positions (PhD/Masters/Honours) in our group provided you bring your own scholarship or apply for UNSW PhD Scholarship. 
+ 
+ 
 ### Past open positions
 
 You find the past job openings here:
