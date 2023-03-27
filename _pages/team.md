@@ -260,10 +260,4 @@ permalink: /team/
 
 
  
- We are  looking for new PhD students, Postdocs, and Masters/Honours students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)  
-
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-
-## Administrative Support 
+ We are  looking for new PhD students, Postdocs, and Masters/Honours students to join the team. 
