@@ -72,7 +72,7 @@ permalink: /team/
 
 
 
-## Master and Honours Research Students
+## Ph.D Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -126,14 +126,57 @@ permalink: /team/
 {% endif %}
 
 
+## Masters and Honours Research Students
+
+
+* Sean Luo, Honours in Data Science, from T2 2022 (Joint supervision with Dr Sahani Pathiraja)
+* George Maksour, Honours in Data Science, from T2 2022 (Joint supervision with Dr Sahani Pathiraja)
+* Albert Demskoy, Honours in Data Science, from T1 2023
+* Honghui Wang, Masters by Research, from T2 2022 (Joint supervision with A/Prof Gustavo Batista)
+* Hamish Haggerty, “ Self supervised deep learning”, Masters in Statistics, from September 2022, (Primary Supervisor)
+* Ruoni Wen, Masters in Statistics, from February 2023, (Joint supervision with Dr Ehsan Farahbakhsh)
+* Mukuan Hsu, Masters in Statistics, from February 2023, (Primary Supervisor)
+* Yiwei  Chen,   Masters in Statistics, from February 2023, (Primary Supervisor)
+* Shijie Zhang,   Masters in Statistics, from February 2023, (Primary Supervisor)
+ 
+
 ## Research Interns
-
-### 2023
-
+ 
 
 
-Azal Khan, Indian Institute of Technology, Guwahati, India (January 2023 - current) 
+* Azal Khan, Indian Institute of Technology, Guwahati, India (January 2023 - current) 
+* Omkar Chaudhari, Indian Institute of Technology, Guwahati, India (January 2023 - current) 
 
+
+## Alumni (research student)
+
+### Ph.D
+
+* Amit Kumar, "Machine learning with physics-based neural networks for lung air-flow modelling", Ph.D, Beijing Institute of Technology, 2023
+* Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, Ph.D, Amirkabir University of Technology, Tehran, 2020 
+
+### Honours
+
+* Jim Ng, “ Conditional ensemble deep learning for modelling Australian climate extremes: streamflow and floods“, Honours thesis, UNSW Sydney, 2022 
+* Eric Chen, “Deep learning for modelling historic ground-water levels via stream-flow and precipitation data”, Honours thesis, UNSW Sydney, 2022  
+* Royce Chen, "Pruning Bayesian neural networks with MCMC", Honours thesis, UNSW Sydney, 2022  
+* George Bai, "Bayesian neural ensemble learning with parallelized  and tempered Langevin MCMC",  Honours ithesis,  UNSW Sydney, 2021  
+* Jodie Pall, “ Bayesreef: Reef evolution using Bayesian inference”, Honours thesis, School of Geosciences, University of Sydney, 2018 (Received University Medal)  
+
+### Masters (minor thesis)
+
+*
+*
+
+
+### Masters by Research (major thesis)
+
+*
+*
+
+
+## Alumni (research interns)
+ 
 ### 2022
 
 * Azal Khan, Indian Institute of Technology, Guwahati, India (January - August 2022)   
@@ -147,6 +190,8 @@ Azal Khan, Indian Institute of Technology, Guwahati, India (January 2023 - curre
 * Suryansh Shrivastava, Indian Institute of Technology, Guwahati, India (January - April 2022)   
 * Pranshu  Kandoi,  Indian Institute of Technology, Guwahati, India (January - April 2022)
 * Pandaya  Pranshu, Indian Institute of Technology, Guwahati, India (January - April 2022)
+* Dhiraj Pimparkar,  Indian Institute of Technology Jammu, India ( May 2022 - September 2022)  
+* Dakshi Goel, Indian Institute of Technology Jammu, India ( May 2022 - September 2022)  
 
 ### 2021
 
@@ -175,7 +220,7 @@ Azal Khan, Indian Institute of Technology, Guwahati, India (January 2023 - curre
 * Manavendrasinh Maharana, Manipal Institute of Technology, India (Jan 2020 - June 2020)
 * Animesh Tiwari, Indian Institute of Technology Guwahati, India (May 2020 - August 2020)
 * Eshwar Nukala, Indian Institute of Technology Guwahati, India (May 2020 - August 2020)
-* Arya Arya Indian Institute of Technology Jammu, India ( August 2020 - December 2020)  
+* Arya Arya, Indian Institute of Technology Jammu, India ( August 2020 - December 2020)  
 * Mahir Jain, Manipal Institute of Technology, India ( August 2020 - December 2020)
 * Ayush Bhagat, Manipal Institute of Technology, India ( August 2020 - December 2020)
 * Ayush Jain, Indian Institute of Technology Guwahati, India (May 2020 - August 2020)
@@ -198,66 +243,6 @@ Azal Khan, Indian Institute of Technology, Guwahati, India (January 2023 - curre
 
 
 
-
-
-## Alumni
-
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
 
  
  We are  looking for new PhD students, Postdocs, and Masters/Honours students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)  
