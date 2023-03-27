@@ -1,7 +1,7 @@
 ---
-title: " "
-layout: gridlay
-excerpt: " "
+title: "Home"
+layout: textlay
+excerpt: "Home"
 sitemap: false
 permalink: /
 ---
