@@ -8,7 +8,9 @@ permalink: /
 
 ## Bula Namaste!
 
-We are a  research group of UNSW [Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths). Our aim is develop and apply novel artificial intelligence methods to multi-disiplinary areas that includes science, engineering, and humanities.   
+We are a  research group of UNSW [Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths). Our aim is develop and apply novel artificial intelligence methods to multi-disiplinary areas that includes science, engineering, and humanities.  
+
+Our research encircling methodologies and applications of artificial intelligence. The methodologies include  deep learning, ensemble learning, Bayesian deep learning, neuro-evolution, and data augmentation. The applications include climate extremes, geoscientific models, mineral exploration, biomedicine, natural language processing, and  COVID-19. We pioneered the area of language models for studying ancient religious-philosophical texts.  We machine learning and remote sensing for mineral exploration, and is currently focusing on critical metals. We use  deep learning for climate extremes and currently developing a model for decadal forecasts of high category cyclones. Our COVID-19 research  focuses on drug re-pourposing, infection forecasting, and social media-based language modelling.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -45,7 +47,7 @@ We are a  research group of UNSW [Mathematics and Statistics](https://www.unsw.e
  
 
 
-We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and Minerals](www.nwo.nl) [UNSW Data Science Hub](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Geocoastal Research Group - University of Sydney](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and  [EarthByte Group - University of Sydney](https://erc.europa.eu/funding/starting-grants).
+We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and Minerals]([www.nwo.nl](https://darecentre.org.au/)) [UNSW Data Science Hub](https://www.unsw.edu.au/research/udash) and the [Geocoastal Research Group - University of Sydney](https://grgusyd.org/), and  [EarthByte Group - University of Sydney](https://www.earthbyte.org/).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
