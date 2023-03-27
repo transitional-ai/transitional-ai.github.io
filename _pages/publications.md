@@ -1,15 +1,15 @@
 ---
-title: "Allan Lab - Publications"
+title: "t~ai - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
-# Publications
+## Publications
 
-## Group highlights
+### Highlights
 
 You can find the [full list](#full-list-of-publications) at the end. All papers are also available on [UNSW Research site](https://research.unsw.edu.au/people/dr-rohitash-chandra/publications).
 
@@ -52,7 +52,7 @@ You can find the [full list](#full-list-of-publications) at the end. All papers 
 <p> &nbsp; </p>
 
  
-## Full List 
+### Full List 
 
 [Articles, Preprints, and Conference Proceedings ](https://research.unsw.edu.au/people/dr-rohitash-chandra/publications)
 
