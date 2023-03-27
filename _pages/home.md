@@ -8,7 +8,7 @@ permalink: /
 
 ## Bula Namaste!
 
-We are a  research group of UNSW [Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths). Our aim is develop and apply novel artificial intelligence methods to multi-disiplinary areas that includes science, engineering, and humanities.  
+We are a  research group  based at the  UNSW [Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths). Our aim is develop and apply novel artificial intelligence methods to multi-disiplinary areas that includes science, engineering, and humanities.  
 
 Our research encircling methodologies and applications of artificial intelligence. The methodologies include  deep learning, ensemble learning, Bayesian deep learning, neuro-evolution, and data augmentation. The applications include climate extremes, geoscientific models, mineral exploration, biomedicine, natural language processing, and  COVID-19. We pioneered the area of language models for studying ancient religious-philosophical texts.  We machine learning and remote sensing for mineral exploration, and is currently focusing on critical metals. We use  deep learning for climate extremes and currently developing a model for decadal forecasts of high category cyclones. Our COVID-19 research  focuses on drug re-pourposing, infection forecasting, and social media-based language modelling.
 
@@ -54,4 +54,13 @@ We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px"> 
 </figure>
 
-We are  looking for passionate new research students, research interns, and collaborators to join the team.  [(More info about current and open projects.)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+We are  looking for passionate new research students, research interns, and collaborators to join the team.  [(More info about current and open projects.)]({{ site.url }}{{ site.baseurl }}/vacancies)  
+
+
+## Philosophy
+
+Transitional  Artificial Intelligence Research Group (t~ai) aims to train the next generation of scientists, philosophers and technologists for humanity.  We need to break down the barriers between  science, arts and humanities and develop solutions that can transition and transform them with innovations in artificial intelligence. 
+
+## History
+
+t~ai was created at UNSW School of Mathematics and Statistics in January 2020 by Dr Rohitash Chandra. The vision of the group was planned in 2019 at the University of Sydney. The group has transitioned from the Artificial Intelligence and Cybernetics Research Group at Software Foundation (Fiji) and University of the South Pacific (2013 - 2015).  Since then, we have been actively recruiting research students and interns who have shaped the course of our research - and enabled the development of novel methodologies and applications. 
