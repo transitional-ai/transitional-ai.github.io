@@ -20,6 +20,7 @@
   image: Pairs3.png
   description:  The use of machine learning methods for modelling bio-systems is becoming prominent which can further improve bio-medical technologies. Physics-informed neural networks (PINNs) can embed the knowledge of physical laws that govern a system during the model training process. PINNs utilise differential equations in the model which traditionally used numerical methods that are computationally complex.  We integrate PINNs with an entangled ladder network for modelling respiratory systems by considering a lungs conduction zone to evaluate the respiratory impedance for different initial conditions. We evaluate the respiratory impedance for the inhalation phase of breathing for a symmetric model of the human lungs using entanglement and continued fractions.
   authors:  Kumar AK; Jain S; Jain S; Ritam M; Xia Y; Chandra R
+  link:
     url: https://www.sciencedirect.com/science/article/pii/S0169260723000883?via%3Dihub
     display: Computer Methods and Programs in Biomedicine, vol. 231, pp. 107421 - 107421
   highlight: 1
