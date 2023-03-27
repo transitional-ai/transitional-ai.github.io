@@ -55,8 +55,8 @@ We are  looking for passionate new research students, research interns, and coll
 
 ### Philosophy
 
-Transitional  Artificial Intelligence Research Group (t~ai) aims to train the next generation of scientists, philosophers and technologists for humanity.  We need to break down the barriers between  science, arts and humanities and develop solutions that can transition and transform them with innovations in artificial intelligence. 
+Transitional  Artificial Intelligence Research Group (t~ai) aims to train the next generation of scientists, philosophers and technologists for humanity.  We need to break down the barriers between  science, arts and humanities  with innovations in artificial intelligence. 
 
 ### History
 
-t~ai was created at UNSW School of Mathematics and Statistics in January 2020 by Dr Rohitash Chandra. The  group was envisioned  in 2019   with research activies at the Centre of Translational Data Science at University of Sydney in collaboration with EarthBye and Geocoastal Research Group. The group has transitioned from the Artificial Intelligence and Cybernetics Research Group at Software Foundation (Fiji) and University of the South Pacific, Fiji (2013 - 2015).  Since then, we have been actively recruiting research students and interns who have shaped the course of our research - and enabled the development of novel methodologies and applications. 
+t~ai was created at UNSW School of Mathematics and Statistics in January 2020 by Dr Rohitash Chandra. The  group was envisioned  in 2019   with research activies at the Centre of Translational Data Science - University of Sydney in collaboration with EarthBye and Geocoastal Research Group. The group has transitioned from the Artificial Intelligence and Cybernetics Research Group at Software Foundation (Fiji) and University of the South Pacific, Fiji (2013 - 2015).  Since then, we have been actively recruiting research students and interns who have shaped the course of our research - and enabled the development of novel methodologies and applications. 
