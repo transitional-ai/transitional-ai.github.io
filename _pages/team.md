@@ -1,7 +1,7 @@
 ---
-title: "t-AI - Team"
+title: "t~ai Members
 layout: gridlay
-excerpt: "t-AI: Team members"
+excerpt: "Members"
 sitemap: false
 permalink: /team/
 ---
