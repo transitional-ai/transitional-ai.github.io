@@ -125,6 +125,15 @@ permalink: /team/
 </div>
 {% endif %}
 
+## Collaborators 
+
+*
+*
+*
+
+
+
+
 
 ## Masters and Honours Research Students
 
@@ -146,6 +155,12 @@ permalink: /team/
 
 * Azal Khan, Indian Institute of Technology, Guwahati, India (January 2023 - current) 
 * Omkar Chaudhari, Indian Institute of Technology, Guwahati, India (January 2023 - current) 
+
+
+## Collaborators 
+
+
+
 
 
 ## Alumni (research student)
