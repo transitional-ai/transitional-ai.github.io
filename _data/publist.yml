@@ -1,29 +1,27 @@
-- title: "Determination of the charge transfer when tunneling into putative Majorana modes in individual vortices in FeTe0.55Se0.045"
+- title: "Deep learning for COVID-19 topic modelling via Twitter: Alpha, Delta and Omicron"
   image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+  description:  Topic modelling with innovative deep learning methods has gained interest for a wide range of applications that includes COVID-19. Topic modelling can provide, psychological, social and cultural insights for understanding human behaviour in extreme events such as the COVID-19 pandemic. In this paper, we use prominent deep learning-based language models for COVID-19 topic modelling taking into account data from emergence (Alpha) to the Omicron variant. We apply topic modeling to review the public behaviour across the first, second and third waves based on Twitter dataset from India. Our results show that the topics extracted for the subsequent waves had certain overlapping themes such as covers governance, vaccination, and pandemic management while novel issues aroused in political, social and economic situation during COVID-19 pandemic. We also found a strong correlation of the major topics qualitatively to news media prevalent at the respective time period. Hence, our framework has the potential to capture major issues arising during different phases of the COVID-19 pandemic which can be extended to other countries and regions.
+  authors: Lande J; Pillay A; Chandra R
   link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+    url: http://arxiv.org/abs/2303.00135v1
+    display: arxiv:2303.00135 (2023)
   highlight: 1
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
+- title: " An evaluation of Google Translate for Sanskrit to English translation via sentiment and semantic analysis "
   image: BSCCOgap.png
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+  description:  Google Translate has been prominent for language translation; however, limited work has been done in evaluating the quality of translation when compared to human experts. Sanskrit one of the oldest written languages in the world. In 2022, the Sanskrit language was added to the Google Translate engine. Sanskrit is known as the mother of languages such as Hindi and an ancient source of the Indo-European group of languages. Sanskrit is the original language for sacred Hindu texts such as the Bhagavad Gita. In this study, we present a framework that evaluates the Google Translate for Sanskrit using the Bhagavad Gita. We first publish a translation of the Bhagavad Gita in Sanskrit using Google Translate. Our framework then compares Google Translate version of Bhagavad Gita with expert translations using sentiment and semantic analysis via BERT-based language models. Our results indicate that in terms of sentiment and semantic analysis, there is low level of similarity in selected verses of Google Translate when compared to expert translations. In the qualitative evaluation, we find that Google translate is unsuitable for translation of certain Sanskrit words and phrases due to its poetic nature, contextual significance, metaphor and imagery. The mistranslations are not surprising since the Bhagavad Gita is known as a difficult text not only to translate, but also to interpret since it relies on contextual, philosophical and historical information. Our framework lays the foundation for automatic evaluation of other languages by Google Translate
+  authors: Shukla A; Bansal C; Badhe S; Ranjan M; Chandra R
   link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials (2023)
+    url: http://arxiv.org/abs/2303.07201v1
+    display:  arxiv:2303.07201 (2023)
   highlight: 1
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
+- title: "Physics-informed neural entangled-ladder network for inhalation impedance of the respiratory system"
   image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
-  link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
+  description:  The use of machine learning methods for modelling bio-systems is becoming prominent which can further improve bio-medical technologies. Physics-informed neural networks (PINNs) can embed the knowledge of physical laws that govern a system during the model training process. PINNs utilise differential equations in the model which traditionally used numerical methods that are computationally complex.  We integrate PINNs with an entangled ladder network for modelling respiratory systems by considering a lungs conduction zone to evaluate the respiratory impedance for different initial conditions. We evaluate the respiratory impedance for the inhalation phase of breathing for a symmetric model of the human lungs using entanglement and continued fractions.
+  authors:  Kumar AK; Jain S; Jain S; Ritam M; Xia Y; Chandra R
+    url: https://www.sciencedirect.com/science/article/pii/S0169260723000883?via%3Dihub
+    display: Computer Methods and Programs in Biomedicine, vol. 231, pp. 107421 - 107421
   highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
- 
+  news1:   <a style="color:#FF0000" href="https://www.youtube.com/watch?v=DnhA8h3YmJs"> Covered in 't~ai Seminar Series'  by Dr Amit Kumar</a>
+   
