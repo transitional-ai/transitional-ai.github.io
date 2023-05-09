@@ -130,6 +130,7 @@ permalink: /team/
 * Prof. Scott Sisson, UNSW Sydney, Australia
 * Dr. Sahani Pathiraja, UNSW Sydney, Australia
 * Dr. Sarat Moka, UNSW Sydney, Australia
+* A/Prof Gustavo Batista, UNSW Sydney, Australia
 * Dr. Tom Blau, Data61, CSIRO, Australia
 * Dr. Laurence Wilson, CSIRO, Australia
 * Prof. Dietmar Muller, University of Sydney, Australia
@@ -146,37 +147,22 @@ permalink: /team/
 * Dr. Anurag Sharma, University of the South Pacific, Fiji 
 * A/Prof. Bibhya Sharma, University of the South Pacific, Fiji
 
-
-
-
-
-
 ## Masters and Honours Research Students
 
-
-* Sean Luo, Honours in Data Science, from T2 2022 (Joint supervision with Dr Sahani Pathiraja)
-* George Maksour, Honours in Data Science, from T2 2022 (Joint supervision with Dr Sahani Pathiraja)
 * Albert Demskoy, Honours in Data Science, from T1 2023
 * Honghui Wang, Masters by Research, from T2 2022 (Joint supervision with A/Prof Gustavo Batista)
-* Hamish Haggerty, “ Self supervised deep learning”, Masters in Statistics, from September 2022, (Primary Supervisor)
 * Ruoni Wen, Masters in Statistics, from February 2023, (Joint supervision with Dr Ehsan Farahbakhsh)
 * Mukuan Hsu, Masters in Statistics, from February 2023, (Primary Supervisor)
 * Yiwei  Chen,   Masters in Statistics, from February 2023, (Primary Supervisor)
 * Shijie Zhang,   Masters in Statistics, from February 2023, (Primary Supervisor)
- 
 
 ## Research Interns
  
-
-
 * Azal Khan, Indian Institute of Technology, Guwahati, India (January 2023 - current) 
 * Omkar Chaudhari, Indian Institute of Technology, Guwahati, India (January 2023 - current) 
 
 
-## Collaborators 
-
-
-
+ 
 
 
 ## Alumni (research student)
@@ -188,22 +174,35 @@ permalink: /team/
 
 ### Honours
 
+* Sean Luo, Honours in Data Science, from T2 2022 (Joint supervision with Dr Sahani Pathiraja)
+* George Maksour, Honours in Data Science, from T2 2022 (Joint supervision with Dr Sahani Pathiraja)
 * Jim Ng, “ Conditional ensemble deep learning for modelling Australian climate extremes: streamflow and floods“, Honours thesis, UNSW Sydney, 2022 
 * Eric Chen, “Deep learning for modelling historic ground-water levels via stream-flow and precipitation data”, Honours thesis, UNSW Sydney, 2022  
 * Royce Chen, "Pruning Bayesian neural networks with MCMC", Honours thesis, UNSW Sydney, 2022  
 * George Bai, "Bayesian neural ensemble learning with parallelized  and tempered Langevin MCMC",  Honours ithesis,  UNSW Sydney, 2021  
 * Jodie Pall, “ Bayesreef: Reef evolution using Bayesian inference”, Honours thesis, School of Geosciences, University of Sydney, 2018 (Received University Medal)  
 
-### Masters (minor thesis)
+### Masters (coursework - minor thesis)
 
-*
-*
+* Hamish Haggerty, “ Self supervised deep learning”, Masters in Statistics, May 2023, (Primary Supervisor)
+* Tianyi Wang, Revisiting world economic outlook post-COVID-19 with deep learning",     Master of Statistics,  UNSW Sydney, December 2022, (Primary Supervisor) 
+* Yuhao Ke, “Machine learning for NBA”,  Master of Statistics, School of Mathematics and Statistics, UNSW Sydney, December 2022 (Primary Supervisor)  
+* Mingyue Kang, "COVID-19 mutation over time", Master of Statistics,  UNSW Sydney, May 2022 (Principal Supervisor in collaboration with Prof. Seshadri Vasan (CSIRO)
+* Jiaxin Cathy Yu, "COVID-19 diagnosis study with big data", Master of Statistics,  UNSW Sydney, May 2022 (Principal Supervisor in collaboration with Prof. Seshadri Vasan (CSIRO)
+* Kelin Liu, "Clustering methods for vessel tracking with satellite data", Master of Statistics,  UNSW Sydney, May 2022 (Principal Supervisor in collaboration with Dr Rodney Beard (FFA)
+* Zhilin Wei, "Computer vision for aerial tracking of coastal plastic waste", Master of Statistics, UNSW Sydney, December 2021 (Principal Supervisor) 
+* Dizhou Feng, "Graph neural networks for spatiotemporal forecasting", Master of Statistics,  UNSW Sydney, December 2021 (Principal Supervisor) 
+* Yueyang Zhang, "Gradient Boosting LSTM for reducing model uncertainty", Master of Statistics,  School of Mathematics and Statistics, December 2021 (Principal Supervisor) 
+* Shaodong Lin, "World economic outlook post-COVID-19 with deep learning", Master of Statistics,  School of Mathematics and Statistics, December 2021  (Principal Supervisor) 
+* Yixuan He, "Bayesian neural learning for  financial prediction", Master of Financial Mathematics,  UNSW Sydney, August 2020 (Principal Supervisor) 
 
 
 ### Masters by Research (major thesis)
 
-*
-*
+* Chaarvi Bansal, “Machine learning Framework for COVID-19 Drug Repurposing”, M.Sc. Biological Sciences, Birla Institute in Technology and Science Pilani and UNSW Sydney, 2022 (Principal Supervisor with Prof. P. R. Deepa )
+* Julian Rodriguez, "Machine learning for spatial-temporal mineral prospecting using plate tectonic models, M.Phil, University of Sydney (External Supervisor with Prof. Dietmar Muller, 2019-2020)
+* Ratneel Deo, “Neural network methodologies for cyclone wind intensity and path prediction”, Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, December 2017 Download thesis from USP Library (Primary Supervisor - External Supervisor) (Nominated for Best Thesis - Gold Medal)
+
 
 
 ## Alumni (research interns)
