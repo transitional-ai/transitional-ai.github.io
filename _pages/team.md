@@ -170,8 +170,8 @@ permalink: /team/
 
 ### Ph.D
 
-* Amit Kumar, "Machine learning with physics-based neural networks for lung air-flow modelling", Ph.D, Beijing Institute of Technology, 2023
-* Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, Ph.D, Amirkabir University of Technology, Tehran, 2020 
+* Ph.D Amit Kumar, “Multimodal approach for clustering risk level in pulmonary fibrosis patients using respiratory and EMG data”, Ph.D, Beijing Institute of Technology, 2023
+* Ph.D Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, Ph.D, Amirkabir University of Technology, Tehran, 2020 
 
 ### Honours
 
