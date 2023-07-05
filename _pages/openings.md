@@ -6,11 +6,11 @@ sitemap: false
 permalink: /vacancies
 ---
 
-## Research Projects
+## Research programme
 
 We are currently open for HDR positions (PhD/Masters/Honours) in our group provided you bring your own scholarship or apply for UNSW PhD Scholarship. Please note UNSW PhD Scholarship is very competitive and  requires a Master's by Research thesis with a good GPA and at least a first-authored paper in a Q1 journal. More info: https://www.unsw.edu.au/research/hdr/scholarships
 
-## Potential thesis topics
+### Potential thesis topics
    
 * Remote sensing for landscape detection on Mars -- with Dr Rohitash Chandra and Prof. Cedric John (Imperial College London) 
 * Detection of hazards from cyclones using remote sensing and deep learning -- with Dr Rohitash Chandra and with Dr Ehsan Farahbakhsh (University of Sydney)
