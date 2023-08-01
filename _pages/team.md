@@ -147,6 +147,7 @@ permalink: /team/
 * Prof. Alok Sharma, RIKEN, Japan
 * Dr Abhishek Gupta, Indian Institute of Technology Goa, India
 * Prof. Ashish Anand, Indian Institute of Technology Guwahati, India
+* Prof. Yew Soon Ong, A* and Nanyang Technological University, Singapore
 * Dr Kavitesh Bali, A* and Nanyang Technological University, Singapore
 * Dr Anurag Sharma, University of the South Pacific, Fiji 
 * A/Prof. Bibhya Sharma, University of the South Pacific, Fiji
@@ -223,8 +224,8 @@ permalink: /team/
 
 * Azal Khan, Indian Institute of Technology, Guwahati, India (January - August 2022)   
 * Saharsh Bharve, Manipal Institute of Technology, India (January - May 2022)  
-* Shirin Jain,  Indian Institute of Technology, Guwahati, India  (May - August 2022)
-* Snigdha Jain, Indian Institute of Technology, Guwahati, India  (May - August 2022)
+* Shirin Jain,  Indian Institute of Technology, Guwahati, India  (May-August 2022)
+* Snigdha Jain, Indian Institute of Technology, Guwahati, India  (May-August 2022)
 * Janhavi Lande, Indian Institute of Technology, Guwahati, India (January - March 2022)  
 * Chaarvi Bansal, Birla Institute of Technology and Science, Pilani, Rajasthan, India (January - May 2022)  
 * Pranjal Singh,  Indian Institute of Technology, Guwahati, India (January - April 2022)  
