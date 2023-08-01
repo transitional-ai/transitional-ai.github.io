@@ -145,10 +145,11 @@ permalink: /team/
 * Dr Bjarne Wernicke-Olesen, Oxford Centre for Hindu Studies, Oxford University, UK
 * A/Prof Cristian Bravo Roman, Western Ontario University, Canada
 * Prof. Alok Sharma, RIKEN, Japan
-* Dr Anurag Sharma, University of the South Pacific, Fiji 
-* A/Prof. Bibhya Sharma, University of the South Pacific, Fiji
 * Dr Abhishek Gupta, Indian Institute of Technology Goa, India
 * Prof. Ashish Anand, Indian Institute of Technology Guwahati, India
+* Dr Kavitesh Bali, A* and Nanyang Technological University, Singapore
+* Dr Anurag Sharma, University of the South Pacific, Fiji 
+* A/Prof. Bibhya Sharma, University of the South Pacific, Fiji
 
 ## Masters and Honours Research Students
 
