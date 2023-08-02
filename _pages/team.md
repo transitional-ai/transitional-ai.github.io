@@ -132,6 +132,7 @@ permalink: /team/
 * Dr. Sahani Pathiraja, UNSW Sydney, Australia
 * Dr. Sarat Moka, UNSW Sydney, Australia
 * A/Prof Gustavo Batista, UNSW Sydney, Australia
+* Dr. William Zhi, Carnegie Mellon University, USA
 * Dr. Tom Blau, Data61, CSIRO, Australia
 * Dr. Laurence Wilson, CSIRO, Australia
 * Prof. Dietmar Muller, University of Sydney, Australia
@@ -171,8 +172,9 @@ permalink: /team/
 ### Ph.D
 
 * Ph.D Amit Kumar, “Multimodal approach for clustering risk level in pulmonary fibrosis patients using respiratory and EMG data”, Ph.D, Beijing Institute of Technology, 2023
-* Ph.D Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, Ph.D, Amirkabir University of Technology, Tehran, 2020 
+* Ph.D Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, Ph.D, Amirkabir University of Technology, Tehran, 2020
 
+  
 ### Honours
 
 * Sean Luo, Honours in Data Science, from T2 2022 (Joint supervision with Dr Sahani Pathiraja)
