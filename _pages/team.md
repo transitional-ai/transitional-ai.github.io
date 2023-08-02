@@ -130,34 +130,40 @@ permalink: /team/
 
 * Prof. Scott Sisson, UNSW Sydney, Australia
 * Dr. Sahani Pathiraja, UNSW Sydney, Australia
-* Dr. Sarat Moka, UNSW Sydney, Australia
+* Dr Sarat Moka, UNSW Sydney, Australia
 * A/Prof Gustavo Batista, UNSW Sydney, Australia
 * Dr. William Zhi, Carnegie Mellon University, USA
 * Dr. Tom Blau, Data61, CSIRO, Australia
-* Dr. Laurence Wilson, CSIRO, Australia
+* Dr Laurence Wilson, CSIRO, Australia
 * Prof. Dietmar Muller, University of Sydney, Australia
 * Prof. Christian Omlin, Agder University, Norway
 * Prof. Willem Vervoort, University of Sydney, Australia
 * Prof. Jody Webster, University of Sydney, Australia
 * Prof. Lucy Marshall, Macquarie University, Australia
-* A/Prof Minh-Ngoc Tran, University of Sydney, Australia
-* Prof. Sally Cripps, UTS, Australia
 * Prof. Giles Hooker, Cornell University, USA
+* Dr William Zhi, Robotics Institute, Carnegie Mellon University, USA
 * A/Prof. Cedric John, Imperial College London, UK
+* Dr Bjarne Wernicke-Olesen, Oxford Centre for Hindu Studies, Oxford University, UK
 * A/Prof Cristian Bravo Roman, Western Ontario University, Canada
 * Prof. Alok Sharma, RIKEN, Japan
-* Dr. Anurag Sharma, University of the South Pacific, Fiji 
+* Dr Abhishek Gupta, Indian Institute of Technology Goa, India
+* Prof. Ashish Anand, Indian Institute of Technology Guwahati, India
+* Prof. Yew Soon Ong, A* and Nanyang Technological University, Singapore
+* Dr Kavitesh Bali, A* and Nanyang Technological University, Singapore
+* Dr Anurag Sharma, University of the South Pacific, Fiji 
 * A/Prof. Bibhya Sharma, University of the South Pacific, Fiji
 
 ## Masters and Honours Research Students
 
+* Xuechun Wang, Honours in Data Science, from T3 2023
+* Qihan Wang, Honours in Data Science, from T3 2023
 * Albert Demskoy, Honours in Data Science, from T1 2023
-* Honghui Wang, Masters by Research, from T2 2022 (Joint supervision with A/Prof Gustavo Batista)
-* Ruoni Wen, Masters in Statistics, from February 2023, (Joint supervision with Dr Ehsan Farahbakhsh)
-* Mukuan Hsu, Masters in Statistics, from February 2023, (Primary Supervisor)
-* Yiwei  Chen,   Masters in Statistics, from February 2023, (Primary Supervisor)
-* Shijie Zhang,   Masters in Statistics, from February 2023, (Primary Supervisor)
-
+* Rahul Ahluwalia, Honours in Data Science, from T1 2023
+* Honghui Wang, Masters by Research, from T2 2022  
+* Ruoni Wen, Masters in Statistics, from February 2023 
+* Mukuan Hsu, Masters in Statistics, from February 2023 
+* Alex Bradford,   Masters in Statistics, from February 2023 
+  
 ## Research Interns
  
 * Azal Khan, Indian Institute of Technology, Guwahati, India (January 2023 - current) 
@@ -171,8 +177,13 @@ permalink: /team/
 
 ### Ph.D
 
+<<<<<<< HEAD
 * Ph.D Amit Kumar, “Multimodal approach for clustering risk level in pulmonary fibrosis patients using respiratory and EMG data”, Ph.D, Beijing Institute of Technology, 2023
 * Ph.D Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, Ph.D, Amirkabir University of Technology, Tehran, 2020
+=======
+* Dr Amit Kumar, “Multimodal approach for clustering risk level in pulmonary fibrosis patients using respiratory and EMG data”, Beijing Institute of Technology, 2023 (External supervision by Dr Chandra)
+* Dr Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, Amirkabir University of Technology, Tehran, 2020  (External supervision by Dr Chandra)
+>>>>>>> 762008b9d7f925516e987468d45cd88679385f53
 
   
 ### Honours
@@ -187,7 +198,7 @@ permalink: /team/
 
 ### Masters (coursework - minor thesis)
 
-* Hamish Haggerty, “ Self supervised deep learning”, Masters in Statistics, May 2023, (Primary Supervisor)
+* Hamish Haggerty, “Self-supervised deep learning”, Masters in Statistics, May 2023, (Primary Supervisor)
 * Tianyi Wang, Revisiting world economic outlook post-COVID-19 with deep learning",     Master of Statistics,  UNSW Sydney, December 2022, (Primary Supervisor) 
 * Yuhao Ke, “Machine learning for NBA”,  Master of Statistics, School of Mathematics and Statistics, UNSW Sydney, December 2022 (Primary Supervisor)  
 * Mingyue Kang, "COVID-19 mutation over time", Master of Statistics,  UNSW Sydney, May 2022 (Principal Supervisor in collaboration with Prof. Seshadri Vasan (CSIRO)
@@ -209,13 +220,19 @@ permalink: /team/
 
 
 ## Alumni (research interns)
+
+### 2023
+* Mahek Vora, Indian Institute of Technology Guwahati, India (January - May 2023)
+* Naman Jain, Indian Institute of Technology Delhi, India (May - July 2023)
+* Akshat Shukla, Indian Institute of Technology Guwahati, India (January - April 2023)
+  
  
 ### 2022
 
 * Azal Khan, Indian Institute of Technology, Guwahati, India (January - August 2022)   
 * Saharsh Bharve, Manipal Institute of Technology, India (January - May 2022)  
-* Shirin Jain,  Indian Institute of Technology, Guwahati, India  (May - August 2022)
-* Snigdha Jain, Indian Institute of Technology, Guwahati, India  (May - August 2022)
+* Shirin Jain,  Indian Institute of Technology, Guwahati, India  (May-August 2022)
+* Snigdha Jain, Indian Institute of Technology, Guwahati, India  (May-August 2022)
 * Janhavi Lande, Indian Institute of Technology, Guwahati, India (January - March 2022)  
 * Chaarvi Bansal, Birla Institute of Technology and Science, Pilani, Rajasthan, India (January - May 2022)  
 * Pranjal Singh,  Indian Institute of Technology, Guwahati, India (January - April 2022)  
@@ -278,4 +295,4 @@ permalink: /team/
 
 
  
- We are  looking for new PhD students, Postdocs, and Masters/Honours students to join the team. 
+ We are  looking for new PhD students, Postdocs, and Master/Honours students to join the team. 
