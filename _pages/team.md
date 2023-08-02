@@ -177,13 +177,10 @@ permalink: /team/
 
 ### Ph.D
 
-<<<<<<< HEAD
-* Ph.D Amit Kumar, “Multimodal approach for clustering risk level in pulmonary fibrosis patients using respiratory and EMG data”, Ph.D, Beijing Institute of Technology, 2023
-* Ph.D Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, Ph.D, Amirkabir University of Technology, Tehran, 2020
-=======
+
 * Dr Amit Kumar, “Multimodal approach for clustering risk level in pulmonary fibrosis patients using respiratory and EMG data”, Beijing Institute of Technology, 2023 (External supervision by Dr Chandra)
 * Dr Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, Amirkabir University of Technology, Tehran, 2020  (External supervision by Dr Chandra)
->>>>>>> 762008b9d7f925516e987468d45cd88679385f53
+
 
   
 ### Honours
