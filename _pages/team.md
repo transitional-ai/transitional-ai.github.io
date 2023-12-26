@@ -173,7 +173,7 @@ permalink: /team/
  
 
 
-## Alumni (research student)
+## Research Student Alumni  
 
 ### Ph.D
 
@@ -218,7 +218,7 @@ permalink: /team/
 
 
 
-## Alumni (research interns)
+## Research Intern Alumni 
 
 ### 2023
 * Mahek Vora, Indian Institute of Technology Guwahati, India (January - May 2023)
