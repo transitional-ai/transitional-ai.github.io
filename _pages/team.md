@@ -155,19 +155,19 @@ permalink: /team/
 
 ## Masters and Honours Research Students
 
-* Xuechun Wang, Honours in Data Science, from T3 2023
-* Qihan Wang, Honours in Data Science, from T3 2023
-* Albert Demskoy, Honours in Data Science, from T1 2023
-* Rahul Ahluwalia, Honours in Data Science, from T1 2023
-* Honghui Wang, Masters by Research, from T2 2022  
-* Ruoni Wen, Masters in Statistics, from February 2023 
-* Mukuan Hsu, Masters in Statistics, from February 2023 
-* Alex Bradford,   Masters in Statistics, from February 2023 
+* Xuechun Wang, "Evaluation of Google Translate for selected Chinese texts: sentiment and semantic analysis", Honours in Data Science, from T3 2023
+* Qihan Wang, "Detection of political bias in western media", Honours in Data Science, from T3 2023
+* Honghui Wang, "Deep learning for instant pedestrian path prediction", Masters by Research, from T2 2022 (Joint supervision with A/Prof Gustavo Batista)
+* Shuhao Huang, "Explainable artificial intelligence for drought prediction in Australia", Honours in Computer Engineering, from T3 2023
+* Yeshwanth Rayavarapu, "Comparison of GPT and  Google Translate for translation of selected Indian languages", Honours in Computer Engineering, from T3 2023
+
   
 ## Research Interns
  
-* Azal Khan, Indian Institute of Technology, Guwahati, India (January 2023 - current) 
-* Omkar Chaudhari, Indian Institute of Technology, Guwahati, India (January 2023 - current) 
+ * Vamshika Sutar, Indian Institute of Technology Bombay, India (January 2024 - present)
+ * Zihan Wang, UNSW Sydney, Australia (January 2024 - present)
+ * Samiz M. Haghighi,  UNSW Sydney, Australia (January 2024 - present)
+ * Sarthak Kapoor, Indian Institute of Technology Guwahati, India (January 2024 - present)
 
 
  
@@ -177,16 +177,15 @@ permalink: /team/
 
 ### Ph.D
 
-
 * Dr Amit Kumar, “Multimodal approach for clustering risk level in pulmonary fibrosis patients using respiratory and EMG data”, Beijing Institute of Technology, 2023 (External supervision by Dr Chandra)
 * Dr Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, Amirkabir University of Technology, Tehran, 2020  (External supervision by Dr Chandra)
-
-
   
 ### Honours
 
-* Sean Luo, Honours in Data Science, from T2 2022 (Joint supervision with Dr Sahani Pathiraja)
-* George Maksour, Honours in Data Science, from T2 2022 (Joint supervision with Dr Sahani Pathiraja)
+* Albert Demskoy, "Bayesian model for high category cyclone forecasting using  sea-surface temperature: four decades ahead", Honours in Data Science, December 2023
+* Rahul Ahluwalia, "Data augmentation for extreme value forecasting using deep learning", Honours in Data Science, December 2023
+* Sean Luo, Honours in Data Science, from T2 2022  
+* George Maksour, Honours in Data Science, from T2 2022  
 * Jim Ng, “ Conditional ensemble deep learning for modelling Australian climate extremes: streamflow and floods“, Honours thesis, UNSW Sydney, 2022 
 * Eric Chen, “Deep learning for modelling historic ground-water levels via stream-flow and precipitation data”, Honours thesis, UNSW Sydney, 2022  
 * Royce Chen, "Pruning Bayesian neural networks with MCMC", Honours thesis, UNSW Sydney, 2022  
@@ -195,6 +194,9 @@ permalink: /team/
 
 ### Masters (coursework - minor thesis)
 
+* Ruoni Wen, "Remote sensing and deep learning for landcover classification in Fiji", Masters in Statistics, August 2023, (Primary Supervisor, Co-supervisor Dr Ehsan Farahbakhsh)
+* Alex Bradford,  "Variatianal deep learning for stock price prediction",  Masters in Statistics, August 2023, (Primary Supervisor)
+* Mukuan Hsu, "Topic modelling for COVID-19 vaccine-related tweets", Masters in Computing Science,  August 2023, (Primary Supervisor)
 * Hamish Haggerty, “Self-supervised deep learning”, Masters in Statistics, May 2023, (Primary Supervisor)
 * Tianyi Wang, Revisiting world economic outlook post-COVID-19 with deep learning",     Master of Statistics,  UNSW Sydney, December 2022, (Primary Supervisor) 
 * Yuhao Ke, “Machine learning for NBA”,  Master of Statistics, School of Mathematics and Statistics, UNSW Sydney, December 2022 (Primary Supervisor)  
@@ -222,6 +224,10 @@ permalink: /team/
 * Mahek Vora, Indian Institute of Technology Guwahati, India (January - May 2023)
 * Naman Jain, Indian Institute of Technology Delhi, India (May - July 2023)
 * Akshat Shukla, Indian Institute of Technology Guwahati, India (January - April 2023)
+* Azal Khan, Indian Institute of Technology Guwahati, India (June 2023 - December 2023) 
+* Omkar Chaudhari, Indian Institute of Technology Guwahati, India (June 2023 - December 2023) 
+* Siddharth Khedkar, BITS Pilani, Rajistan, India (September 2023 - December 2023)
+* Tvisha Malik, Indian Institute of Technology Delhi, India (March 2023 - August 2023) 
   
  
 ### 2022
