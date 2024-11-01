@@ -57,13 +57,13 @@ Our research encircling methodologies and applications of artificial intelligenc
 We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and Minerals]([www.nwo.nl](https://darecentre.org.au/)) [UNSW Data Science Hub](https://www.unsw.edu.au/research/udash) and the [Geocoastal Research Group - University of Sydney](https://grgusyd.org/), and  [EarthByte Group - University of Sydney](https://www.earthbyte.org/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DARE.png" style="height: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UDASH.jpg" style="height: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GeoCoastal.png" style="height: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EarthByte.png" style="height: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DARE.png" style="height: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UDASH.jpg" style="height: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GeoCoastal.png" style="height: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EarthByte.png" style="height: 70px">
 </figure>
 
-We are  looking for passionate new research students, research interns, and collaborators to join the team.  [(More info about current and open projects.)]({{ site.url }}{{ site.baseurl }}/vacancies)  
+We are actively ooking for passionate new research students, research interns, and collaborators to join the research team. [(More info about current and open projects.)]({{ site.url }}{{ site.baseurl }}/vacancies)  
 
 
 ### Philosophy
