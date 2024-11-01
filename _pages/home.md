@@ -20,7 +20,6 @@ Our research encircling methodologies and applications of artificial intelligenc
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-
     </ol>
 
     <!-- Items -->
@@ -33,6 +32,9 @@ Our research encircling methodologies and applications of artificial intelligenc
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_tai_3.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_tai_3.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
