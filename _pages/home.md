@@ -8,12 +8,13 @@ permalink: /
 
 ### Bula Namaste!!
 
+<p>
 We are a  research group  based at the  UNSW [Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths). Our aim is develop and apply novel artificial intelligence methods to multi-disiplinary areas that includes science, engineering, and humanities.  
+</p>
 
+<p>
 Our research encircling methodologies and applications of artificial intelligence. The methodologies include  deep learning, ensemble learning, Bayesian deep learning, neuro-evolution, and data augmentation. The applications include climate extremes, geoscientific models, mineral exploration, biomedicine, natural language processing, and  COVID-19. We pioneered the area of language models for studying ancient religious-philosophical texts.  We machine learning and remote sensing for mineral exploration, and is currently focusing on critical metals. We use  deep learning for climate extremes and currently developing a model for decadal forecasts of high category cyclones. Our COVID-19 research  focuses on drug re-pourposing, infection forecasting, and social media-based language modelling.
-
-
-
+</p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -70,13 +71,9 @@ Our research encircling methodologies and applications of artificial intelligenc
   </a>
 </div>
 
-
-
-
- 
-
-
+<p>
 We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and Minerals]([www.nwo.nl](https://darecentre.org.au/)) [UNSW Data Science Hub](https://www.unsw.edu.au/research/udash) and the [Geocoastal Research Group - University of Sydney](https://grgusyd.org/), and  [EarthByte Group - University of Sydney](https://www.earthbyte.org/).
+</p>
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DARE.png" style="height: 70px">
@@ -85,8 +82,9 @@ We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EarthByte.png" style="height: 70px">
 </figure>
 
+<p>
 We are actively ooking for passionate new research students, research interns, and collaborators to join the research team. [(More info about current and open projects.)]({{ site.url }}{{ site.baseurl }}/vacancies)  
-
+</p>
 
 ### Philosophy
 
