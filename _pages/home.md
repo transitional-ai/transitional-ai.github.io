@@ -13,6 +13,8 @@ We are a  research group  based at the  UNSW [Mathematics and Statistics](https:
 Our research encircling methodologies and applications of artificial intelligence. The methodologies include  deep learning, ensemble learning, Bayesian deep learning, neuro-evolution, and data augmentation. The applications include climate extremes, geoscientific models, mineral exploration, biomedicine, natural language processing, and  COVID-19. We pioneered the area of language models for studying ancient religious-philosophical texts.  We machine learning and remote sensing for mineral exploration, and is currently focusing on critical metals. We use  deep learning for climate extremes and currently developing a model for decadal forecasts of high category cyclones. Our COVID-19 research  focuses on drug re-pourposing, infection forecasting, and social media-based language modelling.
 
 
+
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -20,22 +22,43 @@ Our research encircling methodologies and applications of artificial intelligenc
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
+        <li data-target="#carousel" data-slide-to="9"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_tai_1.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_tai_2.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_tai_3.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_tai_3.jpg" alt="Slide 4" />
-        </div>
+      <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_0.png" alt="Slide 1" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_1.jpg" alt="Slide 2" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_2.jpg" alt="Slide 3" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_3.jpg" alt="Slide 4" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_4.png" alt="Slide 5" />
+      </div>       
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_5.jpeg" alt="Slide 6" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_6.png" alt="Slide 7" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_7.jpg" alt="Slide 8" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_8.jpg" alt="Slide 9" />
+      </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -46,7 +69,6 @@ Our research encircling methodologies and applications of artificial intelligenc
     <span class="sr-only">Next</span>
   </a>
 </div>
-
 
 
 
