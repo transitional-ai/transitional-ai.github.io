@@ -15,19 +15,27 @@ Our research encircling methodologies and applications of artificial intelligenc
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
- 
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+    </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_tai_1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_tai_2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
-        </div> 
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_tai_3.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_tai_3.jpg" alt="Slide 4" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -40,17 +48,22 @@ Our research encircling methodologies and applications of artificial intelligenc
 </div>
 
 
+
+
+
  
 
 
 We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and Minerals]([www.nwo.nl](https://darecentre.org.au/)) [UNSW Data Science Hub](https://www.unsw.edu.au/research/udash) and the [Geocoastal Research Group - University of Sydney](https://grgusyd.org/), and  [EarthByte Group - University of Sydney](https://www.earthbyte.org/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px"> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DARE.png" style="height: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UDASH.jpg" style="height: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GeoCoastal.png" style="height: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EarthByte.png" style="height: 70px">
 </figure>
 
-We are  looking for passionate new research students, research interns, and collaborators to join the team.  [(More info about current and open projects.)]({{ site.url }}{{ site.baseurl }}/vacancies)  
+We are actively ooking for passionate new research students, research interns, and collaborators to join the research team. [(More info about current and open projects.)]({{ site.url }}{{ site.baseurl }}/vacancies)  
 
 
 ### Philosophy

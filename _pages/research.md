@@ -64,5 +64,9 @@ In this research direction, we used novel deep learning models to develop langua
 
 There is an immense potential for data science methods and language models   in areas of arts and humanities, particularly philosophy and religion. The  Bhagavad Gita is a sacred Hindu  philosophical text that is one of the most translated texts over the course of history. We used language models to analyse the sentiments uncovered with philosophical issues presented in the Bhagavad Gita and study the difference when comparing prominent translations (from Sanskrit to English)   (Chandra and Kulkarni, 2022). We demonstrated  that  deep learning-based language models  can be used to compare  related texts, i.e. the Bhagavad Gita with  Upanishads via topic modelling   (Chandra and Ranjan, 2022). Currently, we are developing model for  metaphor detection in  the Bhagavad Gita and  Sermon of the Mount of the  Holy Bible. We are also using  sentiment analysis for  the comparison of translations of the Sermon of the Mount. In collaboration with  Midam Charitable Trust in India, we evaluated  Google Translate Sanskrit using Bhagavad Gita translations for comparison  (Shukla et al., 2023). Currently, our focus is on  large language models such as  Chat-GPT for developing  Vedanta-GPT. This model will be trained with Bhagavad Gita and Upanishads that will be released as an online  discussion chat-bot for Hindu philosophy. We are also developing language models for humour detection in Hindu texts, and plan to use related language models for Buddhist texts. In future, we plan to use computer vision methods for the automatic archival of ancient sacred scripts in India in collaboration with the Oxford Centre for Hindu Studies.
 
+**Artificial intelligence for music and cinema**
+
+Use language models and deep learning-based computer vision methods for the analysis of movies, scripts, and songs from the viewpoint of social sciences, economics and psychology. 
+
 
  

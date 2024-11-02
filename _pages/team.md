@@ -126,32 +126,6 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Collaborators 
-
-* Prof. Scott Sisson, UNSW Sydney, Australia
-* Dr. Sahani Pathiraja, UNSW Sydney, Australia
-* Dr Sarat Moka, UNSW Sydney, Australia
-* A/Prof Gustavo Batista, UNSW Sydney, Australia
-* Dr. William Zhi, Carnegie Mellon University, USA
-* Dr. Tom Blau, Data61, CSIRO, Australia
-* Dr Laurence Wilson, CSIRO, Australia
-* Prof. Dietmar Muller, University of Sydney, Australia
-* Prof. Christian Omlin, Agder University, Norway
-* Prof. Willem Vervoort, University of Sydney, Australia
-* Prof. Jody Webster, University of Sydney, Australia
-* Prof. Lucy Marshall, Macquarie University, Australia
-* Prof. Giles Hooker, Cornell University, USA
-* Dr William Zhi, Robotics Institute, Carnegie Mellon University, USA
-* A/Prof. Cedric John, Imperial College London, UK
-* Dr Bjarne Wernicke-Olesen, Oxford Centre for Hindu Studies, Oxford University, UK
-* A/Prof Cristian Bravo Roman, Western Ontario University, Canada
-* Prof. Alok Sharma, RIKEN, Japan
-* Dr Abhishek Gupta, Indian Institute of Technology Goa, India
-* Prof. Ashish Anand, Indian Institute of Technology Guwahati, India
-* Prof. Yew Soon Ong, A* and Nanyang Technological University, Singapore
-* Dr Kavitesh Bali, A* and Nanyang Technological University, Singapore
-* Dr Anurag Sharma, University of the South Pacific, Fiji 
-* A/Prof. Bibhya Sharma, University of the South Pacific, Fiji
 
 ## Masters and Honours Research Students
 
@@ -164,10 +138,9 @@ permalink: /team/
   
 ## Research Interns
  
- * Vamshika Sutar, Indian Institute of Technology Bombay, India (January 2024 - present)
- * Zihan Wang, UNSW Sydney, Australia (January 2024 - present)
- * Samiz M. Haghighi,  UNSW Sydney, Australia (January 2024 - present)
- * Sarthak Kapoor, Indian Institute of Technology Guwahati, India (January 2024 - present)
+ * Vamshika Sutar, Indian Institute of Technology Bombay, India (January 2024 - July 2024) 
+ * Samiz M. Haghighi,  UNSW Sydney, Australia (January 2024 - July 2024)
+ * Siddharth Khedkar, Indian Institute of Technology Guwahati, India (January 2024 - May 2024)
 
 
  
@@ -296,6 +269,31 @@ permalink: /team/
 
 
 
+## Collaborators 
+
+* Prof. Scott Sisson, UNSW Sydney, Australia
+* Dr. Sahani Pathiraja, UNSW Sydney, Australia
+* A/Prof Gustavo Batista, UNSW Sydney, Australia
+* Dr. William Zhi, Carnegie Mellon University, USA
+* Dr. Tom Blau, Data61, CSIRO, Australia
+* Dr Laurence Wilson, CSIRO, Australia
+* Prof. Dietmar Muller, University of Sydney, Australia
+* Prof. Christian Omlin, Agder University, Norway
+* Prof. Willem Vervoort, University of Sydney, Australia
+* Prof. Jody Webster, University of Sydney, Australia
+* Prof. Lucy Marshall, Macquarie University, Australia
+* Prof. Giles Hooker, Cornell University, USA
+* Dr William Zhi, Robotics Institute, Carnegie Mellon University, USA
+* A/Prof. Cedric John, Imperial College London, UK
+* Dr Bjarne Wernicke-Olesen, Oxford Centre for Hindu Studies, Oxford University, UK
+* A/Prof Cristian Bravo Roman, Western Ontario University, Canada
+* Prof. Alok Sharma, RIKEN, Japan
+* Dr Abhishek Gupta, Indian Institute of Technology Goa, India
+* Prof. Ashish Anand, Indian Institute of Technology Guwahati, India
+* Prof. Yew Soon Ong, A* and Nanyang Technological University, Singapore
+* Dr Kavitesh Bali, A* and Nanyang Technological University, Singapore
+* Dr Anurag Sharma, University of the South Pacific, Fiji 
+* A/Prof. Bibhya Sharma, University of the South Pacific, Fiji
 
  
  We are  looking for new PhD students, Postdocs, and Master/Honours students to join the team. 
