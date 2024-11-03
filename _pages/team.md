@@ -271,25 +271,20 @@ permalink: /team/
 
 ## Collaborators 
 
-* Prof. Scott Sisson, UNSW Sydney, Australia
-* Dr. Sahani Pathiraja, UNSW Sydney, Australia
+* Prof. Scott Sisson, UNSW Sydney, Australia 
 * A/Prof Gustavo Batista, UNSW Sydney, Australia
-* Dr. William Zhi, Carnegie Mellon University, USA
-* Dr. Tom Blau, Data61, CSIRO, Australia
-* Dr Laurence Wilson, CSIRO, Australia
+* Dr. William Zhi, Carnegie Mellon University, USA 
 * Prof. Dietmar Muller, University of Sydney, Australia
 * Prof. Christian Omlin, Agder University, Norway
 * Prof. Willem Vervoort, University of Sydney, Australia
 * Prof. Jody Webster, University of Sydney, Australia
-* Prof. Lucy Marshall, Macquarie University, Australia
-* Prof. Giles Hooker, Cornell University, USA
+* Prof. Lucy Marshall, Macquarie University, Australia 
 * Dr William Zhi, Robotics Institute, Carnegie Mellon University, USA
 * A/Prof. Cedric John, Imperial College London, UK
 * Dr Bjarne Wernicke-Olesen, Oxford Centre for Hindu Studies, Oxford University, UK
 * A/Prof Cristian Bravo Roman, Western Ontario University, Canada
 * Prof. Alok Sharma, RIKEN, Japan
-* Dr Abhishek Gupta, Indian Institute of Technology Goa, India
-* Prof. Ashish Anand, Indian Institute of Technology Guwahati, India
+* Dr Abhishek Gupta, Indian Institute of Technology Goa, India 
 * Prof. Yew Soon Ong, A* and Nanyang Technological University, Singapore
 * Dr Kavitesh Bali, A* and Nanyang Technological University, Singapore
 * Dr Anurag Sharma, University of the South Pacific, Fiji 
@@ -297,3 +292,60 @@ permalink: /team/
 
  
  We are  looking for new PhD students, Postdocs, and Master/Honours students to join the team. 
+
+
+ 
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
+        <li data-target="#carousel" data-slide-to="9"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+      <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_0.png" alt="Slide 1" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_1.jpg" alt="Slide 2" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_2.jpg" alt="Slide 3" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_3.jpg" alt="Slide 4" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_4.png" alt="Slide 5" />
+      </div>       
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_5.jpeg" alt="Slide 6" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_6.png" alt="Slide 7" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_7.jpg" alt="Slide 8" />
+      </div>
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_8.jpg" alt="Slide 9" />
+      </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
