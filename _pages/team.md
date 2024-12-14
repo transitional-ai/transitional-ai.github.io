@@ -150,6 +150,9 @@ permalink: /team/
 
 ### Ph.D
 
+* Saman Forouzandeh, UNSW Sydney, April 2025 (Joint supervision by Dr Krivitsky and Dr Chandra)
+* Ratneel Deo, University of Sydney, April 2025 (External supervision by Dr Chandra)
+* Dr Megan Nguyen, University of Sydney, September 2024  (External supervision by Dr Chandra)
 * Dr Amit Kumar, “Multimodal approach for clustering risk level in pulmonary fibrosis patients using respiratory and EMG data”, Beijing Institute of Technology, 2023 (External supervision by Dr Chandra)
 * Dr Ehsan Farahbakhsh, “Machine learning for mineral prospecting”, Amirkabir University of Technology, Tehran, 2020  (External supervision by Dr Chandra)
   
@@ -279,7 +282,6 @@ permalink: /team/
 * Prof. Willem Vervoort, University of Sydney, Australia
 * Prof. Jody Webster, University of Sydney, Australia
 * Prof. Lucy Marshall, Macquarie University, Australia 
-* Dr William Zhi, Robotics Institute, Carnegie Mellon University, USA
 * A/Prof. Cedric John, Imperial College London, UK
 * Dr Bjarne Wernicke-Olesen, Oxford Centre for Hindu Studies, Oxford University, UK
 * A/Prof Cristian Bravo Roman, Western Ontario University, Canada
