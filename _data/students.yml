@@ -10,29 +10,8 @@
 
 - name: Arpit Kapoor
   photo: Arpit.jpeg
-  info: PhD student, School of Mathematics and Statistics, UNSW Sydney and and ARC ITTC Data Analytics for Resources and Minerals
+  info: PhD student, School of Mathematics and Statistics, UNSW Sydney  
   email: arpit.kapoor@unsw.edu.au
-  
-  
-- name: Saman Forouzandeh
-  photo: Saman.jpg
-  info: PhD student, School of Mathematics and Statistics, UNSW Sydney
-  email: s.forouzandeh@unsw.edu.au
-  
-- name: Ratneel Vikash Deo
-  photo: ratneel_profile.jpg
-  info: PhD student, School of Geosciences - University of Sydney and ARC ITTC Data Analytics for Resources and Minerals
-  email: ratneel.deo@sydney.edu.au
-  
-- name: Megan Nguyen
-  photo: Megan.png
-  info: PhD student, School of Computer Science -  University of Sydney  and ARC ITTC Data Analytics for Resources and Minerals
-  email: megannguyen6898@gmail.com
-  
-- name: Mahsa Tavakoli
-  photo: Masha.jpg
-  info: PhD student, University of Western Ontario, Canada
-  email: mtavako5@uwo.ca
   
   
 - name: Amuche Ibenegbu
@@ -41,6 +20,18 @@
   email: amucheibenegbu@gmail.com
 
 
+- name: Guoxiang Ren
+  photo: 
+  info: PhD student, School of Mathematics and Statistics, UNSW Sydney  
+  email: guoxiang.ren@unsw.edu.au
+
+  
+- name: Mahsa Tavakoli
+  photo: Masha.jpg
+  info: PhD student, University of Western Ontario, Canada
+  email: mtavako5@uwo.ca
+  
+  
 
 
 
