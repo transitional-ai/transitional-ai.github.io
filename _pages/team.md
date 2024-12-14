@@ -274,6 +274,7 @@ permalink: /team/
 
 ## Collaborators 
 
+* Dr. Eka
 * Prof. Scott Sisson, UNSW Sydney, Australia 
 * A/Prof Gustavo Batista, UNSW Sydney, Australia
 * Dr. William Zhi, Carnegie Mellon University, USA 
@@ -281,10 +282,10 @@ permalink: /team/
 * Prof. Christian Omlin, Agder University, Norway
 * Prof. Willem Vervoort, University of Sydney, Australia
 * Prof. Jody Webster, University of Sydney, Australia
-* Prof. Lucy Marshall, Macquarie University, Australia 
+* Prof. Lucy Marshall, Macquarie University, Australia
 * A/Prof. Cedric John, Imperial College London, UK
-* Dr Bjarne Wernicke-Olesen, Oxford Centre for Hindu Studies, Oxford University, UK
 * A/Prof Cristian Bravo Roman, Western Ontario University, Canada
+* Dr. Amit Kumar, Vietnam
 * Prof. Alok Sharma, RIKEN, Japan
 * Dr Abhishek Gupta, Indian Institute of Technology Goa, India 
 * Prof. Yew Soon Ong, A* and Nanyang Technological University, Singapore
