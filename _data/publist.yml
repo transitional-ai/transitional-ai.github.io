@@ -14,7 +14,7 @@
   link:
     url: http://arxiv.org/abs/2303.00135v1
     display: arxiv:2303.00135 (2023)
-  highlight: 1
+  highlight: 0
 
 - title: " An evaluation of Google Translate for Sanskrit to English translation via sentiment and semantic analysis "
   image: translate.png
@@ -32,7 +32,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0169260723000883?via%3Dihub
     display: Computer Methods and Programs in Biomedicine, vol. 231, pp. 107421 - 107421 (2023)
-  highlight: 1
+  highlight: 0
   news1:   <a style="color:#FF0000" href="https://www.youtube.com/watch?v=DnhA8h3YmJs"> Covered in 't~ai Seminar Series'  by Dr Amit Kumar</a>
    
 
@@ -43,5 +43,5 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1364815223000403?via%3Dihub
     display: Environmental Modelling & Software, vol. 162, pp. 105654 - 105654 (2023)
-  highlight: 1
+  highlight: 0
    
