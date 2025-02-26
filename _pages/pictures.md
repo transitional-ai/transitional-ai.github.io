@@ -15,11 +15,11 @@ permalink: /pictures/
 * J. Hawkins, [Github tutorial, 2024]()
 
 ## Open Datasets
-* R. Chandra, A. Singh, A. Ashok, N. Ramesh, A. Kapoor, A. Demoskoy, V. Sutar, Cyclone intensity and trajectory datasets, [GitHub repository](https://github.com/sydney-machine-learning/cyclonedatasets)
-* R. Chandra, J. Lande, [COVID-19 Global Dataset](), Kaggle, 2024
-* G. Ren and R. Chandra, [COVID-19 Global Dataset](), Kaggle, 2025
-* G. Ren and R. Chandra, [COVID-19 Global Dataset](), Kaggle, 2025
-* A. Singh and R. Chandra, [COVID-19 Global Dataset](), Kaggle, 2025
+* R. Chandra, A. Singh, A. Ashok, N. Ramesh, A. Kapoor, A. Demoskoy, V. Sutar, "Cyclone intensity and trajectory dataset", [GitHub repository](https://github.com/sydney-machine-learning/cyclonedatasets)
+* R. Chandra, J. Lande, "COVID-19 Global Dataset", Kaggle](), 2024
+* G. Ren and R. Chandra, "COVID-19 Global Dataset", Kaggle](), 2025
+* G. Ren and R. Chandra, "COVID-19 Global Dataset", Kaggle](), 2025
+* A. Singh and R. Chandra, "COVID-19 Global Dataset", Kaggle](), 2025
   
   
 ## Github
