@@ -12,37 +12,19 @@ permalink: /pictures/
 ## Tutorials
 * R. Chandra, Python Programming Bootcamp (2021): https://github.com/rohitash-chandra/python-bootcamp  [Tutorial videos ~ 16 hours](https://www.youtube.com/channel/UCE2LfEGUhHdZIM1gfQqXthw)
 * R. Chandra, R. and J. Simmons (2024). Bayesian neural networks via MCMC: a Python-based tutorial. IEEE Access: [Github](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial), [Video Tutorial](https://www.youtube.com/watch?v=L-GjYvW23BE&feature=youtu.be), [Open access paper](https://ieeexplore.ieee.org/abstract/document/10530647)
+* J. Hawkins, [Github tutorial, 2024]()
 
-## Software Frameworks
-
-* Past software releases: https://rohitash-chandra.github.io/portfolio/
-
-## Workshops
-
-
-## Social Media  
-
-### Facebook
-
-      * url: "https://www.facebook.com/trans.aigroup"
-
-### LinkedIn
-
-      * url: "https://www.linkedin.com/company/transitional-ai"
-      
-      
-### "Youtube Channel" 
-      * url: "https://www.youtube.com/@transitional-ai"
-      
-### : "ResearchGate"
-      * url: "https://www.researchgate.net/lab/Transitional-Artificial-Intelligence-Research-Group-Rohitash-Chandra" 
-
-
+## Open Datasets
+* R. Chandra, A. Singh, A. Ashok, N. Ramesh, A. Kapoor, A. Demoskoy, V. Sutar, Cyclone intensity and trajectory datasets, [GitHub repository](https://github.com/sydney-machine-learning/cyclonedatasets)
+* R. Chandra, J. Lande, [COVID-19 Global Dataset](), Kaggle, 2024
+* G. Ren and R. Chandra, [COVID-19 Global Dataset](), Kaggle, 2025
+* G. Ren and R. Chandra, [COVID-19 Global Dataset](), Kaggle, 2025
+* A. Singh and R. Chandra, [COVID-19 Global Dataset](), Kaggle, 2025
+  
   
 ## Github
+* [Sydney Machine Learning](https://github.com/sydney-machine-learning)
+* [DARE Machine Learning]()
+* [Transitional Artificial Intelligence](https://github.com/transitional-ai)
 
-### Sydney machine learning 
-      url: "https://github.com/sydney-machine-learning"
-      
-### DARE ML
  
