@@ -15,11 +15,12 @@ permalink: /pictures/
 * J. Hawkins, [Github tutorial, 2024]()
 
 ## Open Datasets
-* R. Chandra, A. Singh, A. Ashok, N. Ramesh, A. Kapoor, A. Demoskoy, V. Sutar, "Cyclone intensity and trajectory dataset", [GitHub repository](https://github.com/sydney-machine-learning/cyclonedatasets)
-* R. Chandra, J. Lande, "COVID-19 Global Dataset", Kaggle](), 2024
-* G. Ren and R. Chandra, "COVID-19 Global Dataset", Kaggle](), 2025
-* G. Ren and R. Chandra, "COVID-19 Global Dataset", Kaggle](), 2025
+*
+* G. Ren and R. Chandra, "Hollywood movie subtitle dataset", [Kaggle](https://www.kaggle.com/datasets/mlopssss/subtitles), 2025
+* G. Ren and R. Chandra, "IMDb movie reviews grouped by ratings", [Kaggle](https://www.kaggle.com/datasets/mlopssss/imdb-movie-reviews-grouped-by-ratings), 2025
 * A. Singh and R. Chandra, "COVID-19 Global Dataset", Kaggle](), 2025
+*  R. Chandra, A. Singh, A. Ashok, N. Ramesh, A. Kapoor, A. Demoskoy, V. Sutar, "Cyclone intensity and trajectory dataset", [GitHub repository](https://github.com/sydney-machine-learning/cyclonedatasets), 2024
+* R. Chandra, J. Lande, "Global COVID-19 X (Twitter) dataset", [Kaggle](https://www.kaggle.com/datasets/rohitashchandra/global-covid19-twitter-dataset), 2022
   
   
 ## Github
