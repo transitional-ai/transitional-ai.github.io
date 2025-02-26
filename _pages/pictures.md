@@ -11,7 +11,7 @@ permalink: /pictures/
 
 ## Tutorials
 * R. Chandra, Python Programming Bootcamp (2021): https://github.com/rohitash-chandra/python-bootcamp  [Tutorial videos ~ 16 hours](https://www.youtube.com/channel/UCE2LfEGUhHdZIM1gfQqXthw)
-* R. Chandra, R. and J. Simmons (2024). Bayesian neural networks via MCMC: a Python-based tutorial. IEEE Access: [Github](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial), [Video Tutorial](https://www.youtube.com/watch?v=L-GjYvW23BE&feature=youtu.be)
+* R. Chandra, R. and J. Simmons (2024). Bayesian neural networks via MCMC: a Python-based tutorial. IEEE Access: [Github](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial), [Video Tutorial](https://www.youtube.com/watch?v=L-GjYvW23BE&feature=youtu.be), [Open access paper](https://ieeexplore.ieee.org/abstract/document/10530647)
 
 ## Software Frameworks
 
