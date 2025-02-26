@@ -9,9 +9,9 @@ permalink: /pictures/
  
 * R. Chandra, ``Global COVID-19 Twitter dataset and language models for sentiment analysis and topic modelling", Melbourne University (August 2022),  University of Tasmania (September 2022), and IIT Bombay (December 2022). [Youtube]()
 
-## Tutorial and Open Educational Materials
-
-* R. Chandra, Python Programming Bootcamp (2021): https://github.com/rohitash-chandra/python-bootcamp  [Tutorial videos ~ 16 hours](https://www.youtube.com/channel/UCE2LfEGUhHdZIM1gfQqXthw) 
+## Tutorials
+* R. Chandra, Python Programming Bootcamp (2021): https://github.com/rohitash-chandra/python-bootcamp  [Tutorial videos ~ 16 hours](https://www.youtube.com/channel/UCE2LfEGUhHdZIM1gfQqXthw)
+* R. Chandra, R. and J. Simmons (2024). Bayesian neural networks via MCMC: a Python-based tutorial. IEEE Access: [Github](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial), [Video Tutorial](https://www.youtube.com/watch?v=L-GjYvW23BE&feature=youtu.be)
 
 ## Software Frameworks
 
