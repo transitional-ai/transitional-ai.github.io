@@ -2,7 +2,7 @@
 title: "t~AI - Resources"
 layout: piclay
 excerpt: "t~AI - Resources"
-permalink: /pictures/
+permalink: /resources/
 ---
 
 ## t~ai Seminar Series 
