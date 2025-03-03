@@ -38,10 +38,93 @@
 
 - title: "Cyclone trajectory and intensity prediction with uncertainty quantification using variational recurrent neural networks"
   image: cyclone.png
-  description: Cyclone track forecasting is a critical climate science problem involving time-series prediction of cyclone location and intensity. Machine learning methods have shown much promise in this domain, especially deep learning methods such as recurrent neural networks (RNNs) However, these methods generally make single-point predictions with little focus on uncertainty quantification. Although Markov Chain Monte Carlo (MCMC) methods have often been used for quantifying uncertainty in neural network predictions, these methods are computationally expensive. Variational Inference (VI) is an alternative to MCMC sampling that approximates the posterior distribution of parameters by minimizing a KL-divergence loss between the estimate and the true posterior. In this paper, we present variational RNNs for cyclone track and intensity prediction in four different regions across the globe. We utilise simple RNNs and long short-term memory (LSTM) RNNs and use the energy score (ES) to evaluate multivariate probabilistic predictions. The results show that variational RNNs provide a good approximation with uncertainty quantification when compared to conventional RNNs while maintaining prediction accuracy.   
+  description: Cyclone track forecasting is a critical climate science problem involving time-series prediction of cyclone location and intensity. Machine learning methods have shown much promise in this domain, especially deep learning methods such as recurrent neural networks (RNNs). However, these methods generally make single-point predictions with little focus on uncertainty quantification. Although Markov Chain Monte Carlo (MCMC) methods have often been used for quantifying uncertainty in neural network predictions, these methods are computationally expensive. Variational Inference (VI) is an alternative to MCMC sampling that approximates the posterior distribution of parameters by minimizing a KL-divergence loss between the estimate and the true posterior. In this paper, we present variational RNNs for cyclone track and intensity prediction in four different regions across the globe. We utilise simple RNNs and long short-term memory (LSTM) RNNs and use the energy score (ES) to evaluate multivariate probabilistic predictions. The results show that variational RNNs provide a good approximation with uncertainty quantification when compared to conventional RNNs while maintaining prediction accuracy.   
   authors:  Kapoor A; Negi A; Marshall L; Chandra R
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1364815223000403?via%3Dihub
     display: Environmental Modelling & Software, vol. 162, pp. 105654 - 105654 (2023)
   highlight: 0
-   
+  
+
+SEMINARS
+
+- title: "Longitudinal Abuse and Sentiment Analysis of Hollywood Movie Dialogues using LLMs"
+  url: https://arxiv.org/abs/2501.13948
+  YouTube: 
+
+- title: "A Machine Learning Framework for Handling Unreliable Absence Label and Class Imbalance for Marine Stinger Beaching Prediction" 
+  url:  https://arxiv.org/abs/2501.11293 
+  YouTube: https://youtu.be/NQMd6_q-HBY  
+
+- title: " Multiview graph dual-attention deep learning and contrastive learning for multi-criteria recommender systems"
+  url: http://arxiv.org/abs/2502.19271
+  YouTube: https://youtu.be/uW4LgGJbF-s
+
+- title: "Recursive Deep Learning Framework for Forecasting the Decadal World Economic Outlook"
+  url:  https://ieeexplore.ieee.org/abstract/document/10704677
+  YouTube: https://youtu.be/B7iXV3mWXyQ
+
+- title: "Remote sensing framework for geological mapping via stacked autoencoders and clustering"
+  url: https://www.sciencedirect.com/science/article/pii/S0273117724009335
+  YouTube: https://youtu.be/OFOz8NFRMhQ
+
+- title: "Bayes-CATSI: A variational Bayesian deep learning framework for medical time series data imputation"
+  url: https://arxiv.org/abs/2410.01847
+  YouTube: https://youtu.be/roWfvmFN9Qc
+
+- title: "Deepdive: Leveraging Pre-trained Deep Learning for Deep-Sea ROV Biota Identification in the Great Barrier Reef"
+  url:  https://www.nature.com/articles/s41597-024-03766-3
+  YouTube: https://youtu.be/3kVme_cCjk0
+
+- title: "Evaluation of Google Translate for Mandarin Chinese translation using sentiment and semantic analysis"
+  url: https://arxiv.org/submit/5854225
+  YouTube: https://youtu.be/QLzdrlQar2U
+
+- title: "A longitudinal sentiment analysis of Sinophobia during COVID-19 using large language models"
+  url: https://arxiv.org/abs/2408.16942
+  YouTube: https://youtu.be/hbTdRQECPoI
+
+- title: "Pedestrian trajectory prediction using goal-driven and dynamics-based deep learning framework"
+  url: https://arxiv.org/abs/2309.09021
+  YouTube: https://youtu.be/7gJ7qqYZWbo
+
+- title: "Review of deep learning models for crypto price prediction: implementation and evaluation"
+  url:  https://arxiv.org/abs/2405.11431
+  YouTube: https://youtu.be/KlkK6wnTqXQ
+
+- title: "Large language models for sentiment analysis of newspaper articles during COVID-19: The Guardian"
+  url:  https://arxiv.org/abs/2405.13056
+  YouTube: https://youtu.be/TU6Vvoj4U5Y
+
+- title: "A unified machine learning framework for basketball team roster construction: NBA and WNBA"
+  url: https://doi.org/10.1016/j.asoc.2024.111298
+  YouTube: https://youtu.be/FMmU9Ta_ICQ
+
+- title: "Variational Bayes deep learning for cyclones"
+  url: https://www.sciencedirect.com/science/article/pii/S1364815223000403
+  YouTube: https://youtu.be/QR2xoyzNKyo
+
+- title: "Multi-Modal Deep Learning for Credit Rating Prediction Using Text and Numerical Data"
+  url: https://arxiv.org/abs/2304.10740
+  YouTube: https://youtu.be/aqM5PBSIqG4
+
+- title: "A clustering-based framework for multi-source data fusion for segmentation of reef cores"
+  url: https://ieeexplore.ieee.org/abstract/document/10352143/
+  YouTube: https://youtu.be/a9HXzdDK_4U
+
+- title: "Sequential reversible jump MCMC for dynamic Bayesian neural networks"
+  url: https://www.sciencedirect.com/science/article/pii/S0925231223010834
+  YouTube: https://youtu.be/-13hc-vzq-Q
+
+- title: "Physics informed neural networks for modelling respiratory system"
+  url: https://www.sciencedirect.com/science/article/pii/S0169260723000883
+  YouTube: https://youtu.be/DnhA8h3YmJs
+
+- title: "Managerial Ability and Just-in-Time Inventory Management"
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4325002
+  YouTube: https://youtu.be/L6dO9QzHBOA
+
+- title: "Global COVID-19 Twitter dataset  and language models  for sentiment analysis and topic modelling"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255615
+  YouTube: https://youtu.be/DQ1lS8cIyl4
+
