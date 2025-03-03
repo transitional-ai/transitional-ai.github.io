@@ -50,81 +50,102 @@ SEMINAR PRESENTATIONS
 
 - title: "Longitudinal Abuse and Sentiment Analysis of Hollywood Movie Dialogues using LLMs"
   url: https://arxiv.org/abs/2501.13948
-  YouTube: 
+  display: 
+ highlight: 0
 
+  
 - title: "A Machine Learning Framework for Handling Unreliable Absence Label and Class Imbalance for Marine Stinger Beaching Prediction" 
   url:  https://arxiv.org/abs/2501.11293 
-  YouTube: https://youtu.be/NQMd6_q-HBY  
+  display: https://youtu.be/NQMd6_q-HBY  
+ highlight: 0
 
 - title: " Multiview graph dual-attention deep learning and contrastive learning for multi-criteria recommender systems"
   url: http://arxiv.org/abs/2502.19271
-  YouTube: https://youtu.be/uW4LgGJbF-s
+  display: https://youtu.be/uW4LgGJbF-s
+ highlight: 0
 
 - title: "Recursive Deep Learning Framework for Forecasting the Decadal World Economic Outlook"
   url:  https://ieeexplore.ieee.org/abstract/document/10704677
-  YouTube: https://youtu.be/B7iXV3mWXyQ
+  display: https://youtu.be/B7iXV3mWXyQ
+ highlight: 0 
 
 - title: "Remote sensing framework for geological mapping via stacked autoencoders and clustering"
   url: https://www.sciencedirect.com/science/article/pii/S0273117724009335
-  YouTube: https://youtu.be/OFOz8NFRMhQ
+  display: https://youtu.be/OFOz8NFRMhQ
+ highlight: 0
 
 - title: "Bayes-CATSI: A variational Bayesian deep learning framework for medical time series data imputation"
   url: https://arxiv.org/abs/2410.01847
-  YouTube: https://youtu.be/roWfvmFN9Qc
+  display: https://youtu.be/roWfvmFN9Qc
+ highlight: 0
 
 - title: "Deepdive: Leveraging Pre-trained Deep Learning for Deep-Sea ROV Biota Identification in the Great Barrier Reef"
   url:  https://www.nature.com/articles/s41597-024-03766-3
-  YouTube: https://youtu.be/3kVme_cCjk0
+  display: https://youtu.be/3kVme_cCjk0
+ highlight: 0
 
 - title: "Evaluation of Google Translate for Mandarin Chinese translation using sentiment and semantic analysis"
   url: https://arxiv.org/submit/5854225
-  YouTube: https://youtu.be/QLzdrlQar2U
+  display: https://youtu.be/QLzdrlQar2U
+ highlight: 0
 
 - title: "A longitudinal sentiment analysis of Sinophobia during COVID-19 using large language models"
   url: https://arxiv.org/abs/2408.16942
-  YouTube: https://youtu.be/hbTdRQECPoI
+  display: https://youtu.be/hbTdRQECPoI
+ highlight: 0
 
 - title: "Pedestrian trajectory prediction using goal-driven and dynamics-based deep learning framework"
   url: https://arxiv.org/abs/2309.09021
-  YouTube: https://youtu.be/7gJ7qqYZWbo
+  display: https://youtu.be/7gJ7qqYZWbo
+ highlight: 0
 
 - title: "Review of deep learning models for crypto price prediction: implementation and evaluation"
   url:  https://arxiv.org/abs/2405.11431
-  YouTube: https://youtu.be/KlkK6wnTqXQ
+  display: https://youtu.be/KlkK6wnTqXQ
+ highlight: 0
 
 - title: "Large language models for sentiment analysis of newspaper articles during COVID-19: The Guardian"
   url:  https://arxiv.org/abs/2405.13056
-  YouTube: https://youtu.be/TU6Vvoj4U5Y
+  display: https://youtu.be/TU6Vvoj4U5Y
+ highlight: 0
 
 - title: "A unified machine learning framework for basketball team roster construction: NBA and WNBA"
   url: https://doi.org/10.1016/j.asoc.2024.111298
-  YouTube: https://youtu.be/FMmU9Ta_ICQ
+  display: https://youtu.be/FMmU9Ta_ICQ
+ highlight: 0
 
 - title: "Variational Bayes deep learning for cyclones"
   url: https://www.sciencedirect.com/science/article/pii/S1364815223000403
-  YouTube: https://youtu.be/QR2xoyzNKyo
+  display: https://youtu.be/QR2xoyzNKyo
+ highlight: 0
 
 - title: "Multi-Modal Deep Learning for Credit Rating Prediction Using Text and Numerical Data"
   url: https://arxiv.org/abs/2304.10740
-  YouTube: https://youtu.be/aqM5PBSIqG4
+  display: https://youtu.be/aqM5PBSIqG4
+ highlight: 0
 
 - title: "A clustering-based framework for multi-source data fusion for segmentation of reef cores"
   url: https://ieeexplore.ieee.org/abstract/document/10352143/
-  YouTube: https://youtu.be/a9HXzdDK_4U
+  display: https://youtu.be/a9HXzdDK_4U
+ highlight: 0
 
 - title: "Sequential reversible jump MCMC for dynamic Bayesian neural networks"
   url: https://www.sciencedirect.com/science/article/pii/S0925231223010834
-  YouTube: https://youtu.be/-13hc-vzq-Q
+  display: https://youtu.be/-13hc-vzq-Q
+ highlight: 0
 
 - title: "Physics informed neural networks for modelling respiratory system"
   url: https://www.sciencedirect.com/science/article/pii/S0169260723000883
-  YouTube: https://youtu.be/DnhA8h3YmJs
+  display: https://youtu.be/DnhA8h3YmJs
+ highlight: 0
 
 - title: "Managerial Ability and Just-in-Time Inventory Management"
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4325002
-  YouTube: https://youtu.be/L6dO9QzHBOA
+  display: https://youtu.be/L6dO9QzHBOA
+ highlight: 0
 
 - title: "Global COVID-19 Twitter dataset  and language models  for sentiment analysis and topic modelling"
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255615
-  YouTube: https://youtu.be/DQ1lS8cIyl4
+  display: https://youtu.be/DQ1lS8cIyl4
+ highlight: 0
 
