@@ -6,7 +6,7 @@ permalink: /resources/
 ---
 
 ## t~ai Seminar Series 
-[See full list of Seminars here](/seminars/) 
+[See full list of Seminars here](/_pages/seminars.md) 
 
 * R. Chandra, ``Global COVID-19 Twitter dataset and language models for sentiment analysis and topic modelling", Melbourne University (August 2022),  University of Tasmania (September 2022), and IIT Bombay (December 2022). [Youtube]()
 
