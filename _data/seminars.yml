@@ -1,50 +1,57 @@
 - title: "Longitudinal Abuse and Sentiment Analysis of Hollywood Movie Dialogues using LLMs"
   authors: Rohitash Chandra, Guoxiang Ren, Group-H 
   url: https://arxiv.org/abs/2501.13948
-  display: Arxive Paper
+  display: arXiv
   video: youtube link here
+  Date: February 2025
   
-  
+
 - title: "A Machine Learning Framework for Handling Unreliable Absence Label and Class Imbalance for Marine Stinger Beaching Prediction" 
   authors: Amuche Ibenegbu, Amandine Schaeffer, Pierre Lafaye de Micheaux, Rohitash Chandra
   url:  https://arxiv.org/abs/2501.11293 
-  display: Arxive Paper
+  display: arXiv
   video: https://youtu.be/NQMd6_q-HBY  
-  
+  Date: February 2025
+
 
 - title: " Multiview graph dual-attention deep learning and contrastive learning for multi-criteria recommender systems"
   authors: Saman Forouzandeh, Pavel N. Krivitsky, Rohitash Chandra
   url: http://arxiv.org/abs/2502.19271
-  display: Arxive Paper
+  display: arXiv
   video: https://youtu.be/uW4LgGJbF-s
- 
+  Date: November 2024
+
 
 - title: "Recursive Deep Learning Framework for Forecasting the Decadal World Economic Outlook"
   authors: Tianyi Wang; Rodney Beard, John Hawkins, Rohitash Chandra
   url:  https://ieeexplore.ieee.org/abstract/document/10704677
-  display: IEEE paper
+  display: IEEE access
   video: https://youtu.be/B7iXV3mWXyQ
-  
+  Date: Novemeber 2024
+
 
 - title: "Remote sensing framework for geological mapping via stacked autoencoders and clustering"
   authors: Sandeep Nagar, Ehsan Farahbakhsh, Joseph Awange, Rohitash Chandra
   url: https://doi.org/10.1016/j.asr.2024.09.013
-  display: Journal of Advances in Space Research
+  display: Advances in Space Research
   video: https://youtu.be/OFOz8NFRMhQ
+  Date: November 2024
  
 
 - title: "Bayes-CATSI: A variational Bayesian deep learning framework for medical time series data imputation"
   authors: Omkar Kulkarni, Rohitash Chandra
   url: https://arxiv.org/abs/2410.01847
-  display: Arxive Paper
+  display: arXiv
   video: https://youtu.be/roWfvmFN9Qc
+  Date: October 2024
  
 
 - title: "Deepdive: Leveraging Pre-trained Deep Learning for Deep-Sea ROV Biota Identification in the Great Barrier Reef"
   authors: Ratneel Deo, Cédric M. John, Chen Zhang, Kate Whitton, Tristan Salles, Jody M.Webste, RohitashChandra
   url: https://doi.org/10.1038/s41597-024-03766-3
-  display: Journal of Scientific Data
+  display: Scientific Data
   video: https://youtu.be/3kVme_cCjk0
+  Date: September 2024
   
 
 - title: "Evaluation of Google Translate for Mandarin Chinese translation using sentiment and semantic analysis"
@@ -52,89 +59,116 @@
   url: https://arxiv.org/abs/2409.04964
   display: Arxive Paper
   video: https://youtu.be/QLzdrlQar2U
+  Date: September 2024
  
 
 - title: "A longitudinal sentiment analysis of Sinophobia during COVID-19 using large language models"
   authors: Chen Wang, Rohitash Chandra
   url: https://arxiv.org/abs/2408.16942
-  display: Arxive Paper
+  display: arXiv
   video: https://youtu.be/hbTdRQECPoI
+  Date: September 2024
 
 
 - title: "Pedestrian trajectory prediction using goal-driven and dynamics-based deep learning framework"
   authors: Honghui Wang, Weiming Zhi, Gustavo Batista, Rohitash Chandra
   url: https://doi.org/10.1016/j.eswa.2025.126557
-  display: Journal of Expert Systems with Applications
+  display: Expert Systems with Applications
   video: https://youtu.be/7gJ7qqYZWbo
+  Date: June 2024
  
 
 - title: "Review of deep learning models for crypto price prediction: implementation and evaluation"
   authors: Jingyang Wu, Xinyi Zhang, Fangyixuan Huang, Haochen Zhou, Rohtiash Chandra
   url:  https://arxiv.org/abs/2405.11431
-  display: Arxive Paper
+  display: arXiv
   video: https://youtu.be/KlkK6wnTqXQ
+  Date: June 2024
   
 
 - title: "Large language models for sentiment analysis of newspaper articles during COVID-19: The Guardian"
   authors: Rohitash Chandra, Baicheng Zhu, Qingying Fang, Eka Shinjikashvili
   url: https://doi.org/10.48550/arXiv.2405.13056
-  display: Arxive Paper
+  display: arXiv
   video: https://youtu.be/TU6Vvoj4U5Y
+  Date: May 2024
  
 
 - title: "A unified machine learning framework for basketball team roster construction: NBA and WNBA"
   authors: Yuhao Ke, Ranran Bian, Rohitash Chandra
   url: https://doi.org/10.1016/j.asoc.2024.111298
-  display: Journal of Applied Soft Computing
+  display: Applied Soft Computing
   video: https://youtu.be/FMmU9Ta_ICQ
+  Date: April 2024
  
+- title: Synergy of remote sensing data and machine learning for geological mapping
+  authors: Hojat Shirmard, Ehsan Farahbakhsh, Elnaz Heidari, Amin Beiranvand Pour, Biswajeet Pradhan, Dietmar Müller, Rohitash Chandra,
+  url: https://doi.org/10.3390/rs14040819
+  display: MDPI Remote Sensing
+  video: https://youtu.be/4jqgWmTyO2g
+  Date: December 2023
+
 
 - title: "Variational Bayes deep learning for cyclones"
   authors: Arpit Kapoor, Anshul Negi, Lucy Marshall, Rohitash Chandra
   url: https://doi.org/10.1016/j.envsoft.2023.105654
-  display: Journal of Environmental Modelling & Software
+  display: Environmental Modelling & Software
   video: https://youtu.be/QR2xoyzNKyo
+  Date: Novemeber 2023
   
 
 - title: "Multi-Modal Deep Learning for Credit Rating Prediction Using Text and Numerical Data Streams"
   authors: Mahsa Tavakoli, Rohitash Chandra, Fengrui Tian, Cristián Bravo
   url: https://doi.org/10.1016/j.asoc.2025.112771
-  display: Journal of Applied Soft Computing
+  display: Applied Soft Computing
   video: https://youtu.be/aqM5PBSIqG4
- 
+  Date: October 2023
+
 
 - title: "ReefCoreSeg: A Clustering-Based Framework for Multi-Source Data Fusion for Segmentation of Reef Drill Cores"
   authors: Ratneel Deo, Jody M. Webster, Tristan Salles, Rohitash Chandra
   url: https://ieeexplore.ieee.org/abstract/document/10352143/
-  display: IEEE paper
+  display: IEEE access
   video: https://youtu.be/a9HXzdDK_4U
+  Date: April 2023
   
 
 - title: "Sequential reversible jump MCMC for dynamic Bayesian neural networks"
   authors: Minh Nguyen, Minh-Ngoc Tran, Rohitash Chandra 
   url: https://doi.org/10.1016/j.neucom.2023.126960
-  display: Journal of Neurocomputing
+  display: Neurocomputing
   video: https://youtu.be/-13hc-vzq-Q
+  Date: April 2023
  
 
 - title: "Physics informed neural networks for modelling respiratory system"
   authors: Amit Krishan Kumar, Snigdha Jain, Shirin Jain, M. Ritam, Yuanqing Xia, Rohitash Chandra
   url: https://doi.org/10.1016/j.cmpb.2023.107421
-  display: Journal of Computer Methods and Programs in Biomedicine
+  display: Computer Methods and Programs in Biomedicine
   video: https://youtu.be/DnhA8h3YmJs
+  Date: March 2023
  
 
 - title: "Managerial Ability and Just-in-Time Inventory Management"
   authors: Kumari Ranjeeni, Cameron Truong, Ralph Kober
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4325002
-  display: SSRN paper
+  display: SSRN 
   video: https://youtu.be/L6dO9QzHBOA
+  Date: March 2023
+
+
+- title: Semantic and Sentiment Analysis of Selected Bhagavad Gita Translations Using BERT-Based Language Framework
+  authors: Rohitash Chandra, Venkatesh Kulkarni
+  url: 10.1109/ACCESS.2022.3152266
+  display: IEEE Access
+  video: https://youtu.be/4jqgWmTyO2g
+  Date: November 2022
   
 
 - title: "Global COVID-19 Twitter dataset  and language models  for sentiment analysis and topic modelling"
   authors: Rohitash Chandra, Aswin Krishna
   url: https://doi.org/10.1371/journal.pone.0255615
-  display: PLOS ONE paper
+  display: PLOS ONE 
   video: https://youtu.be/DQ1lS8cIyl4
-
+  Date: November 2022
 
