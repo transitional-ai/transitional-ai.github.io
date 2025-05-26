@@ -46,6 +46,9 @@ Our research encircling methodologies and applications of artificial intelligenc
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics.jpg" alt="Slide 5" />
       </div> 
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics_3.jpg" alt="Slide 6" />
+      </div> 
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -67,7 +70,7 @@ We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GeoCoastal.png" style="height: 70px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EarthByte.png" style="height: 70px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BBQ_Pics" style="height: 70px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BBQ_Pics 3" style="height: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BBQ_Pics_3" style="height: 70px">
 </figure>
 
 <p>
