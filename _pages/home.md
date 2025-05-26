@@ -66,6 +66,7 @@ We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UDASH.jpg" style="height: 70px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GeoCoastal.png" style="height: 70px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EarthByte.png" style="height: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BBQ_Pics" style="height: 70px">
 </figure>
 
 <p>
