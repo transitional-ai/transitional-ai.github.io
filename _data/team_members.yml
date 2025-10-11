@@ -9,10 +9,10 @@
   email: e.farahbakhsh@sydney.edu.au
 
   
-- name: Dr Pavel Krivitsky 
-  photo: Pavel.jpeg 
-  info: Senior Lecturer in Data Science, University of New South Wales. <a href="https://scholar.google.com/citations?hl=de&user=MfT1V7EAAAAJ"> Google Scholar </a>  <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/e-farahbakhsh.html"> Web </a> 
-  email: p.krivitsky@unsw.edu.au
+- name:  Dr Ratneel Deo
+  photo:  Ratneel.jpg
+  info:  Deputy Director, Postdoc Research Associate, University of Sydney. <a href="https://scholar.google.com.au/citations?user=74N6V5sAAAAJ&hl=en"> Google Scholar
+  email:  ratneel.deo@sydney.edu.au
 
 
 - name: Dr Rodney Beard
@@ -26,10 +26,11 @@
   email: hawkins.john.c@gmail.com 
  
   
-- name:  Ratneel Deo
-  photo:  Ratneel.jpg
-  info:  Centre for Artificial Intelligence and Innovation, Pingla Institute. <a href="https://scholar.google.com.au/citations?user=74N6V5sAAAAJ&hl=en"> Google Scholar
-  email:  ratneel.deo@sydney.edu.au
+  
+- name: Dr Pavel Krivitsky 
+  photo: Pavel.jpeg 
+  info: Senior Lecturer in Data Science, University of New South Wales. <a href="https://scholar.google.com/citations?hl=de&user=MfT1V7EAAAAJ"> Google Scholar </a>  <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/e-farahbakhsh.html"> Web </a> 
+  email: p.krivitsky@unsw.edu.au
 
   
 - name:  Saman Forouzandeh 
