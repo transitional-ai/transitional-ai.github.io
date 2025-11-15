@@ -156,7 +156,7 @@ permalink: /team/
 
 ### Honours
 
-*  Raine Bianchini, "Languge models for audio transcription analysis in movies", Honours in Quantitative Data science, August 2025 (Principal Supervisor)
+*  Raine Bianchini, "Language models for audio transcription analysis in movies", Honours in Quantitative Data Science, August 2025 (Principal Supervisor)
 * Omkar Chaudhary, "Financial fraud detection in cryptocurrency using graph-based deep learning", Honours thesis in Economics, BITS Pilani -Goa, India, July 2025 (Principal Supervisor)
 * Xuechun Wang, "Evaluation of Google Translate for selected Chinese texts: sentiment and semantic analysis", Honours in Quantitative Data Science, August 2024  (Principal Supervisor with Dr Rodney Beard) 
 * Shuhao Huang, "Explainable artificial intelligence for drought prediction in Australia", Honours in Computer Engineering, May 2024
@@ -167,18 +167,18 @@ permalink: /team/
 * Jim Ng, “ Conditional ensemble deep learning for modelling Australian climate extremes: streamflow and floods“, Honours thesis, UNSW Sydney, December 2022 (Primary Supervisor with A/Prof Willem Vervoot)
 * Eric Chen, “Deep learning for modelling historic ground-water levels via stream-flow and precipitation data”, Honours thesis, UNSW Sydney, December 2022 (Primary Supervisor with A/Prof Martin Anderson)
 * Royce Chen, "Pruning Bayesian neural networks with MCMC", Honours thesis, UNSW Sydney, December 2022 (Joint supervision with Dr Sahani Pathiraja)
-* George Bai, "Bayesian neural ensemble learning with parallelized  and tempered Langevin MCMC",  Honours thesis,  UNSW Sydney, December 2021 (Principal Supervisor)
+* George Bai, "Bayesian neural ensemble learning with parallelised  and tempered Langevin MCMC",  Honours thesis,  UNSW Sydney, December 2021 (Principal Supervisor)
  
  ### Masters (coursework - minor thesis)
 
-* Zhenyu Zhu, "Sanskrit optical charator recognisition using advanced deep learning models", Master's in Data Science and Decisions,  August 2025 (Principal Supervisor)
+* Zhenyu Zhu, "Sanskrit optical character recognition using advanced deep learning models", Master's in Data Science and Decisions,  August 2025 (Principal Supervisor)
 * Ziyu Lei, "Political leaning analysis by large language models", Master's in Statistics, May 2025 (Principal Supervisor)
 * Yizhen Fan, "Electric load forecasting using deep learning models", Master's in  Financial Mathematics, August 2025 (Principal Supervisor)
 * Junru Hua, "Extreme value forecasting with data augmentation and deep learning ", Master's in  Data Science and Decisions,  August 2025 (Principal Supervisor)
 * Chen Wang, "Sinophobia during COVID-19: Twitter ", Master's in Data Science, August 2024 (Principal Supervisor) 
 * Tanay Panat, " Global ease of living index with data imputation and dimentionality reduction", Master's in Data Science, December 2024 (Principal Supervisor) 
 * Yeshwanth Rayavarapu, "Comparison of GPT and  Google Translate for translation of selected Indian languages", Master's in Data Science, May 2024, (Principal Supervisor) 
-* Ruoni Wen, "Remote sensing and deep learning for landcover classification in Fiji", Master's in Statistics, August 2023, (Principal Supervisor) , Co-supervisor Dr Ehsan Farahbakhsh)
+* Ruoni Wen, "Remote sensing and deep learning for landcover classification in Fiji", Master's in Statistics, August 2023, (Principal Supervisor), Co-supervisor Dr Ehsan Farahbakhsh)
 * Alex Bradford,  "Variational deep learning for stock price prediction",  Master's in Statistics, August 2023, (Principal Supervisor) 
 * Mukuan Hsu, "Topic modelling for COVID-19 vaccine-related tweets", Master's in Computing Science,  August 2023, (Principal Supervisor) 
 * Hamish Haggerty, “Self-supervised deep learning”, Master's in Statistics, May 2023, (Principal Supervisor) 
@@ -298,10 +298,9 @@ permalink: /team/
 
 ## Collaborators 
 
-* Dr. Eka
 * Prof. Scott Sisson, UNSW Sydney, Australia 
 * A/Prof Gustavo Batista, UNSW Sydney, Australia
-* Dr. William Zhi, Carnegie Mellon University, USA 
+* Dr William Zhi, Carnegie Mellon University, USA 
 * Prof. Dietmar Muller, University of Sydney, Australia
 * Prof. Christian Omlin, Agder University, Norway
 * Prof. Willem Vervoort, University of Sydney, Australia
@@ -309,7 +308,7 @@ permalink: /team/
 * Prof. Lucy Marshall, Macquarie University, Australia
 * A/Prof. Cedric John, Imperial College London, UK
 * A/Prof Cristian Bravo Roman, Western Ontario University, Canada
-* Dr. Amit Kumar, Vietnam
+* Dr Amit Kumar, Vietnam
 * Prof. Alok Sharma, RIKEN, Japan
 * Dr Abhishek Gupta, Indian Institute of Technology Goa, India 
 * Prof. Yew Soon Ong, A* and Nanyang Technological University, Singapore
@@ -318,7 +317,7 @@ permalink: /team/
 * A/Prof. Bibhya Sharma, University of the South Pacific, Fiji
 
  
- We are  looking for new PhD students, Postdocs, and Master/Honours students to join the team. 
+ We are  looking for new PhD students, Postdocs, and Master's/Honours students to join the team. 
 
 
  
