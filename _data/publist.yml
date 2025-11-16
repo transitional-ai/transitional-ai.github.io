@@ -1,47 +1,430 @@
+- title: "QDeepGR4J: Quantile-based ensemble of deep learning and GR4J hybrid rainfall-runoff models for extreme flow prediction with uncertainty quantification"
+  authors: "Arpit Kapoor, Rohitash Chandra"
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2025.134434
+    display: "Journal of Hydrology, Volume 664, Part B, January 2026, 134434"
+  highlight: 0
+
+- title: "Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars"
+  authors: "Tejay Lovelock, Rohitash Chandra"
+  link:
+    url: https://doi.org/10.3390/rs17213578
+    display: "Remote Sens. 2025, 17(21), 3578"
+  highlight: 0
+
+- title: "Convolutional Neural Networks for Mineral Prospecting Through Alteration Mapping with Remote Sensing Data"
+  authors: "Ehsan Farahbakhsh, Dakshi Goel, Dhiraj Pimparkar, R. Dietmar Müller & Rohitash Chandra"
+  link:
+    url: https://doi.org/10.1007/s41064-025-00344-z
+    display: "PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science, Volume 93, pages 379–400, (2025)"
+  highlight: 0
+
+- title: "Pedestrian trajectory prediction using goal-driven and dynamics-based deep learning framework"
+  authors: "Honghui Wang, Weiming Zhi, Gustavo Batista, Rohitash Chandra"
+  link:
+    url: https://doi.org/10.1016/j.eswa.2025.126557
+    display: "Expert Systems with Applications, Volume 271, 1 May 2025, 126557"
+  highlight: 0
+
+- title: "Large language models for newspaper sentiment analysis during COVID-19: The Guardian"
+  authors: "Rohitash Chandra, Baicheng Zhu, Qingying Fang, Eka Shinjikashvili"
+  link:
+    url: https://doi.org/10.1016/j.asoc.2025.112743
+    display: "Applied Soft Computing Volume 171, March 2025, 112743"
+  highlight: 0
+
+- title: "Multi-modal deep learning for credit rating prediction using text and numerical data streams"
+  authors: "Mahsa Tavakoli, Rohitash Chandra, Fengrui Tian, Cristián Bravo"
+  link:
+    url: https://doi.org/10.1016/j.asoc.2025.112771
+    display: "Applied Soft Computing Volume 171, March 2025, 112771"
+  highlight: 0
+
+- title: "An Evaluation of LLMs and Google Translate for Translation of Selected Indian Languages via Sentiment and Semantic Analyses"
+  authors: "Rohitash Chandra; Aryan Chaudhari; Yeshwanth Rayavarapu"
+  link:
+    url: https://ieeexplore.ieee.org/document/11071312
+    display: "IEEE Access (Volume: 13), 122386 - 122407, 03 July 2025"
+  highlight: 0
+
+- title: "HP-BERT: A Framework for Longitudinal Study of Hinduphobia on Social Media via Language Models"
+  authors: "Ashutosh Singh; Rohitash Chandra"
+  link:
+    url: https://ieeexplore.ieee.org/document/11192418
+    display: "IEEE Access (Volume: 13), 175309 - 175335, 03 October 2025"
+  highlight: 0
+
+- title: "Science and Hinduism share the vision of a quest for truth"
+  authors: "Rohitash Chandra"
+  link:
+    url: https://www.nature.com/articles/s41562-024-02055-8
+    display: "Nature Human Behaviour volume 9, pages7–8 (2025)"
+  highlight: 0
+
+- title: "Longitudinal abuse and sentiment analysis of Hollywood movie dialogues using language models"
+  authors: "Rohitash Chandra, Guoxiang Ren"
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S266682702500132X?via%3Dihub
+    display: "Machine Learning with Applications, Volume 22, December 2025, 100749"
+  highlight: 0
+
 - title: "An Analysis of Vaccine-Related Sentiments on Twitter (X) from Development to Deployment of COVID-19 Vaccines"
-  image: vaccine_polarity.png 
-  authors: Rohitash Chandra, Jayesh Sonawane, Jahnavi Lande 
+  image: vaccine_polarity.png
+  authors: "Rohitash Chandra, Jayesh Sonawane, Jahnavi Lande"
   description: Anti-vaccine sentiments have been well-known and reported throughout the history of viral outbreaks and vaccination programmes. The COVID-19 pandemic caused fear and uncertainty about vaccines, which has been well expressed on social media platforms such as Twitter (X). We analyse sentiments from the beginning of the COVID-19 pandemic and study the public behaviour on X during the planning, development, and deployment of vaccines expressed in tweets worldwide using a sentiment analysis framework via deep learning models. We provide visualisation and analysis of anti-vaccine sentiments throughout the COVID-19 pandemic. We review the nature of the sentiments expressed with the number of tweets and monthly COVID-19 infections. Our results show a link between the number of tweets, the number of cases, and the change in sentiment polarity scores during major waves of COVID-19. We also find that the first half of the pandemic had drastic changes in the sentiment polarity scores that later stabilised, implying that the vaccine rollout impacted the nature of discussions on social media.
   link:
-    url: https://doi.org/10.3390/bdcc8120186 
+    url: https://doi.org/10.3390/bdcc8120186
     display: https://doi.org/10.3390/bdcc8120186
   highlight: 1
 
+- title: "Deepdive: Leveraging Pre-trained Deep Learning for Deep-Sea ROV Biota Identification in the Great Barrier Reef"
+  authors: "Ratneel Deo, Cédric M. John, Chen Zhang, Kate Whitton, Tristan Salles, Jody M. Webster, Rohitash Chandra"
+  link:
+    url: https://www.nature.com/articles/s41597-024-03766-3
+    display: "Scientific Data volume 11, Article number: 957 (2024)"
+  highlight: 0
+
+- title: "Remote sensing framework for geological mapping via stacked autoencoders and clustering"
+  authors: "Sandeep Nagar, Ehsan Farahbakhsh, Joseph Awange, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0273117724009335?via%3Dihub
+    display: "Advances in Space Research, Volume 74, Issue 10, 15 November 2024, Pages 4502-4516"
+  highlight: 0
+
+- title: "A clustering and graph deep learning-based framework for COVID-19 drug repurposing"
+  authors: "Chaarvi Bansal, P.R. Deepa, Vinti Agarwal, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0957417424004251?via%3Dihub
+    display: "Expert Systems with Applications, Volume 249, Part A, 1 September 2024, 123560"
+  highlight: 0
+
+- title: "Deep learning framework with Bayesian data imputation for modelling and forecasting groundwater levels"
+  authors: "Eric Chen, Martin S. Andersen, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1364815224001336?via%3Dihub
+    display: "Environmental Modelling & Software, Volume 178, July 2024, 106072"
+  highlight: 0
+
+- title: "A review of ensemble learning and data augmentation models for class imbalanced problems: Combination, implementation and evaluation"
+  authors: "Azal Ahmad Khan, Omkar Chaudhari, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0957417423032803?via%3Dihub
+    display: "Expert Systems with Applications, Volume 244, 15 June 2024, 122778"
+  highlight: 0
+
+- title: "A unified machine learning framework for basketball team roster construction: NBA and WNBA"
+  authors: "Yuhao Ke, Ranran Bian, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1568494624000723?via%3Dihub
+    display: "Applied Soft Computing, Volume 153, March 2024, 111298"
+  highlight: 0
+
+- title: "Sequential reversible jump MCMC for dynamic Bayesian neural networks"
+  authors: "Nhat Minh Nguyen, Minh-Ngoc Tran, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0925231223010834?via%3Dihub
+    display: "Neurocomputing, Volume 564, 7 January 2024, 126960"
+  highlight: 0
+
+- title: "A Quantum-Inspired Predator–Prey Algorithm for Real-Parameter Optimization"
+  authors: "Azal Ahmad Khan, Salman Hussain, Rohitash Chandra"
+  link:
+    url: https://www.mdpi.com/1999-4893/17/1/33
+    display: "Algorithms 2024, 17(1), 33"
+  highlight: 0
+
+- title: "Bayesian Neural Networks via MCMC: A Python-Based Tutorial"
+  authors: "Rohitash Chandra, Joshua Simmons"
+  link:
+    url: https://ieeexplore.ieee.org/document/10530647
+    display: "IEEE Access, Volume: 12, 70519 - 70549, 15 May 2024"
+  highlight: 0
+
+- title: "Large Language Models for Metaphor Detection: Bhagavad Gita and Sermon on the Mount"
+  authors: "Rohitash Chandra, Abhishek Tiwari, Naman Jain, Sushrut Badhe"
+  link:
+    url: http://dx.doi.org/10.1109/ACCESS.2024.3411060
+    display: "IEEE Access, 12, pp. 84452 - 84469"
+  highlight: 0
+
+- title: "Recursive Deep Learning Framework for Forecasting the Decadal World Economic Outlook"
+  authors: "Tianyi Wang, Rodney Beard, John Hawkins, Rohitash Chandra"
+  link:
+    url: https://ieeexplore.ieee.org/document/10704677
+    display: "IEEE Access, 12, pp. 152921 - 152944"
+  highlight: 0
+
+- title: "ReefCoreSeg: A Clustering-Based Framework for Multi-Source Data Fusion for Segmentation of Reef Drill Cores"
+  authors: "Ratneel Deo, Jody M. Webster, Tristan Salles, Rohitash Chandra"
+  link:
+    url: https://ieeexplore.ieee.org/document/10352143
+    display: "IEEE Access, 12, pp. 12164 - 12180"
+  highlight: 0
+
+- title: "Memory capacity of recurrent neural networks with matrix representation"
+  authors: "Animesh Renanse, Alok Sharma, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0925231223009475?via%3Dihub
+    display: "Neurocomputing, 560"
+  highlight: 0
+
+- title: "Surrogate-assisted distributed swarm optimisation for computationally expensive geoscientific models"
+  authors: "Rohitash Chandra, Yash Vardhan Sharma"
+  link:
+    url: https://link.springer.com/article/10.1007/s10596-023-10223-4
+    display: "Computational Geosciences, Volume 27, pages 939–954, (2023)"
+  highlight: 0
+
+- title: "Gradient boosting Bayesian neural networks via Langevin MCMC"
+  authors: "George Bai, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0925231223008494?via%3Dihub
+    display: "Neurocomputing, Volume 558, 14 November 2023, 126726"
+  highlight: 0
+
+- title: "DeepGR4J: A deep learning hybridization approach for conceptual rainfall-runoff modelling"
+  authors: "Arpit Kapoor, Sahani Pathiraja, Lucy Marshall, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1364815223002177?via%3Dihub
+    display: "Environmental Modelling & Software, Volume 169, November 2023, 105831"
+  highlight: 0
+
 - title: "Deep learning for COVID-19 topic modelling via Twitter: Alpha, Delta and Omicron"
   image: twitter.png
-  description:  Topic modelling with innovative deep learning methods has gained interest for a wide range of applications that includes COVID-19. Topic modelling can provide, psychological, social and cultural insights for understanding human behaviour in extreme events such as the COVID-19 pandemic. In this paper, we use prominent deep learning-based language models for COVID-19 topic modelling taking into account data from emergence (Alpha) to the Omicron variant. We apply topic modeling to review the public behaviour across the first, second and third waves based on Twitter dataset from India. Our results show that the topics extracted for the subsequent waves had certain overlapping themes such as covers governance, vaccination, and pandemic management while novel issues aroused in political, social and economic situation during COVID-19 pandemic. We also found a strong correlation of the major topics qualitatively to news media prevalent at the respective time period. Hence, our framework has the potential to capture major issues arising during different phases of the COVID-19 pandemic which can be extended to other countries and regions.
-  authors: Lande J; Pillay A; Chandra R
+  description: Topic modelling with innovative deep learning methods has gained interest for a wide range of applications that includes COVID-19. Topic modelling can provide, psychological, social and cultural insights for understanding human behaviour in extreme events such as the COVID-19 pandemic. In this paper, we use prominent deep learning-based language models for COVID-19 topic modelling taking into account data from emergence (Alpha) to the Omicron variant. We apply topic modeling to review the public behaviour across the first, second and third waves based on Twitter dataset from India. Our results show that the topics extracted for the subsequent waves had certain overlapping themes such as covers governance, vaccination, and pandemic management while novel issues aroused in political, social and economic situation during COVID-19 pandemic. We also found a strong correlation of the major topics qualitatively to news media prevalent at the respective time period. Hence, our framework has the potential to capture major issues arising during different phases of the COVID-19 pandemic which can be extended to other countries and regions.
+  authors: "Lande J; Pillay A; Chandra R"
   link:
     url: http://arxiv.org/abs/2303.00135v1
     display: arxiv:2303.00135 (2023)
   highlight: 0
 
-- title: " An evaluation of Google Translate for Sanskrit to English translation via sentiment and semantic analysis "
+- title: "Reef-Insight: A Framework for Reef Habitat Mapping with Clustering Methods Using Remote Sensing"
+  authors: "Saharsh Barve, Jody M. Webster, Rohitash Chandra"
+  link:
+    url: https://www.mdpi.com/2078-2489/14/7/373
+    display: "Information 2023, 14(7), 373"
+  highlight: 0
+
+- title: "Unsupervised machine learning framework for discriminating major variants of concern during COVID-19"
+  authors: "Rohitash Chandra, Chaarvi Bansal, Mingyue Kang, Tom Blau, Vinti Agarwal, Pranjal Singh, Laurence O. W. Wilson, Seshadri Vasan"
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285719
+    display: "https://doi.org/10.1371/journal.pone.0285719"
+  highlight: 0
+
+- title: "Bayesian neuroevolution using distributed swarm optimization and tempered MCMC"
+  authors: "Arpit Kapoor, Eshwar Nukala, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1568494622006056?via%3Dihub
+    display: "Applied Soft Computing, Volume 129, November 2022, 109528"
+  highlight: 0
+
+- title: "CoviRx: A User-Friendly Interface for Systematic Down-Selection of Repurposed Drug Candidates for COVID-19"
+  authors: "Hardik A. Jain, Vinti Agarwal, Chaarvi Bansal, Anupama Kumar, Faheem, Muzaffar-Ur-Rehman Mohammed, Sankaranarayanan Murugesan, Moana M. Simpson, Avinash V. Karpe, Rohitash Chandra, Christopher A. MacRaild, Ian K. Styles, Amanda L. Peterson, Matthew A. Cooper, Carl M. J. Kirkpatrick, Rohan M. Shah, Enzo A. Palombo, Natalie L. Trevaskis, Darren J. Creek, Seshadri S. Vasan"
+  link:
+    url: https://www.mdpi.com/2306-5729/7/11/164
+    display: "Data 2022, 7(11), 164"
+  highlight: 0
+
+- title: "Evolutionary bagging for ensemble learning"
+  authors: "Giang Ngo, Rodney Beard, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0925231222010414?via%3Dihub
+    display: "Neurocomputing, Volume 510, 21 October 2022, Pages 1-14"
+  highlight: 0
+
+- title: "Spatio temporal hydrological extreme forecasting framework using LSTM deep learning model"
+  authors: "Anshuka Anshuka, Rohitash Chandra, Alexander J. V. Buzacott, David Sanderson, Floris F. van Ogtrop"
+  link:
+    url: https://link.springer.com/article/10.1007/s00477-022-02204-3
+    display: "Stochastic Environmental Research and Risk Assessment, Volume 36, pages 3467–3485, (2022)"
+  highlight: 0
+
+- title: "Artificial intelligence for topic modelling in Hindu philosophy: Mapping themes between the Upanishads and the Bhagavad Gita"
+  authors: "Rohitash Chandra, Mukul Ranjan"
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273476
+    display: "https://doi.org/10.1371/journal.pone.0273476"
+  highlight: 0
+
+- title: "An evaluation of Google Translate for Sanskrit to English translation via sentiment and semantic analysis"
   image: translate.png
-  description:  Google Translate has been prominent for language translation; however, limited work has been done in evaluating the quality of translation when compared to human experts. Sanskrit one of the oldest written languages in the world. In 2022, the Sanskrit language was added to the Google Translate engine. Sanskrit is known as the mother of languages such as Hindi and an ancient source of the Indo-European group of languages. Sanskrit is the original language for sacred Hindu texts such as the Bhagavad Gita. In this study, we present a framework that evaluates the Google Translate for Sanskrit using the Bhagavad Gita. We first publish a translation of the Bhagavad Gita in Sanskrit using Google Translate. Our framework then compares Google Translate version of Bhagavad Gita with expert translations using sentiment and semantic analysis via BERT-based language models. Our results indicate that in terms of sentiment and semantic analysis, there is low level of similarity in selected verses of Google Translate when compared to expert translations. In the qualitative evaluation, we find that Google translate is unsuitable for translation of certain Sanskrit words and phrases due to its poetic nature, contextual significance, metaphor and imagery. The mistranslations are not surprising since the Bhagavad Gita is known as a difficult text not only to translate, but also to interpret since it relies on contextual, philosophical and historical information. Our framework lays the foundation for automatic evaluation of other languages by Google Translate
-  authors: Shukla A; Bansal C; Badhe S; Ranjan M; Chandra R
+  description: Google Translate has been prominent for language translation; however, limited work has been done in evaluating the quality of translation when compared to human experts. Sanskrit one of the oldest written languages in the world. In 2022, the Sanskrit language was added to the Google Translate engine. Sanskrit is known as the mother of languages such as Hindi and an ancient source of the Indo-European group of languages. Sanskrit is the original language for sacred Hindu texts such as the Bhagavad Gita. In this study, we present a framework that evaluates the Google Translate for Sanskrit using the Bhagavad Gita. We first publish a translation of the Bhagavad Gita in Sanskrit using Google Translate. Our framework then compares Google Translate version of Bhagavad Gita with expert translations using sentiment and semantic analysis via BERT-based language models. Our results indicate that in terms of sentiment and semantic analysis, there is low level of similarity in selected verses of Google Translate when compared to expert translations. In the qualitative evaluation, we find that Google translate is unsuitable for translation of certain Sanskrit words and phrases due to its poetic nature, contextual significance, metaphor and imagery. The mistranslations are not surprising since the Bhagavad Gita is known as a difficult text not only to translate, but also to interpret since it relies on contextual, philosophical and historical information. Our framework lays the foundation for automatic evaluation of other languages by Google Translate
+  authors: "Shukla A; Bansal C; Badhe S; Ranjan M; Chandra R"
   link:
     url: http://arxiv.org/abs/2303.07201v1
-    display:  arxiv:2303.07201 (2023)
+    display: arxiv:2303.07201 (2023)
   highlight: 1
 
 - title: "Physics-informed neural entangled-ladder network for inhalation impedance of the respiratory system"
   image: physics.png
-  description:  The use of machine learning methods for modelling bio-systems is becoming prominent which can further improve bio-medical technologies. Physics-informed neural networks (PINNs) can embed the knowledge of physical laws that govern a system during the model training process. PINNs utilise differential equations in the model which traditionally used numerical methods that are computationally complex.  We integrate PINNs with an entangled ladder network for modelling respiratory systems by considering a lungs conduction zone to evaluate the respiratory impedance for different initial conditions. We evaluate the respiratory impedance for the inhalation phase of breathing for a symmetric model of the human lungs using entanglement and continued fractions.
-  authors:  Kumar AK; Jain S; Jain S; Ritam M; Xia Y; Chandra R
+  description: The use of machine learning methods for modelling bio-systems is becoming prominent which can further improve bio-medical technologies. Physics-informed neural networks (PINNs) can embed the knowledge of physical laws that govern a system during the model training process. PINNs utilise differential equations in the model which traditionally used numerical methods that are computationally complex. We integrate PINNs with an entangled ladder network for modelling respiratory systems by considering a lungs conduction zone to evaluate the respiratory impedance for different initial conditions. We evaluate the respiratory impedance for the inhalation phase of breathing for a symmetric model of the human lungs using entanglement and continued fractions.
+  authors: "Kumar AK; Jain S; Jain S; Ritam M; Xia Y; Chandra R"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0169260723000883?via%3Dihub
     display: Computer Methods and Programs in Biomedicine, vol. 231, pp. 107421 - 107421 (2023)
   highlight: 0
-  news1:   <a style="color:#FF0000" href="https://www.youtube.com/watch?v=DnhA8h3YmJs"> Covered in 't~ai Seminar Series'  by Dr Amit Kumar</a>
-   
+  news1: <a style="color:#FF0000" href="https://www.youtube.com/watch?v=DnhA8h3YmJs"> Covered in 't~ai Seminar Series'  by Dr Amit Kumar</a>
 
 - title: "Cyclone trajectory and intensity prediction with uncertainty quantification using variational recurrent neural networks"
   image: cyclone.png
-  description: Cyclone track forecasting is a critical climate science problem involving time-series prediction of cyclone location and intensity. Machine learning methods have shown much promise in this domain, especially deep learning methods such as recurrent neural networks (RNNs). However, these methods generally make single-point predictions with little focus on uncertainty quantification. Although Markov Chain Monte Carlo (MCMC) methods have often been used for quantifying uncertainty in neural network predictions, these methods are computationally expensive. Variational Inference (VI) is an alternative to MCMC sampling that approximates the posterior distribution of parameters by minimizing a KL-divergence loss between the estimate and the true posterior. In this paper, we present variational RNNs for cyclone track and intensity prediction in four different regions across the globe. We utilise simple RNNs and long short-term memory (LSTM) RNNs and use the energy score (ES) to evaluate multivariate probabilistic predictions. The results show that variational RNNs provide a good approximation with uncertainty quantification when compared to conventional RNNs while maintaining prediction accuracy.   
-  authors:  Kapoor A; Negi A; Marshall L; Chandra R
+  description: Cyclone track forecasting is a critical climate science problem involving time-series prediction of cyclone location and intensity. Machine learning methods have shown much promise in this domain, especially deep learning methods such as recurrent neural networks (RNNs). However, these methods generally make single-point predictions with little focus on uncertainty quantification. Although Markov Chain Monte Carlo (MCMC) methods have often been used for quantifying uncertainty in neural network predictions, these methods are computationally expensive. Variational Inference (VI) is an alternative to MCMC sampling that approximates the posterior distribution of parameters by minimizing a KL-divergence loss between the estimate and the true posterior. In this paper, we present variational RNNs for cyclone track and intensity prediction in four different regions across the globe. We utilise simple RNNs and long short-term memory (LSTM) RNNs and use the energy score (ES) to evaluate multivariate probabilistic predictions. The results show that variational RNNs provide a good approximation with uncertainty quantification when compared to conventional RNNs while maintaining prediction accuracy.
+  authors: "Kapoor A; Negi A; Marshall L; Chandra R"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1364815223000403?via%3Dihub
-    display: Environmental Modelling & Software, vol. 162, pp. 105654 - 105654 (2023)
+    display: "Environmental Modelling & Software, vol. 162, pp. 105654 - 105654 (2023)"
   highlight: 0
-  
+
+- title: "Deep learning for predicting respiratory rate from biosignals"
+  authors: "Amit Krishan Kumar, M. Ritam, Lina Han, Shuli Guo, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0010482522001305?via%3Dihub
+    display: "Computers in Biology and Medicine, Volume 144, May 2022, 105338"
+  highlight: 0
+
+- title: "A Comparative Study of Convolutional Neural Networks and Conventional Machine Learning Models for Lithological Mapping Using Remote Sensing Data"
+  authors: "Hojat Shirmard, Ehsan Farahbakhsh, Elnaz Heidari, Amin Beiranvand Pour, Biswajeet Pradhan, Dietmar Müller, Rohitash Chandra"
+  link:
+    url: https://www.mdpi.com/2072-4292/14/4/819
+    display: "Remote Sens. 2022, 14(4), 819"
+  highlight: 0
+
+- title: "Distributed Bayesian optimisation framework for deep neuroevolution"
+  authors: "Rohitash Chandra, Animesh Tiwari"
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0925231221015319?via%3Dihub
+    display: "Neurocomputing, Volume 470, 22 January 2022, Pages 51-65"
+  highlight: 0
+
+- title: "A review of machine learning in processing remote sensing data for mineral exploration"
+  authors: "Hojat Shirmard, Ehsan Farahbakhsh, R. Dietmar Müller, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0034425721004703?via%3Dihub
+    display: "Remote Sensing of Environment, Volume 268, January 2022, 112750"
+  highlight: 0
+
+- title: "Deep learning via LSTM models for COVID-19 infection forecasting in India"
+  authors: "Rohitash Chandra, Ayush Jain, Divyanshu Singh Chauhan"
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262708
+    display: "January 28, 2022, https://doi.org/10.1371/journal.pone.0262708"
+  highlight: 0
+
+- title: "Revisiting Bayesian Autoencoders With MCMC"
+  authors: "Rohitash Chandra, Mahir Jain, Manavendra Maharana, Pavel N. Krivitsky"
+  link:
+    url: https://ieeexplore.ieee.org/document/9745141
+    display: "IEEE Access, 10, pp. 40482 - 40495"
+  highlight: 0
+
+- title: "Semantic and Sentiment Analysis of Selected Bhagavad Gita Translations Using BERT-Based Language Framework"
+  authors: "Rohitash Chandra, Kulkarni V"
+  link:
+    url: http://dx.doi.org/10.1109/ACCESS.2022.3152266
+    display: "IEEE Access, 10, pp. 21291 - 21315"
+  highlight: 0
+
+- title: "SMOTified-GAN for Class Imbalanced Pattern Classification Problems"
+  authors: "Anuraganand Sharma, Prabhat Kumar Singh, Rohitash Chandra"
+  link:
+    url: https://ieeexplore.ieee.org/document/9733348
+    display: "IEEE Access, 10, pp. 30655 - 30665"
+  highlight: 0
+
+- title: "Predicting the emplacement of Cordilleran porphyry copper systems using a spatio-temporal machine learning model"
+  authors: "Julian Diaz-Rodriguez, R. Dietmar Müller, Rohitash Chandra"
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0169136821003267?via%3Dihub
+    display: "Ore Geology Reviews, Volume 137, October 2021, 104300"
+  highlight: 0
+
+- title: "COVID-19 sentiment analysis via deep learning during the rise of novel cases"
+  authors: "Rohitash Chandra, Aswin Krishna"
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255615
+    display: "PLOS ONE, 16(8), e0255615"
+  highlight: 0
+
+- title: "Bayesian neural networks for stock price forecasting before and during COVID-19 pandemic"
+  authors: "Rohitash Chandra, Yixuan He"
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253217
+    display: "PLOS ONE, 16(8), e0255615"
+  highlight: 0
+
+- title: "Precipitation reconstruction from climate-sensitive lithologies using Bayesian machine learning"
+  authors: "Rohitash Chandra, Sally Cripps, Nathaniel Butterworth, R. Dietmar Muller"
+  link:
+    url: https://linkinghub.elsevier.com/retrieve/pii/S1364815221000451
+    display: "Environmental Modelling and Software, 139, pp. 105002"
+  highlight: 0
+
+- title: "Bayesian geological and geophysical data fusion for the construction and uncertainty quantification of 3D geological models"
+  authors: "Hugo K.H. Olierook, Richard Scalzo, David Kohn, Rohitash Chandra, Ehsan Farahbakhsh, Chris Clark, Steven M. Reddy, R. Dietmar Müller"
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1674987120301195?via%3Dihub
+    display: "Geoscience Frontiers, Volume 12, Issue 1, January 2021, Pages 479-493"
+  highlight: 0
+
+- title: "Biden vs Trump: Modeling US General Elections Using BERT Language Model"
+  authors: "Chandra R; Saini R"
+  link:
+    url: http://dx.doi.org/10.1109/ACCESS.2021.3111035
+    display: "IEEE Access, 9, pp. 128494 - 128505"
+  highlight: 0
+
+- title: "Evaluation of Deep Learning Models for Multi-Step Ahead Time Series Prediction"
+  authors: "Chandra R, Goyal S, Gupta R"
+  link:
+    url: http://dx.doi.org/10.1109/ACCESS.2021.3085085
+    display: "IEEE Access, 9, pp. 83105 - 83123"
+  highlight: 0
+
+- title: "Surrogate-assisted parallel tempering for Bayesian neural learning"
+  authors: "Chandra R, Jain K, Kapoor A, Aman A"
+  link:
+    url: http://dx.doi.org/10.1016/j.engappai.2020.103700
+    display: "Engineering Applications of Artificial Intelligence, 94, pp. 103700"
+  highlight: 0
+
+- title: "Surrogate-assisted Bayesian inversion for landscape and basin evolution models"
+  authors: "Chandra R, Azam D, Kapoor A, Dietmar Müller R"
+  link:
+    url: http://dx.doi.org/10.5194/gmd-13-2959-2020
+    display: "Geoscientific Model Development, 13, pp. 2959 - 2979"
+  highlight: 0
+
+- title: "Integration of selective dimensionality reduction techniques for mineral exploration using ASTER satellite data"
+  authors: "Shirmard H, Farahbakhsh E, Pour AB, Muslim AM, Dietmar Müller R, Chandra R"
+  link:
+    url: http://dx.doi.org/10.3390/RS12081261
+    display: "Remote Sensing, 12"
+  highlight: 0
+
+- title: "Computer vision-based framework for extracting tectonic lineaments from optical remote sensing data"
+  authors: "Farahbakhsh E, Chandra R, Olierook HKH, Scalzo R, Clark C, Reddy SM, Müller RD"
+  link:
+    url: http://dx.doi.org/10.1080/01431161.2019.1674462
+    display: "International Journal of Remote Sensing, 41, pp. 1760 - 1787"
+  highlight: 0
+
+- title: "Bayesreef: A Bayesian inference framework for modelling reef growth in response to environmental change and biological dynamics"
+  authors: "Pall J, Chandra R, Azam D, Salles T, Webster JM, Scalzo R, Cripps S"
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2019.104610
+    display: "Environmental Modelling and Software, 125"
+  highlight: 0
+
+- title: "Bayesian neural multi-source transfer learning"
+  authors: "Chandra R, Kapoor A"
+  link:
+    url: http://dx.doi.org/10.1016/j.neucom.2019.10.042
+    display: "Neurocomputing, 378, pp. 54 - 64"
+  highlight: 0
+
+- title: "Three-dimensional weights of evidence modelling of a deep-seated porphyry cu deposit"
+  authors: "Farahbakhsh E, Hezarkhani A, Eslamkish T, Bahroudi A, Chandra R"
+  link:
+    url: http://dx.doi.org/10.1144/geochem2020-038
+    display: "Geochemistry Exploration Environment Analysis, 20, pp. 480 - 495"
+  highlight: 0

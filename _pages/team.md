@@ -169,7 +169,7 @@ permalink: /team/
 * Royce Chen, "Pruning Bayesian neural networks with MCMC", Honours thesis, UNSW Sydney, December 2022 (Joint supervision with Dr Sahani Pathiraja)
 * George Bai, "Bayesian neural ensemble learning with parallelised  and tempered Langevin MCMC",  Honours thesis,  UNSW Sydney, December 2021 (Principal Supervisor)
  
- ### Masters (coursework - minor thesis)
+### Masters (coursework - minor thesis)
 
 * Zhenyu Zhu, "Sanskrit optical character recognition using advanced deep learning models", Master's in Data Science and Decisions,  August 2025 (Principal Supervisor)
 * Ziyu Lei, "Political leaning analysis by large language models", Master's in Statistics, May 2025 (Principal Supervisor)
@@ -212,6 +212,7 @@ permalink: /team/
 * Sungkyun Yoo, Pingla Institute (January - June 2025)
 * Viswas Dubey, Vellore Institute of Technology  (January - June 2025)
 * Sai  Rugved, Indian Institute of Technology Guwahati, India (April - September 2025)
+
 ### 2024
 
 * Aryan Chaudhary, National Institute of Technology Rourkela, India (September 2024- March 2025)
