@@ -4,35 +4,35 @@
   url: http://arxiv.org/abs/2510.0240
   display: arXiv
   video: https://youtu.be/PTzot9Op-5M
-  Date: October 2025
+  date: October 2025
 
 - title: "Analysis of IMDb Movie Reviews and Ratings Using a Language Model Framework"
   authors:  G. Ren and  Rohitash Chandra
   url: http://arxiv.org/abs/2510.0240
   display: IEEE access
   video: https://youtu.be/sHO-PIV2cZA
-  Date: July 2025
+  date: July 2025
 
 - title: "Evaluation of LLMs for mathematical problem solving"
   authors: Ruonan Wang, Runxi Wang, Yunwen Shen, Chengfeng Wu, Qinglin Zhou, Rohitash Chandra
   url: https://arxiv.org/abs/2506.00309
   display: arXiv
   video: https://youtu.be/elbyDT1jKQQ
-  Date: June 2025
+  date: June 2025
 
 - title: "Spatiotemporal deep learning models for detection of rapid intensification in cyclones"
   authors:  Vamshika Sutar, Amandeep Singh, Rohitash Chandra
   url: https://arxiv.org/abs/2506.08397
   display: arXiv
   video: https://youtu.be/U5-0LjM6zq4
-  Date: June 2025  
+  date: June 2025  
 
 - title: "An evaluation of LLMs for generating movie reviews: GPT-4o, Gemini-2.0 and DeepSeek-V3"
   authors:  Brendan Sands, Yining Wang, Chenhao Xu
   url: 
   display: arXiv
   video: https://youtu.be/ggi5EEjepQE
-  Date: June 2025  
+  date: June 2025  
 
 
 - title: "Ensemble quantile-based deep learning framework for streamflow and flood prediction in Australian catchments"
@@ -40,7 +40,7 @@
   url: https://arxiv.org/abs/2407.15882
   display: arXiv
   video: https://youtu.be/F9Gi8xVlpQU
-  Date: April 2025
+  date: April 2025
 
 
 - title: "Longitudinal Abuse and Sentiment Analysis of Hollywood Movie Dialogues using LLMs"
@@ -48,7 +48,7 @@
   url: https://arxiv.org/abs/2501.13948
   display: arXiv
   video: https://youtu.be/ldGYbzmF050
-  Date: February 2025
+  date: February 2025
   
 
 - title: "A Machine Learning Framework for Handling Unreliable Absence Label and Class Imbalance for Marine Stinger Beaching Prediction" 
@@ -56,7 +56,7 @@
   url:  https://arxiv.org/abs/2501.11293 
   display: arXiv
   video: https://youtu.be/NQMd6_q-HBY  
-  Date: February 2025
+  date: February 2025
 
 
 - title: " Multiview graph dual-attention deep learning and contrastive learning for multi-criteria recommender systems"
@@ -64,7 +64,7 @@
   url: http://arxiv.org/abs/2502.19271
   display: arXiv
   video: https://youtu.be/uW4LgGJbF-s
-  Date: November 2024
+  date: November 2024
 
 
 - title: "Recursive Deep Learning Framework for Forecasting the Decadal World Economic Outlook"
@@ -72,7 +72,7 @@
   url:  https://ieeexplore.ieee.org/abstract/document/10704677
   display: IEEE access
   video: https://youtu.be/B7iXV3mWXyQ
-  Date: Novemeber 2024
+  date: Novemeber 2024
 
 
 - title: "Remote sensing framework for geological mapping via stacked autoencoders and clustering"
@@ -80,7 +80,7 @@
   url: https://doi.org/10.1016/j.asr.2024.09.013
   display: Advances in Space Research
   video: https://youtu.be/OFOz8NFRMhQ
-  Date: November 2024
+  date: November 2024
  
 
 - title: "Bayes-CATSI: A variational Bayesian deep learning framework for medical time series data imputation"
@@ -88,7 +88,7 @@
   url: https://arxiv.org/abs/2410.01847
   display: arXiv
   video: https://youtu.be/roWfvmFN9Qc
-  Date: October 2024
+  date: October 2024
  
 
 - title: "Deepdive: Leveraging Pre-trained Deep Learning for Deep-Sea ROV Biota Identification in the Great Barrier Reef"
@@ -96,7 +96,7 @@
   url: https://doi.org/10.1038/s41597-024-03766-3
   display: Scientific Data
   video: https://youtu.be/3kVme_cCjk0
-  Date: September 2024
+  date: September 2024
   
 
 - title: "Evaluation of Google Translate for Mandarin Chinese translation using sentiment and semantic analysis"
@@ -104,7 +104,7 @@
   url: https://arxiv.org/abs/2409.04964
   display: Arxive Paper
   video: https://youtu.be/QLzdrlQar2U
-  Date: September 2024
+  date: September 2024
  
 
 - title: "A longitudinal sentiment analysis of Sinophobia during COVID-19 using large language models"
@@ -112,7 +112,7 @@
   url: https://arxiv.org/abs/2408.16942
   display: arXiv
   video: https://youtu.be/hbTdRQECPoI
-  Date: September 2024
+  date: September 2024
 
 
 - title: "Pedestrian trajectory prediction using goal-driven and dynamics-based deep learning framework"
@@ -120,7 +120,7 @@
   url: https://doi.org/10.1016/j.eswa.2025.126557
   display: Expert Systems with Applications
   video: https://youtu.be/7gJ7qqYZWbo
-  Date: June 2024
+  date: June 2024
  
 
 - title: "Review of deep learning models for crypto price prediction: implementation and evaluation"
@@ -128,7 +128,7 @@
   url:  https://arxiv.org/abs/2405.11431
   display: arXiv
   video: https://youtu.be/KlkK6wnTqXQ
-  Date: June 2024
+  date: June 2024
   
 
 - title: "Large language models for sentiment analysis of newspaper articles during COVID-19: The Guardian"
@@ -136,7 +136,7 @@
   url: https://doi.org/10.48550/arXiv.2405.13056
   display: arXiv
   video: https://youtu.be/TU6Vvoj4U5Y
-  Date: May 2024
+  date: May 2024
  
 
 - title: "A unified machine learning framework for basketball team roster construction: NBA and WNBA"
@@ -144,14 +144,14 @@
   url: https://doi.org/10.1016/j.asoc.2024.111298
   display: Applied Soft Computing
   video: https://youtu.be/FMmU9Ta_ICQ
-  Date: April 2024
+  date: April 2024
  
 - title: Synergy of remote sensing data and machine learning for geological mapping
   authors: Hojat Shirmard, Ehsan Farahbakhsh, Elnaz Heidari, Amin Beiranvand Pour, Biswajeet Pradhan, Dietmar Müller, Rohitash Chandra,
   url: https://doi.org/10.3390/rs14040819
   display: MDPI Remote Sensing
   video: https://youtu.be/4jqgWmTyO2g
-  Date: December 2023
+  date: December 2023
 
 
 - title: "Variational Bayes deep learning for cyclones"
@@ -159,7 +159,7 @@
   url: https://doi.org/10.1016/j.envsoft.2023.105654
   display: Environmental Modelling & Software
   video: https://youtu.be/QR2xoyzNKyo
-  Date: Novemeber 2023
+  date: Novemeber 2023
   
 
 - title: "Multi-Modal Deep Learning for Credit Rating Prediction Using Text and Numerical Data Streams"
@@ -167,7 +167,7 @@
   url: https://doi.org/10.1016/j.asoc.2025.112771
   display: Applied Soft Computing
   video: https://youtu.be/aqM5PBSIqG4
-  Date: October 2023
+  date: October 2023
 
 
 - title: "ReefCoreSeg: A Clustering-Based Framework for Multi-Source Data Fusion for Segmentation of Reef Drill Cores"
@@ -175,7 +175,7 @@
   url: https://ieeexplore.ieee.org/abstract/document/10352143/
   display: IEEE access
   video: https://youtu.be/a9HXzdDK_4U
-  Date: April 2023
+  date: April 2023
   
 
 - title: "Sequential reversible jump MCMC for dynamic Bayesian neural networks"
@@ -183,7 +183,7 @@
   url: https://doi.org/10.1016/j.neucom.2023.126960
   display: Neurocomputing
   video: https://youtu.be/-13hc-vzq-Q
-  Date: April 2023
+  date: April 2023
  
 
 - title: "Physics informed neural networks for modelling respiratory system"
@@ -191,7 +191,7 @@
   url: https://doi.org/10.1016/j.cmpb.2023.107421
   display: Computer Methods and Programs in Biomedicine
   video: https://youtu.be/DnhA8h3YmJs
-  Date: March 2023
+  date: March 2023
  
 
 - title: "Managerial Ability and Just-in-Time Inventory Management"
@@ -199,7 +199,7 @@
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4325002
   display: SSRN 
   video: https://youtu.be/L6dO9QzHBOA
-  Date: March 2023
+  date: March 2023
 
 
 - title: Semantic and Sentiment Analysis of Selected Bhagavad Gita Translations Using BERT-Based Language Framework
@@ -207,7 +207,7 @@
   url: 10.1109/ACCESS.2022.3152266
   display: IEEE Access
   video: https://youtu.be/4jqgWmTyO2g
-  Date: November 2022
+  date: November 2022
   
 
 - title: "Global COVID-19 Twitter dataset  and language models  for sentiment analysis and topic modelling"
@@ -215,5 +215,5 @@
   url: https://doi.org/10.1371/journal.pone.0255615
   display: PLOS ONE 
   video: https://youtu.be/DQ1lS8cIyl4
-  Date: November 2022
+  date: November 2022
 
