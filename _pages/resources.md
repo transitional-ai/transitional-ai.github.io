@@ -9,13 +9,13 @@ permalink: /resources/
 
 [See full list of Seminars here](/seminars/) 
 
-* Junru Hua, Rahul Ahluwalia, Rohitash Chandra, "Extreme value forecasting using relevance-based data augmentation with deep learning models", arXiv (October 2025). [arXiv](http://arxiv.org/abs/2510.0240), [YouTube](https://youtu.be/PTzot9Op-5M)
+* Junru Hua, Rahul Ahluwalia, Rohitash Chandra, "Extreme value forecasting using relevance-based data augmentation with deep learning models", (October 2025). [arXiv Link](http://arxiv.org/abs/2510.0240), [YouTube](https://youtu.be/PTzot9Op-5M)
 
 * Guoxiang Ren and R. Chandra, "Analysis of IMDb Movie Reviews and Ratings Using a Language Model Framework",paper (November 2025). [IEEE access](http://arxiv.org/abs/2510.0240), [YouTube](https://youtu.be/sHO-PIV2cZA)
 
-* Vamshika Sutar, Amandeep Singh, Rohitash Chandra, "Spatiotemporal deep learning models for detection of rapid intensification in cyclones", (June 2025). [arXiv](https://arxiv.org/abs/2506.08397), [YouTube](https://youtu.be/U5-0LjM6zq4)
+* Vamshika Sutar, Amandeep Singh, Rohitash Chandra, "Spatiotemporal deep learning models for detection of rapid intensification in cyclones", (June 2025). [arXiv Link](https://arxiv.org/abs/2506.08397), [YouTube](https://youtu.be/U5-0LjM6zq4)
 
-* Rohitash Chandra, Arpit Kapoor, "Ensemble quantile-based deep learning framework for streamflow and flood prediction in Australian catchments", (April 2025). [arXiv](https://arxiv.org/abs/2407.15882), [YouTube](https://youtu.be/F9Gi8xVlpQU)
+* Rohitash Chandra, Arpit Kapoor, "Ensemble quantile-based deep learning framework for streamflow and flood prediction in Australian catchments", (April 2025). [arXiv Link](https://arxiv.org/abs/2407.15882), [YouTube](https://youtu.be/F9Gi8xVlpQU)
 
 
 
