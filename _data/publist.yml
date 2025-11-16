@@ -39,8 +39,8 @@
     url: https://doi.org/10.1016/j.asoc.2025.112771
     display: Applied Soft Computing Volume 171, March 2025, 112771
   highlight: 0
-
-  - title: "An Evaluation of LLMs and Google Translate for Translation of Selected Indian Languages via Sentiment and Semantic Analyses"
+  
+- title: "An Evaluation of LLMs and Google Translate for Translation of Selected Indian Languages via Sentiment and Semantic Analyses"
   authors: Rohitash Chandra; Aryan Chaudhari; Yeshwanth Rayavarapu
   link:
     url: https://ieeexplore.ieee.org/document/11071312
@@ -54,49 +54,6 @@
     display: IEEE Access ( Volume: 13), 175309 - 175335, 03 October 2025
   highlight: 0
 
-  - title: "你的论文标题"
-  authors: "作者1; 作者2; 作者3"
-  link:
-    url: https://example.com/paper
-    display: 期刊名称或链接文本
-  highlight: 0
-
-  - title: "你的论文标题"
-  authors: "作者1; 作者2; 作者3"
-  link:
-    url: https://example.com/paper
-    display: 期刊名称或链接文本
-  highlight: 0
-
-    - title: "你的论文标题"
-  authors: "作者1; 作者2; 作者3"
-  link:
-    url: https://example.com/paper
-    display: 期刊名称或链接文本
-  highlight: 0
-
-    - title: "你的论文标题"
-  authors: "作者1; 作者2; 作者3"
-  link:
-    url: https://example.com/paper
-    display: 期刊名称或链接文本
-  highlight: 0
-
-    - title: "你的论文标题"
-  authors: "作者1; 作者2; 作者3"
-  link:
-    url: https://example.com/paper
-    display: 期刊名称或链接文本
-  highlight: 0
-
-    - title: "你的论文标题"
-  authors: "作者1; 作者2; 作者3"
-  link:
-    url: https://example.com/paper
-    display: 期刊名称或链接文本
-  highlight: 0
-
-  
 - title: "An Analysis of Vaccine-Related Sentiments on Twitter (X) from Development to Deployment of COVID-19 Vaccines"
   image: vaccine_polarity.png 
   authors: Rohitash Chandra, Jayesh Sonawane, Jahnavi Lande 
