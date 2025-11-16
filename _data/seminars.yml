@@ -1,3 +1,40 @@
+
+- title: "Extreme value forecasting using relevance-based data augmentation with  deep learning models"
+  authors: Junru Hua, Rahul Ahluwalia, Rohitash Chandra
+  url: http://arxiv.org/abs/2510.0240
+  display: arXiv
+  video: https://youtu.be/PTzot9Op-5M
+  Date: October 2025
+
+- title: "Analysis of IMDb Movie Reviews and Ratings Using a Language Model Framework"
+  authors:  G. Ren and  Rohitash Chandra
+  url: http://arxiv.org/abs/2510.0240
+  display: IEEE access
+  video: https://youtu.be/sHO-PIV2cZA
+  Date: July 2025
+
+- title: "Evaluation of LLMs for mathematical problem solving"
+  authors: Ruonan Wang, Runxi Wang, Yunwen Shen, Chengfeng Wu, Qinglin Zhou, Rohitash Chandra
+  url: https://arxiv.org/abs/2506.00309
+  display: arXiv
+  video: https://youtu.be/elbyDT1jKQQ
+  Date: June 2025
+
+- title: "Spatiotemporal deep learning models for detection of rapid intensification in cyclones"
+  authors:  Vamshika Sutar, Amandeep Singh, Rohitash Chandra
+  url: https://arxiv.org/abs/2506.08397
+  display: arXiv
+  video: https://youtu.be/U5-0LjM6zq4
+  Date: June 2025  
+
+- title: "An evaluation of LLMs for generating movie reviews: GPT-4o, Gemini-2.0 and DeepSeek-V3"
+  authors:  Brendan Sands, Yining Wang, Chenhao Xu
+  url: 
+  display: arXiv
+  video: https://youtu.be/ggi5EEjepQE
+  Date: June 2025  
+
+
 - title: "Ensemble quantile-based deep learning framework for streamflow and flood prediction in Australian catchments"
   authors: Rohitash Chandra, Arpit Kapoor
   url: https://arxiv.org/abs/2407.15882

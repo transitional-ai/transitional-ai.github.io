@@ -5,10 +5,16 @@ excerpt: "t~AI - Resources"
 permalink: /resources/
 ---
 
-## t~ai Seminar Series 
 [See full list of Seminars here](/seminars/) 
 
-* R. Chandra, ``Global COVID-19 Twitter dataset and language models for sentiment analysis and topic modelling", Melbourne University (August 2022),  University of Tasmania (September 2022), and IIT Bombay (December 2022). [Youtube]()
+* Junru Hua, Rahul Ahluwalia, Rohitash Chandra, "Extreme value forecasting using relevance-based data augmentation with deep learning models", arXiv (October 2025). [arXiv](http://arxiv.org/abs/2510.0240) [YouTube](https://youtu.be/PTzot9Op-5M)
+
+* Guoxiang Ren and R. Chandra, "Analysis of IMDb Movie Reviews and Ratings Using a Language Model Framework",paper (November 2025). [IEEE access](http://arxiv.org/abs/2510.0240) [YouTube](https://youtu.be/sHO-PIV2cZA)
+
+* Vamshika Sutar, Amandeep Singh, Rohitash Chandra, "Spatiotemporal deep learning models for detection of rapid intensification in cyclones", (June 2025). [arXiv](https://arxiv.org/abs/2506.08397) [YouTube](https://youtu.be/U5-0LjM6zq4)
+
+* Rohitash Chandra, Arpit Kapoor, "Ensemble quantile-based deep learning framework for streamflow and flood prediction in Australian catchments", (April 2025). [arXiv](https://arxiv.org/abs/2407.15882) [YouTube](https://youtu.be/F9Gi8xVlpQU)
+
 
 ## Tutorials
 * R. Chandra, R. and J. Simmons,  Bayesian neural networks via MCMC: a Python-based tutorial. IEEE Access, 2024. [Github](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial), [Video Tutorial](https://www.youtube.com/watch?v=L-GjYvW23BE&feature=youtu.be), [Open access paper](https://ieeexplore.ieee.org/abstract/document/10530647)
