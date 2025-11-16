@@ -7,7 +7,6 @@ permalink: /resources/
 
 ## t~ai Seminar Series
 
-[See full list of Seminars here](/seminars/) 
 
 * Junru Hua, Rahul Ahluwalia, Rohitash Chandra, "Extreme value forecasting using relevance-based data augmentation with deep learning models", (October 2025). [arXiv Link](http://arxiv.org/abs/2510.0240), [YouTube](https://youtu.be/PTzot9Op-5M)
 
@@ -18,6 +17,7 @@ permalink: /resources/
 * Rohitash Chandra, Arpit Kapoor, "Ensemble quantile-based deep learning framework for streamflow and flood prediction in Australian catchments", (April 2025). [arXiv Link](https://arxiv.org/abs/2407.15882), [YouTube](https://youtu.be/F9Gi8xVlpQU)
 
 
+[List of Seminars](/seminars/) 
 
 ## Tutorials
 * R. Chandra, R. and J. Simmons,  Bayesian neural networks via MCMC: a Python-based tutorial. IEEE Access, 2024. [Github](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial), [Video Tutorial](https://www.youtube.com/watch?v=L-GjYvW23BE&feature=youtu.be), [Open access paper](https://ieeexplore.ieee.org/abstract/document/10530647)
