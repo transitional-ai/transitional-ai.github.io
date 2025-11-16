@@ -61,7 +61,7 @@
     display: "Nature Human Behaviour volume 9, pages7–8 (2025)"
   highlight: 0
 
-  - title: "Longitudinal abuse and sentiment analysis of Hollywood movie dialogues using language models"
+- title: "Longitudinal abuse and sentiment analysis of Hollywood movie dialogues using language models"
   authors: "Rohitash Chandra, Guoxiang Ren"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S266682702500132X?via%3Dihub
@@ -77,14 +77,14 @@
     display: https://doi.org/10.3390/bdcc8120186
   highlight: 1
 
-   - title: "Deepdive: Leveraging Pre-trained Deep Learning for Deep-Sea ROV Biota Identification in the Great Barrier Reef"
-  authors: "Ratneel Deo, Cédric M. John, Chen Zhang, Kate Whitton, Tristan Salles, Jody M. Webster, Rohitash Chandra "
+- title: "Deepdive: Leveraging Pre-trained Deep Learning for Deep-Sea ROV Biota Identification in the Great Barrier Reef"
+  authors: "Ratneel Deo, Cédric M. John, Chen Zhang, Kate Whitton, Tristan Salles, Jody M. Webster, Rohitash Chandra"
   link:
     url: https://www.nature.com/articles/s41597-024-03766-3
     display: "Scientific Data volume 11, Article number: 957 (2024)"
   highlight: 0
 
- - title: "Remote sensing framework for geological mapping via stacked autoencoders and clustering"
+- title: "Remote sensing framework for geological mapping via stacked autoencoders and clustering"
   authors: "Sandeep Nagar, Ehsan Farahbakhsh, Joseph Awange, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0273117724009335?via%3Dihub
@@ -92,7 +92,7 @@
   highlight: 0
 
 - title: "A clustering and graph deep learning-based framework for COVID-19 drug repurposing"
-  authors: "Chaarvi Bansal,P.R. Deepa, Vinti Agarwal, Rohitash Chandra"
+  authors: "Chaarvi Bansal, P.R. Deepa, Vinti Agarwal, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0957417424004251?via%3Dihub
     display: "Expert Systems with Applications, Volume 249, Part A, 1 September 2024, 123560"
@@ -105,21 +105,21 @@
     display: "Environmental Modelling & Software, Volume 178, July 2024, 106072"
   highlight: 0
 
-  - title: "A review of ensemble learning and data augmentation models for class imbalanced problems: Combination, implementation and evaluation"
+- title: "A review of ensemble learning and data augmentation models for class imbalanced problems: Combination, implementation and evaluation"
   authors: "Azal Ahmad Khan, Omkar Chaudhari, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0957417423032803?via%3Dihub
-    display: "EExpert Systems with Applications, Volume 244, 15 June 2024, 122778"
+    display: "Expert Systems with Applications, Volume 244, 15 June 2024, 122778"
   highlight: 0
 
- - title: "A unified machine learning framework for basketball team roster construction: NBA and WNBA"
+- title: "A unified machine learning framework for basketball team roster construction: NBA and WNBA"
   authors: "Yuhao Ke, Ranran Bian, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1568494624000723?via%3Dihub
     display: "Applied Soft Computing, Volume 153, March 2024, 111298"
   highlight: 0
 
- - title: "Sequential reversible jump MCMC for dynamic Bayesian neural networks"
+- title: "Sequential reversible jump MCMC for dynamic Bayesian neural networks"
   authors: "Nhat Minh Nguyen, Minh-Ngoc Tran, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0925231223010834?via%3Dihub
@@ -127,62 +127,62 @@
   highlight: 0
 
 - title: "A Quantum-Inspired Predator–Prey Algorithm for Real-Parameter Optimization"
-  authors: "Azal Ahmad Khan,Salman Hussain, Rohitash Chandra"
+  authors: "Azal Ahmad Khan, Salman Hussain, Rohitash Chandra"
   link:
     url: https://www.mdpi.com/1999-4893/17/1/33
     display: "Algorithms 2024, 17(1), 33"
   highlight: 0
 
-  - title: "Bayesian Neural Networks via MCMC: A Python-Based Tutorial"
+- title: "Bayesian Neural Networks via MCMC: A Python-Based Tutorial"
   authors: "Rohitash Chandra, Joshua Simmons"
   link:
     url: https://ieeexplore.ieee.org/document/10530647
     display: "IEEE Access, Volume: 12, 70519 - 70549, 15 May 2024"
   highlight: 0
 
-  - title: "Large Language Models for Metaphor Detection: Bhagavad Gita and Sermon on the Mount"
+- title: "Large Language Models for Metaphor Detection: Bhagavad Gita and Sermon on the Mount"
   authors: "Rohitash Chandra, Abhishek Tiwari, Naman Jain, Sushrut Badhe"
   link:
     url: http://dx.doi.org/10.1109/ACCESS.2024.3411060
     display: "IEEE Access, 12, pp. 84452 - 84469"
   highlight: 0
 
-  - title: "Recursive Deep Learning Framework for Forecasting the Decadal World Economic Outlook"
+- title: "Recursive Deep Learning Framework for Forecasting the Decadal World Economic Outlook"
   authors: "Tianyi Wang, Rodney Beard, John Hawkins, Rohitash Chandra"
   link:
     url: https://ieeexplore.ieee.org/document/10704677
     display: "IEEE Access, 12, pp. 152921 - 152944"
   highlight: 0
 
-  - title: "ReefCoreSeg: A Clustering-Based Framework for Multi-Source Data Fusion for Segmentation of Reef Drill Cores"
+- title: "ReefCoreSeg: A Clustering-Based Framework for Multi-Source Data Fusion for Segmentation of Reef Drill Cores"
   authors: "Ratneel Deo, Jody M. Webster, Tristan Salles, Rohitash Chandra"
   link:
     url: https://ieeexplore.ieee.org/document/10352143
     display: "IEEE Access, 12, pp. 12164 - 12180"
   highlight: 0
 
-  - title: "Memory capacity of recurrent neural networks with matrix representation"
+- title: "Memory capacity of recurrent neural networks with matrix representation"
   authors: "Animesh Renanse, Alok Sharma, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0925231223009475?via%3Dihub
     display: "Neurocomputing, 560"
   highlight: 0
 
-  - title: "Surrogate-assisted distributed swarm optimisation for computationally expensive geoscientific models"
+- title: "Surrogate-assisted distributed swarm optimisation for computationally expensive geoscientific models"
   authors: "Rohitash Chandra, Yash Vardhan Sharma"
   link:
     url: https://link.springer.com/article/10.1007/s10596-023-10223-4
-    display: " Computational Geosciences, Volume 27, pages 939–954, (2023)"
+    display: "Computational Geosciences, Volume 27, pages 939–954, (2023)"
   highlight: 0
 
-    - title: "Gradient boosting Bayesian neural networks via Langevin MCMC"
+- title: "Gradient boosting Bayesian neural networks via Langevin MCMC"
   authors: "George Bai, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0925231223008494?via%3Dihub
     display: "Neurocomputing, Volume 558, 14 November 2023, 126726"
   highlight: 0
 
-    - title: "DeepGR4J: A deep learning hybridization approach for conceptual rainfall-runoff modelling"
+- title: "DeepGR4J: A deep learning hybridization approach for conceptual rainfall-runoff modelling"
   authors: "Arpit Kapoor, Sahani Pathiraja, Lucy Marshall, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1364815223002177?via%3Dihub
@@ -199,48 +199,48 @@
   highlight: 0
 
 - title: "Reef-Insight: A Framework for Reef Habitat Mapping with Clustering Methods Using Remote Sensing"
-  authors: "Saharsh Barve,Jody M. Webster, Rohitash Chandra "
+  authors: "Saharsh Barve, Jody M. Webster, Rohitash Chandra"
   link:
     url: https://www.mdpi.com/2078-2489/14/7/373
     display: "Information 2023, 14(7), 373"
   highlight: 0
 
-  - title: "Unsupervised machine learning framework for discriminating major variants of concern during COVID-19"
+- title: "Unsupervised machine learning framework for discriminating major variants of concern during COVID-19"
   authors: "Rohitash Chandra, Chaarvi Bansal, Mingyue Kang, Tom Blau, Vinti Agarwal, Pranjal Singh, Laurence O. W. Wilson, Seshadri Vasan"
   link:
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285719
     display: "https://doi.org/10.1371/journal.pone.0285719"
   highlight: 0
 
-  - title: "Bayesian neuroevolution using distributed swarm optimization and tempered MCMC"
+- title: "Bayesian neuroevolution using distributed swarm optimization and tempered MCMC"
   authors: "Arpit Kapoor, Eshwar Nukala, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S1568494622006056?via%3Dihub
     display: "Applied Soft Computing, Volume 129, November 2022, 109528"
   highlight: 0
 
-  - title: "CoviRx: A User-Friendly Interface for Systematic Down-Selection of Repurposed Drug Candidates for COVID-19"
-  authors: "by Hardik A. Jain, Vinti Agarwal, Chaarvi Bansal, Anupama Kumar, Faheem, Muzaffar-Ur-Rehman Mohammed, Sankaranarayanan Murugesan, Moana M. Simpson, Avinash V. Karpe, Rohitash Chandra, Christopher A. MacRaild,Ian K. Styles, Amanda L. Peterson, Matthew A. Cooper, Carl M. J. Kirkpatrick, Rohan M. Shah, Enzo A. Palombo, Natalie L. Trevaskis, Darren J. Creek, Seshadri S. Vasan"
+- title: "CoviRx: A User-Friendly Interface for Systematic Down-Selection of Repurposed Drug Candidates for COVID-19"
+  authors: "Hardik A. Jain, Vinti Agarwal, Chaarvi Bansal, Anupama Kumar, Faheem, Muzaffar-Ur-Rehman Mohammed, Sankaranarayanan Murugesan, Moana M. Simpson, Avinash V. Karpe, Rohitash Chandra, Christopher A. MacRaild, Ian K. Styles, Amanda L. Peterson, Matthew A. Cooper, Carl M. J. Kirkpatrick, Rohan M. Shah, Enzo A. Palombo, Natalie L. Trevaskis, Darren J. Creek, Seshadri S. Vasan"
   link:
     url: https://www.mdpi.com/2306-5729/7/11/164
     display: "Data 2022, 7(11), 164"
   highlight: 0
 
-  - title: "Evolutionary bagging for ensemble learning"
+- title: "Evolutionary bagging for ensemble learning"
   authors: "Giang Ngo, Rodney Beard, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0925231222010414?via%3Dihub
     display: "Neurocomputing, Volume 510, 21 October 2022, Pages 1-14"
   highlight: 0
 
-  - title: "Spatio temporal hydrological extreme forecasting framework using LSTM deep learning model"
+- title: "Spatio temporal hydrological extreme forecasting framework using LSTM deep learning model"
   authors: "Anshuka Anshuka, Rohitash Chandra, Alexander J. V. Buzacott, David Sanderson, Floris F. van Ogtrop"
   link:
     url: https://link.springer.com/article/10.1007/s00477-022-02204-3
     display: "Stochastic Environmental Research and Risk Assessment, Volume 36, pages 3467–3485, (2022)"
   highlight: 0
 
-  - title: "Artificial intelligence for topic modelling in Hindu philosophy: Mapping themes between the Upanishads and the Bhagavad Gita"
+- title: "Artificial intelligence for topic modelling in Hindu philosophy: Mapping themes between the Upanishads and the Bhagavad Gita"
   authors: "Rohitash Chandra, Mukul Ranjan"
   link:
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273476
@@ -272,166 +272,157 @@
   authors: "Kapoor A; Negi A; Marshall L; Chandra R"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1364815223000403?via%3Dihub
-    display: Environmental Modelling & Software, vol. 162, pp. 105654 - 105654 (2023)
+    display: "Environmental Modelling & Software, vol. 162, pp. 105654 - 105654 (2023)"
   highlight: 0
 
-  - title: "Deep learning for predicting respiratory rate from biosignals"
+- title: "Deep learning for predicting respiratory rate from biosignals"
   authors: "Amit Krishan Kumar, M. Ritam, Lina Han, Shuli Guo, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0010482522001305?via%3Dihub
     display: "Computers in Biology and Medicine, Volume 144, May 2022, 105338"
   highlight: 0
 
-  - title: "A Comparative Study of Convolutional Neural Networks and Conventional Machine Learning Models for Lithological Mapping Using Remote Sensing Data"
-  authors: "Hojat Shirmard, Ehsan Farahbakhsh,Elnaz Heidari, Amin Beiranvand Pour, Biswajeet Pradhan, Dietmar Müller, Rohitash Chandra"
+- title: "A Comparative Study of Convolutional Neural Networks and Conventional Machine Learning Models for Lithological Mapping Using Remote Sensing Data"
+  authors: "Hojat Shirmard, Ehsan Farahbakhsh, Elnaz Heidari, Amin Beiranvand Pour, Biswajeet Pradhan, Dietmar Müller, Rohitash Chandra"
   link:
     url: https://www.mdpi.com/2072-4292/14/4/819
     display: "Remote Sens. 2022, 14(4), 819"
   highlight: 0
 
-  - title: "Distributed Bayesian optimisation framework for deep neuroevolution"
+- title: "Distributed Bayesian optimisation framework for deep neuroevolution"
   authors: "Rohitash Chandra, Animesh Tiwari"
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0925231221015319?via%3Dihub
     display: "Neurocomputing, Volume 470, 22 January 2022, Pages 51-65"
   highlight: 0
 
-  - title: "A review of machine learning in processing remote sensing data for mineral exploration"
+- title: "A review of machine learning in processing remote sensing data for mineral exploration"
   authors: "Hojat Shirmard, Ehsan Farahbakhsh, R. Dietmar Müller, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0034425721004703?via%3Dihub
     display: "Remote Sensing of Environment, Volume 268, January 2022, 112750"
   highlight: 0
 
-  - title: "Deep learning via LSTM models for COVID-19 infection forecasting in India"
+- title: "Deep learning via LSTM models for COVID-19 infection forecasting in India"
   authors: "Rohitash Chandra, Ayush Jain, Divyanshu Singh Chauhan"
   link:
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262708
     display: "January 28, 2022, https://doi.org/10.1371/journal.pone.0262708"
   highlight: 0
 
-  - title: "Revisiting Bayesian Autoencoders With MCMC"
+- title: "Revisiting Bayesian Autoencoders With MCMC"
   authors: "Rohitash Chandra, Mahir Jain, Manavendra Maharana, Pavel N. Krivitsky"
   link:
     url: https://ieeexplore.ieee.org/document/9745141
-    display: IEEE Access, 10, pp. 40482 - 40495
+    display: "IEEE Access, 10, pp. 40482 - 40495"
   highlight: 0
 
-  - title: "Semantic and Sentiment Analysis of Selected Bhagavad Gita Translations Using BERT-Based Language Framework"
+- title: "Semantic and Sentiment Analysis of Selected Bhagavad Gita Translations Using BERT-Based Language Framework"
   authors: "Rohitash Chandra, Kulkarni V"
   link:
     url: http://dx.doi.org/10.1109/ACCESS.2022.3152266
     display: "IEEE Access, 10, pp. 21291 - 21315"
   highlight: 0
 
- - title: "SMOTified-GAN for Class Imbalanced Pattern Classification Problems"
+- title: "SMOTified-GAN for Class Imbalanced Pattern Classification Problems"
   authors: "Anuraganand Sharma, Prabhat Kumar Singh, Rohitash Chandra"
   link:
     url: https://ieeexplore.ieee.org/document/9733348
     display: "IEEE Access, 10, pp. 30655 - 30665"
   highlight: 0
-  
-   - title: "Predicting the emplacement of Cordilleran porphyry copper systems using a spatio-temporal machine learning model"
+
+- title: "Predicting the emplacement of Cordilleran porphyry copper systems using a spatio-temporal machine learning model"
   authors: "Julian Diaz-Rodriguez, R. Dietmar Müller, Rohitash Chandra"
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0169136821003267?via%3Dihub
-    display: "Ore Geology Reviews
-Volume 137, October 2021, 104300"
+    display: "Ore Geology Reviews, Volume 137, October 2021, 104300"
   highlight: 0
 
-   - title: "COVID-19 sentiment analysis via deep learning during the rise of novel cases"
+- title: "COVID-19 sentiment analysis via deep learning during the rise of novel cases"
   authors: "Rohitash Chandra, Aswin Krishna"
   link:
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255615
-    display: "Ore Geology Reviews, 137"
+    display: "PLOS ONE, 16(8), e0255615"
   highlight: 0
 
-   - title: "COVID-19 sentiment analysis via deep learning during the rise of novel cases"
-  authors: "Rohitash Chandra, Aswin Krishna"
-  link:
-    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255615
-    display: "Plos One, 16"
-  highlight: 0
-
-   - title: "Bayesian neural networks for stock price forecasting before and during COVID-19 pandemic"
+- title: "Bayesian neural networks for stock price forecasting before and during COVID-19 pandemic"
   authors: "Rohitash Chandra, Yixuan He"
   link:
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253217
-    display: "Plos One, 16"
+    display: "PLOS ONE, 16(8), e0255615"
   highlight: 0
 
-   - title: "Precipitation reconstruction from climate-sensitive lithologies using Bayesian machine learning"
+- title: "Precipitation reconstruction from climate-sensitive lithologies using Bayesian machine learning"
   authors: "Rohitash Chandra, Sally Cripps, Nathaniel Butterworth, R. Dietmar Muller"
   link:
     url: https://linkinghub.elsevier.com/retrieve/pii/S1364815221000451
     display: "Environmental Modelling and Software, 139, pp. 105002"
   highlight: 0
 
-   - title: "Bayesian geological and geophysical data fusion for the construction and uncertainty quantification of 3D geological models"
-  authors: "Hugo K.H. Olierook, Richard Scalzo, 
-David Kohn, Rohitash Chandra, Ehsan Farahbakhsh, Chris Clark, Steven M. Reddy, R. Dietmar Müller"
+- title: "Bayesian geological and geophysical data fusion for the construction and uncertainty quantification of 3D geological models"
+  authors: "Hugo K.H. Olierook, Richard Scalzo, David Kohn, Rohitash Chandra, Ehsan Farahbakhsh, Chris Clark, Steven M. Reddy, R. Dietmar Müller"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1674987120301195?via%3Dihub
     display: "Geoscience Frontiers, Volume 12, Issue 1, January 2021, Pages 479-493"
   highlight: 0
 
-  - title: "Biden vs Trump: Modeling US General Elections Using BERT Language Model"
+- title: "Biden vs Trump: Modeling US General Elections Using BERT Language Model"
   authors: "Chandra R; Saini R"
   link:
     url: http://dx.doi.org/10.1109/ACCESS.2021.3111035
     display: "IEEE Access, 9, pp. 128494 - 128505"
   highlight: 0
 
-  - title: "Evaluation of Deep Learning Models for Multi-Step Ahead Time Series Prediction"
+- title: "Evaluation of Deep Learning Models for Multi-Step Ahead Time Series Prediction"
   authors: "Chandra R, Goyal S, Gupta R"
   link:
     url: http://dx.doi.org/10.1109/ACCESS.2021.3085085
     display: "IEEE Access, 9, pp. 83105 - 83123"
   highlight: 0
 
-  - title: "Surrogate-assisted parallel tempering for Bayesian neural learning"
+- title: "Surrogate-assisted parallel tempering for Bayesian neural learning"
   authors: "Chandra R, Jain K, Kapoor A, Aman A"
   link:
     url: http://dx.doi.org/10.1016/j.engappai.2020.103700
     display: "Engineering Applications of Artificial Intelligence, 94, pp. 103700"
   highlight: 0
 
-  - title: "Surrogate-assisted Bayesian inversion for landscape and basin evolution models"
+- title: "Surrogate-assisted Bayesian inversion for landscape and basin evolution models"
   authors: "Chandra R, Azam D, Kapoor A, Dietmar Müller R"
   link:
     url: http://dx.doi.org/10.5194/gmd-13-2959-2020
     display: "Geoscientific Model Development, 13, pp. 2959 - 2979"
   highlight: 0
 
-  - title: "Integration of selective dimensionality reduction techniques for mineral exploration using ASTER satellite data"
+- title: "Integration of selective dimensionality reduction techniques for mineral exploration using ASTER satellite data"
   authors: "Shirmard H, Farahbakhsh E, Pour AB, Muslim AM, Dietmar Müller R, Chandra R"
   link:
     url: http://dx.doi.org/10.3390/RS12081261
     display: "Remote Sensing, 12"
   highlight: 0
 
-  - title: "Computer vision-based framework for extracting tectonic lineaments from optical remote sensing data"
+- title: "Computer vision-based framework for extracting tectonic lineaments from optical remote sensing data"
   authors: "Farahbakhsh E, Chandra R, Olierook HKH, Scalzo R, Clark C, Reddy SM, Müller RD"
   link:
     url: http://dx.doi.org/10.1080/01431161.2019.1674462
     display: "International Journal of Remote Sensing, 41, pp. 1760 - 1787"
   highlight: 0
 
-  - title: "Bayesreef: A Bayesian inference framework for modelling reef growth in response to environmental change and biological dynamics"
+- title: "Bayesreef: A Bayesian inference framework for modelling reef growth in response to environmental change and biological dynamics"
   authors: "Pall J, Chandra R, Azam D, Salles T, Webster JM, Scalzo R, Cripps S"
   link:
     url: http://dx.doi.org/10.1016/j.envsoft.2019.104610
     display: "Environmental Modelling and Software, 125"
   highlight: 0
 
-  - title: "Bayesian neural multi-source transfer learning"
+- title: "Bayesian neural multi-source transfer learning"
   authors: "Chandra R, Kapoor A"
   link:
     url: http://dx.doi.org/10.1016/j.neucom.2019.10.042
     display: "Neurocomputing, 378, pp. 54 - 64"
   highlight: 0
 
-  - title: "Three-dimensional weights of evidence modelling of a deep-seated porphyry cu deposit"
+- title: "Three-dimensional weights of evidence modelling of a deep-seated porphyry cu deposit"
   authors: "Farahbakhsh E, Hezarkhani A, Eslamkish T, Bahroudi A, Chandra R"
   link:
     url: http://dx.doi.org/10.1144/geochem2020-038
