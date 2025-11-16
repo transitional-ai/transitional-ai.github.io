@@ -13,10 +13,10 @@
   highlight: 0
 
 - title: "Convolutional Neural Networks for Mineral Prospecting Through Alteration Mapping with Remote Sensing Data"
-  authors: Ehsan Farahbakhsh, Dakshi Goel, Dhiraj Pimparkar, R. Dietmar Müller & Rohitash Chandra
+  authors: Ehsan Farahbakhsh, Dakshi Goel, Dhiraj Pimparkar, R. Dietmar Muller, Rohitash Chandra
   link:
     url: https://doi.org/10.1007/s41064-025-00344-z
-    display: PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science, Volume 93, pages 379–400, (2025)
+    display: Journal of Photogrammetry, Remote Sensing and Geoinformation Science, Volume 93, pages 379–400, (2025)
   highlight: 0
 
 - title: "Pedestrian trajectory prediction using goal-driven and dynamics-based deep learning framework"
@@ -44,7 +44,7 @@
   authors: Rohitash Chandra; Aryan Chaudhari; Yeshwanth Rayavarapu
   link:
     url: https://ieeexplore.ieee.org/document/11071312
-    display: IEEE Access ( Volume: 13),122386 - 122407, 03 July 2025 
+    display: IEEE Access (Volume: 13), 122386 - 122407, 03 July 2025 
   highlight: 0
 
   - title: "HP-BERT: A Framework for Longitudinal Study of Hinduphobia on Social Media via Language Models"
