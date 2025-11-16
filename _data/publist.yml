@@ -1,103 +1,102 @@
 - title: "QDeepGR4J: Quantile-based ensemble of deep learning and GR4J hybrid rainfall-runoff models for extreme flow prediction with uncertainty quantification"
-  authors: Arpit Kapoor, Rohitash Chandra
+  authors: "Arpit Kapoor, Rohitash Chandra"
   link:
     url: https://doi.org/10.1016/j.jhydrol.2025.134434
-    display: Journal of Hydrology, Volume 664, Part B, January 2026, 134434
+    display: "Journal of Hydrology, Volume 664, Part B, January 2026, 134434"
   highlight: 0
 
 - title: "Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars"
-  authors:  Tejay Lovelock, Rohitash Chandra
+  authors: "Tejay Lovelock, Rohitash Chandra"
   link:
     url: https://doi.org/10.3390/rs17213578
-    display: Remote Sens. 2025, 17(21), 3578
+    display: "Remote Sens. 2025, 17(21), 3578"
   highlight: 0
 
 - title: "Convolutional Neural Networks for Mineral Prospecting Through Alteration Mapping with Remote Sensing Data"
-  authors: Ehsan Farahbakhsh, Dakshi Goel, Dhiraj Pimparkar, R. Dietmar Muller, Rohitash Chandra
+  authors: "Ehsan Farahbakhsh, Dakshi Goel, Dhiraj Pimparkar, R. Dietmar Müller & Rohitash Chandra"
   link:
     url: https://doi.org/10.1007/s41064-025-00344-z
-    display: Journal of Photogrammetry, Remote Sensing and Geoinformation Science, Volume 93, pages 379–400, (2025)
+    display: "PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science, Volume 93, pages 379–400, (2025)"
   highlight: 0
 
 - title: "Pedestrian trajectory prediction using goal-driven and dynamics-based deep learning framework"
-  authors: Honghui Wang, Weiming Zhi, Gustavo Batista, Rohitash Chandra
+  authors: "Honghui Wang, Weiming Zhi, Gustavo Batista, Rohitash Chandra"
   link:
     url: https://doi.org/10.1016/j.eswa.2025.126557
-    display: Expert Systems with Applications, Volume 271, 1 May 2025, 126557
+    display: "Expert Systems with Applications, Volume 271, 1 May 2025, 126557"
   highlight: 0
 
 - title: "Large language models for newspaper sentiment analysis during COVID-19: The Guardian"
-  authors: Rohitash Chandra, Baicheng Zhu, Qingying Fang,Eka Shinjikashvili
+  authors: "Rohitash Chandra, Baicheng Zhu, Qingying Fang, Eka Shinjikashvili"
   link:
     url: https://doi.org/10.1016/j.asoc.2025.112743
-    display: Applied Soft Computing Volume 171, March 2025, 112743
+    display: "Applied Soft Computing Volume 171, March 2025, 112743"
   highlight: 0
 
 - title: "Multi-modal deep learning for credit rating prediction using text and numerical data streams"
-  authors: Mahsa Tavakoli, Rohitash Chandra, Fengrui Tian, Cristián Bravo
+  authors: "Mahsa Tavakoli, Rohitash Chandra, Fengrui Tian, Cristián Bravo"
   link:
     url: https://doi.org/10.1016/j.asoc.2025.112771
-    display: Applied Soft Computing Volume 171, March 2025, 112771
-  highlight: 0
-  
-- title: "An Evaluation of LLMs and Google Translate for Translation of Selected Indian Languages via Sentiment and Semantic Analyses"
-  authors: Rohitash Chandra; Aryan Chaudhari; Yeshwanth Rayavarapu
-  link:
-    url: https://ieeexplore.ieee.org/document/11071312
-    display: "IEEE Access (Volume: 13), 122386 - 122407, 03 July 2025" 
+    display: "Applied Soft Computing Volume 171, March 2025, 112771"
   highlight: 0
 
-  - title: "HP-BERT: A Framework for Longitudinal Study of Hinduphobia on Social Media via Language Models"
-  authors: Ashutosh Singh; Rohitash Chandra
+- title: "An Evaluation of LLMs and Google Translate for Translation of Selected Indian Languages via Sentiment and Semantic Analyses"
+  authors: "Rohitash Chandra; Aryan Chaudhari; Yeshwanth Rayavarapu"
+  link:
+    url: https://ieeexplore.ieee.org/document/11071312
+    display: "IEEE Access (Volume: 13), 122386 - 122407, 03 July 2025"
+  highlight: 0
+
+- title: "HP-BERT: A Framework for Longitudinal Study of Hinduphobia on Social Media via Language Models"
+  authors: "Ashutosh Singh; Rohitash Chandra"
   link:
     url: https://ieeexplore.ieee.org/document/11192418
-    display: IEEE Access ( Volume: 13), 175309 - 175335, 03 October 2025
+    display: "IEEE Access (Volume: 13), 175309 - 175335, 03 October 2025"
   highlight: 0
 
 - title: "An Analysis of Vaccine-Related Sentiments on Twitter (X) from Development to Deployment of COVID-19 Vaccines"
-  image: vaccine_polarity.png 
-  authors: Rohitash Chandra, Jayesh Sonawane, Jahnavi Lande 
+  image: vaccine_polarity.png
+  authors: "Rohitash Chandra, Jayesh Sonawane, Jahnavi Lande"
   description: Anti-vaccine sentiments have been well-known and reported throughout the history of viral outbreaks and vaccination programmes. The COVID-19 pandemic caused fear and uncertainty about vaccines, which has been well expressed on social media platforms such as Twitter (X). We analyse sentiments from the beginning of the COVID-19 pandemic and study the public behaviour on X during the planning, development, and deployment of vaccines expressed in tweets worldwide using a sentiment analysis framework via deep learning models. We provide visualisation and analysis of anti-vaccine sentiments throughout the COVID-19 pandemic. We review the nature of the sentiments expressed with the number of tweets and monthly COVID-19 infections. Our results show a link between the number of tweets, the number of cases, and the change in sentiment polarity scores during major waves of COVID-19. We also find that the first half of the pandemic had drastic changes in the sentiment polarity scores that later stabilised, implying that the vaccine rollout impacted the nature of discussions on social media.
   link:
-    url: https://doi.org/10.3390/bdcc8120186 
+    url: https://doi.org/10.3390/bdcc8120186
     display: https://doi.org/10.3390/bdcc8120186
   highlight: 1
 
 - title: "Deep learning for COVID-19 topic modelling via Twitter: Alpha, Delta and Omicron"
   image: twitter.png
-  description:  Topic modelling with innovative deep learning methods has gained interest for a wide range of applications that includes COVID-19. Topic modelling can provide, psychological, social and cultural insights for understanding human behaviour in extreme events such as the COVID-19 pandemic. In this paper, we use prominent deep learning-based language models for COVID-19 topic modelling taking into account data from emergence (Alpha) to the Omicron variant. We apply topic modeling to review the public behaviour across the first, second and third waves based on Twitter dataset from India. Our results show that the topics extracted for the subsequent waves had certain overlapping themes such as covers governance, vaccination, and pandemic management while novel issues aroused in political, social and economic situation during COVID-19 pandemic. We also found a strong correlation of the major topics qualitatively to news media prevalent at the respective time period. Hence, our framework has the potential to capture major issues arising during different phases of the COVID-19 pandemic which can be extended to other countries and regions.
-  authors: Lande J; Pillay A; Chandra R
+  description: Topic modelling with innovative deep learning methods has gained interest for a wide range of applications that includes COVID-19. Topic modelling can provide, psychological, social and cultural insights for understanding human behaviour in extreme events such as the COVID-19 pandemic. In this paper, we use prominent deep learning-based language models for COVID-19 topic modelling taking into account data from emergence (Alpha) to the Omicron variant. We apply topic modeling to review the public behaviour across the first, second and third waves based on Twitter dataset from India. Our results show that the topics extracted for the subsequent waves had certain overlapping themes such as covers governance, vaccination, and pandemic management while novel issues aroused in political, social and economic situation during COVID-19 pandemic. We also found a strong correlation of the major topics qualitatively to news media prevalent at the respective time period. Hence, our framework has the potential to capture major issues arising during different phases of the COVID-19 pandemic which can be extended to other countries and regions.
+  authors: "Lande J; Pillay A; Chandra R"
   link:
     url: http://arxiv.org/abs/2303.00135v1
     display: arxiv:2303.00135 (2023)
   highlight: 0
 
-- title: " An evaluation of Google Translate for Sanskrit to English translation via sentiment and semantic analysis "
+- title: "An evaluation of Google Translate for Sanskrit to English translation via sentiment and semantic analysis"
   image: translate.png
-  description:  Google Translate has been prominent for language translation; however, limited work has been done in evaluating the quality of translation when compared to human experts. Sanskrit one of the oldest written languages in the world. In 2022, the Sanskrit language was added to the Google Translate engine. Sanskrit is known as the mother of languages such as Hindi and an ancient source of the Indo-European group of languages. Sanskrit is the original language for sacred Hindu texts such as the Bhagavad Gita. In this study, we present a framework that evaluates the Google Translate for Sanskrit using the Bhagavad Gita. We first publish a translation of the Bhagavad Gita in Sanskrit using Google Translate. Our framework then compares Google Translate version of Bhagavad Gita with expert translations using sentiment and semantic analysis via BERT-based language models. Our results indicate that in terms of sentiment and semantic analysis, there is low level of similarity in selected verses of Google Translate when compared to expert translations. In the qualitative evaluation, we find that Google translate is unsuitable for translation of certain Sanskrit words and phrases due to its poetic nature, contextual significance, metaphor and imagery. The mistranslations are not surprising since the Bhagavad Gita is known as a difficult text not only to translate, but also to interpret since it relies on contextual, philosophical and historical information. Our framework lays the foundation for automatic evaluation of other languages by Google Translate
-  authors: Shukla A; Bansal C; Badhe S; Ranjan M; Chandra R
+  description: Google Translate has been prominent for language translation; however, limited work has been done in evaluating the quality of translation when compared to human experts. Sanskrit one of the oldest written languages in the world. In 2022, the Sanskrit language was added to the Google Translate engine. Sanskrit is known as the mother of languages such as Hindi and an ancient source of the Indo-European group of languages. Sanskrit is the original language for sacred Hindu texts such as the Bhagavad Gita. In this study, we present a framework that evaluates the Google Translate for Sanskrit using the Bhagavad Gita. We first publish a translation of the Bhagavad Gita in Sanskrit using Google Translate. Our framework then compares Google Translate version of Bhagavad Gita with expert translations using sentiment and semantic analysis via BERT-based language models. Our results indicate that in terms of sentiment and semantic analysis, there is low level of similarity in selected verses of Google Translate when compared to expert translations. In the qualitative evaluation, we find that Google translate is unsuitable for translation of certain Sanskrit words and phrases due to its poetic nature, contextual significance, metaphor and imagery. The mistranslations are not surprising since the Bhagavad Gita is known as a difficult text not only to translate, but also to interpret since it relies on contextual, philosophical and historical information. Our framework lays the foundation for automatic evaluation of other languages by Google Translate
+  authors: "Shukla A; Bansal C; Badhe S; Ranjan M; Chandra R"
   link:
     url: http://arxiv.org/abs/2303.07201v1
-    display:  arxiv:2303.07201 (2023)
+    display: arxiv:2303.07201 (2023)
   highlight: 1
 
 - title: "Physics-informed neural entangled-ladder network for inhalation impedance of the respiratory system"
   image: physics.png
-  description:  The use of machine learning methods for modelling bio-systems is becoming prominent which can further improve bio-medical technologies. Physics-informed neural networks (PINNs) can embed the knowledge of physical laws that govern a system during the model training process. PINNs utilise differential equations in the model which traditionally used numerical methods that are computationally complex.  We integrate PINNs with an entangled ladder network for modelling respiratory systems by considering a lungs conduction zone to evaluate the respiratory impedance for different initial conditions. We evaluate the respiratory impedance for the inhalation phase of breathing for a symmetric model of the human lungs using entanglement and continued fractions.
-  authors:  Kumar AK; Jain S; Jain S; Ritam M; Xia Y; Chandra R
+  description: The use of machine learning methods for modelling bio-systems is becoming prominent which can further improve bio-medical technologies. Physics-informed neural networks (PINNs) can embed the knowledge of physical laws that govern a system during the model training process. PINNs utilise differential equations in the model which traditionally used numerical methods that are computationally complex. We integrate PINNs with an entangled ladder network for modelling respiratory systems by considering a lungs conduction zone to evaluate the respiratory impedance for different initial conditions. We evaluate the respiratory impedance for the inhalation phase of breathing for a symmetric model of the human lungs using entanglement and continued fractions.
+  authors: "Kumar AK; Jain S; Jain S; Ritam M; Xia Y; Chandra R"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0169260723000883?via%3Dihub
     display: Computer Methods and Programs in Biomedicine, vol. 231, pp. 107421 - 107421 (2023)
   highlight: 0
-  news1:   <a style="color:#FF0000" href="https://www.youtube.com/watch?v=DnhA8h3YmJs"> Covered in 't~ai Seminar Series'  by Dr Amit Kumar</a>
-   
+  news1: <a style="color:#FF0000" href="https://www.youtube.com/watch?v=DnhA8h3YmJs"> Covered in 't~ai Seminar Series'  by Dr Amit Kumar</a>
 
 - title: "Cyclone trajectory and intensity prediction with uncertainty quantification using variational recurrent neural networks"
   image: cyclone.png
-  description: Cyclone track forecasting is a critical climate science problem involving time-series prediction of cyclone location and intensity. Machine learning methods have shown much promise in this domain, especially deep learning methods such as recurrent neural networks (RNNs). However, these methods generally make single-point predictions with little focus on uncertainty quantification. Although Markov Chain Monte Carlo (MCMC) methods have often been used for quantifying uncertainty in neural network predictions, these methods are computationally expensive. Variational Inference (VI) is an alternative to MCMC sampling that approximates the posterior distribution of parameters by minimizing a KL-divergence loss between the estimate and the true posterior. In this paper, we present variational RNNs for cyclone track and intensity prediction in four different regions across the globe. We utilise simple RNNs and long short-term memory (LSTM) RNNs and use the energy score (ES) to evaluate multivariate probabilistic predictions. The results show that variational RNNs provide a good approximation with uncertainty quantification when compared to conventional RNNs while maintaining prediction accuracy.   
-  authors:  Kapoor A; Negi A; Marshall L; Chandra R
+  description: Cyclone track forecasting is a critical climate science problem involving time-series prediction of cyclone location and intensity. Machine learning methods have shown much promise in this domain, especially deep learning methods such as recurrent neural networks (RNNs). However, these methods generally make single-point predictions with little focus on uncertainty quantification. Although Markov Chain Monte Carlo (MCMC) methods have often been used for quantifying uncertainty in neural network predictions, these methods are computationally expensive. Variational Inference (VI) is an alternative to MCMC sampling that approximates the posterior distribution of parameters by minimizing a KL-divergence loss between the estimate and the true posterior. In this paper, we present variational RNNs for cyclone track and intensity prediction in four different regions across the globe. We utilise simple RNNs and long short-term memory (LSTM) RNNs and use the energy score (ES) to evaluate multivariate probabilistic predictions. The results show that variational RNNs provide a good approximation with uncertainty quantification when compared to conventional RNNs while maintaining prediction accuracy.
+  authors: "Kapoor A; Negi A; Marshall L; Chandra R"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1364815223000403?via%3Dihub
     display: Environmental Modelling & Software, vol. 162, pp. 105654 - 105654 (2023)
   highlight: 0
-  
+
