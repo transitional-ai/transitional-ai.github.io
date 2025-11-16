@@ -7,7 +7,7 @@ permalink: /resources/
 
 ## t~ai Seminar Series
 
-[See full list of Seminars here](/seminars/) 
+* Tejay Lovelock and Rohitash Chandra, "Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars", MDPI Remote Sensing (October 2025). [MDPI Remote Sensing](https://www.mdpi.com/2072-4292/17/21/3578), [YouTube](https://youtu.be/wg0SvBLTTvI) 
 
 * Junru Hua, Rahul Ahluwalia, Rohitash Chandra, "Extreme value forecasting using relevance-based data augmentation with deep learning models", (October 2025). [arXiv Link](http://arxiv.org/abs/2510.0240), [YouTube](https://youtu.be/PTzot9Op-5M)
 

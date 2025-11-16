@@ -6,9 +6,16 @@
   video: https://youtu.be/PTzot9Op-5M
   date: October 2025
 
+- title: "Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars"
+  authors:  Tejay Lovelock and Rohitash Chandra
+  url: https://www.mdpi.com/2072-4292/17/21/3578
+  display: MDPI Remote Sensing
+  video: https://youtu.be/wg0SvBLTTvI
+  date: August 2025
+
 - title: "Analysis of IMDb Movie Reviews and Ratings Using a Language Model Framework"
   authors:  G. Ren and  Rohitash Chandra
-  url: http://arxiv.org/abs/2510.0240
+  url: https://doi.org/10.1109/ACCESS.2025.3629760
   display: IEEE access
   video: https://youtu.be/sHO-PIV2cZA
   date: July 2025
