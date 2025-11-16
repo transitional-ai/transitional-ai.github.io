@@ -1,3 +1,10 @@
+- title: "QDeepGR4J: Quantile-based ensemble of deep learning and GR4J hybrid rainfall-runoff models for extreme flow prediction with uncertainty quantification"
+  authors: Arpit Kapoor, Rohitash Chandra
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2025.134434
+    display: Journal of Hydrology
+  highlight: 0
+
 - title: "An Analysis of Vaccine-Related Sentiments on Twitter (X) from Development to Deployment of COVID-19 Vaccines"
   image: vaccine_polarity.png 
   authors: Rohitash Chandra, Jayesh Sonawane, Jahnavi Lande 
