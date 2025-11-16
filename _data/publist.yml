@@ -2,10 +2,101 @@
   authors: Arpit Kapoor, Rohitash Chandra
   link:
     url: https://doi.org/10.1016/j.jhydrol.2025.134434
-    display: Journal of Hydrology
-Volume 664, Part B, January 2026, 134434
+    display: Journal of Hydrology, Volume 664, Part B, January 2026, 134434
   highlight: 0
 
+- title: "Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars"
+  authors:  Tejay Lovelock, Rohitash Chandra
+  link:
+    url: https://doi.org/10.3390/rs17213578
+    display: Remote Sens. 2025, 17(21), 3578
+  highlight: 0
+
+- title: "Convolutional Neural Networks for Mineral Prospecting Through Alteration Mapping with Remote Sensing Data"
+  authors: Ehsan Farahbakhsh, Dakshi Goel, Dhiraj Pimparkar, R. Dietmar Müller & Rohitash Chandra
+  link:
+    url: https://doi.org/10.1007/s41064-025-00344-z
+    display: PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science, Volume 93, pages 379–400, (2025)
+  highlight: 0
+
+- title: "Pedestrian trajectory prediction using goal-driven and dynamics-based deep learning framework"
+  authors: Honghui Wang, Weiming Zhi, Gustavo Batista, Rohitash Chandra
+  link:
+    url: https://doi.org/10.1016/j.eswa.2025.126557
+    display: Expert Systems with Applications, Volume 271, 1 May 2025, 126557
+  highlight: 0
+
+- title: "Large language models for newspaper sentiment analysis during COVID-19: The Guardian"
+  authors: Rohitash Chandra, Baicheng Zhu, Qingying Fang,Eka Shinjikashvili
+  link:
+    url: https://doi.org/10.1016/j.asoc.2025.112743
+    display: Applied Soft Computing Volume 171, March 2025, 112743
+  highlight: 0
+
+- title: "Multi-modal deep learning for credit rating prediction using text and numerical data streams"
+  authors: Mahsa Tavakoli, Rohitash Chandra, Fengrui Tian, Cristián Bravo
+  link:
+    url: https://doi.org/10.1016/j.asoc.2025.112771
+    display: Applied Soft Computing Volume 171, March 2025, 112771
+  highlight: 0
+
+  - title: "An Evaluation of LLMs and Google Translate for Translation of Selected Indian Languages via Sentiment and Semantic Analyses"
+  authors: Rohitash Chandra; Aryan Chaudhari; Yeshwanth Rayavarapu
+  link:
+    url: https://ieeexplore.ieee.org/document/11071312
+    display: IEEE Access ( Volume: 13),122386 - 122407, 03 July 2025 
+  highlight: 0
+
+  - title: "HP-BERT: A Framework for Longitudinal Study of Hinduphobia on Social Media via Language Models"
+  authors: Ashutosh Singh; Rohitash Chandra
+  link:
+    url: https://ieeexplore.ieee.org/document/11192418
+    display: IEEE Access ( Volume: 13), 175309 - 175335, 03 October 2025
+  highlight: 0
+
+  - title: "你的论文标题"
+  authors: "作者1; 作者2; 作者3"
+  link:
+    url: https://example.com/paper
+    display: 期刊名称或链接文本
+  highlight: 0
+
+  - title: "你的论文标题"
+  authors: "作者1; 作者2; 作者3"
+  link:
+    url: https://example.com/paper
+    display: 期刊名称或链接文本
+  highlight: 0
+
+    - title: "你的论文标题"
+  authors: "作者1; 作者2; 作者3"
+  link:
+    url: https://example.com/paper
+    display: 期刊名称或链接文本
+  highlight: 0
+
+    - title: "你的论文标题"
+  authors: "作者1; 作者2; 作者3"
+  link:
+    url: https://example.com/paper
+    display: 期刊名称或链接文本
+  highlight: 0
+
+    - title: "你的论文标题"
+  authors: "作者1; 作者2; 作者3"
+  link:
+    url: https://example.com/paper
+    display: 期刊名称或链接文本
+  highlight: 0
+
+    - title: "你的论文标题"
+  authors: "作者1; 作者2; 作者3"
+  link:
+    url: https://example.com/paper
+    display: 期刊名称或链接文本
+  highlight: 0
+
+  
 - title: "An Analysis of Vaccine-Related Sentiments on Twitter (X) from Development to Deployment of COVID-19 Vaccines"
   image: vaccine_polarity.png 
   authors: Rohitash Chandra, Jayesh Sonawane, Jahnavi Lande 
