@@ -50,11 +50,13 @@
   highlight: 0
 
 - title: "HP-BERT: A Framework for Longitudinal Study of Hinduphobia on Social Media via Language Models"
+  image: Hpframework.jpg
+  description: During the COVID-19 pandemic, community tensions intensified, contributing to discriminatory sentiments against various religious groups, including Hindu communities. Recent advances in language models have shown promise for social media analysis with potential for longitudinal studies of social media platforms, such as X (Twitter). We present a computational framework for analyzing anti-Hindu sentiment (Hinduphobia) during the COVID-19 period, introducing an abuse detection and sentiment analysis approach for longitudinal analysis on X. We curate and release a “Hinduphobic COVID-19 XDataset” containing 8,000 annotated and manually verified tweets. We then develop the Hinduphobic BERT (HP-BERT) model using this dataset and achieve 94.72% accuracy, outperforming baseline Transformer-based language models. The model incorporates multi-label sentiment analysis capabilities through additional fine-tuning. Our analysis encompasses approximately 27.4 million tweets from six countries, including Australia, Brazil, India, Indonesia, Japan, and the United Kingdom. Statistical analysis reveals moderate correlations (r = 0.312-0.428) between COVID-19 case increases and Hinduphobic content volume, highlighting how pandemic-related stress may contribute to discriminatory discourse. This study provides evidence of social media-based religious discrimination during a COVID-19 crisis.
   authors: "Ashutosh Singh; Rohitash Chandra"
   link:
     url: https://ieeexplore.ieee.org/document/11192418
     display: "IEEE Access (Volume: 13), 175309 - 175335, 03 October 2025"
-  highlight: 0
+  highlight: 1
 
 - title: "Science and Hinduism share the vision of a quest for truth"
   authors: "Rohitash Chandra"
@@ -64,11 +66,13 @@
   highlight: 0
 
 - title: "Longitudinal abuse and sentiment analysis of Hollywood movie dialogues using language models"
+  image: 11framework.jpg
+  description: Over the past decades, there has been an increase in the prevalence of abusive and violent content in Hollywood movies. In this study, we use language models to explore the longitudinal abuse and sentiment analysis of Hollywood Oscar and blockbuster movie dialogues from 1950 to 2024. We provide an analysis of subtitles for over a thousand movies, which are categorised into four genres. We employ fine-tuned language models to examine the trends and shifts in emotional and abusive content over the past seven decades. Findings reveal significant temporal changes in movie dialogues, which reflect broader social and cultural influences. Overall, the emotional tendencies in the films are diverse, and the detection of abusive content also exhibits significant fluctuations. The results show a gradual rise in abusive content in recent decades, reflecting social norms and regulatory policy changes. Genres such as thrillers still present a higher frequency of abusive content that emphasises the ongoing narrative role of violence and conflict. At the same time, underlying positive emotions such as humour and optimism remain prevalent in most of the movies. Furthermore, the gradual increase of abusive content in movie dialogues has been significant over the last two decades, where Oscar-nominated movies overtook the top ten blockbusters.
   authors: "Rohitash Chandra, Guoxiang Ren"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S266682702500132X?via%3Dihub
     display: "Machine Learning with Applications, Volume 22, December 2025, 100749"
-  highlight: 0
+  highlight: 1
 
 - title: "An Analysis of Vaccine-Related Sentiments on Twitter (X) from Development to Deployment of COVID-19 Vaccines"
   image: vaccine_polarity.png
