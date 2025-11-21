@@ -6,11 +6,13 @@
   highlight: 0
 
 - title: "Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars"
+  image: remotesensing.png
+  description: Planetary exploration missions have acquired a growing amount of remote sensing data, offering a reliable basis for studying the geological evolution of planetary bodies such as Mars. In recent years, machine learning models have emerged as powerful tools for remote sensing by providing scalable and adaptive solutions for planetary science. We present a machine learning approach to map the spatial distribution of minerals on Mars, representing a step toward large-scale automated mineral mapping. Although existing CRISM dimensionality reduction methods are useful, the feature space remains high-dimensional, and relying on RGB overlays limits the ability to preserve and detect complex relationships, increasing the risk of missing important spectral patterns. Our framework utilises the Self-Organising Map (SOM) model and k-means clustering to identify clusters of spectral signatures, which may correspond to distinct minerals. It reduces dimensionality to a two-dimensional grid while preserving key high-dimensional patterns and relationships, providing a more reliable and interpretable basis for semi-automated analysis than RGB overlays. Although the clusters can be labelled by referencing a spectral library, our framework does not require labelled data and can operate in an unsupervised manner. The framework retains full spectral dimensionality of input features. The results indicate that our framework can identify the spatial distribution of minerals on Mars, even in complex spectral environments with overlapping features. Moreover, the SOM model output is interpretable rather than a black box, providing intuitive guidance for mineral exploration when applied in a semi-automated workflow.
   authors: "Tejay Lovelock, Rohitash Chandra"
   link:
     url: https://doi.org/10.3390/rs17213578
     display: "Remote Sens. 2025, 17(21), 3578"
-  highlight: 0
+  highlight: 1
 
 - title: "Convolutional Neural Networks for Mineral Prospecting Through Alteration Mapping with Remote Sensing Data"
   authors: "Ehsan Farahbakhsh, Dakshi Goel, Dhiraj Pimparkar, R. Dietmar Müller & Rohitash Chandra"
