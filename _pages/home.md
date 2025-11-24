@@ -9,11 +9,11 @@ permalink: /
 ### Bula Namaste!!
 
 <p>
-We are a  research group  based at the  UNSW [Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths). Our aim is develop and apply novel artificial intelligence methods to multi-disiplinary areas that includes science, engineering, and humanities.  
+We are a  research group  based at the  UNSW [Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths). Our aim is to develop and apply novel artificial intelligence methods to multi-disciplinary areas that include science, engineering, and humanities.  
 </p>
 
 <p>
-Our research encircling methodologies and applications of artificial intelligence. The methodologies include  deep learning, ensemble learning, Bayesian deep learning, neuro-evolution, and data augmentation. The applications include climate extremes, geoscientific models, mineral exploration, biomedicine, natural language processing, and  COVID-19. We pioneered the area of language models for studying ancient religious-philosophical texts.  We machine learning and remote sensing for mineral exploration, and is currently focusing on critical metals. We use  deep learning for climate extremes and currently developing a model for decadal forecasts of high category cyclones. Our COVID-19 research  focuses on drug re-pourposing, infection forecasting, and social media-based language modelling.
+Our research encircles methodologies and applications of artificial intelligence. The methodologies include  deep learning, ensemble learning, Bayesian deep learning, neuro-evolution, and data augmentation. The applications include climate extremes, geoscientific models, mineral exploration, biomedicine, natural language processing, and  COVID-19. We pioneered the area of language models for studying ancient religious-philosophical texts.  We use machine learning and remote sensing for mineral exploration, and are currently focusing on critical metals. Our focus is on the area of large language models for  language translation, media,  and the humanities. 
 </p>
 
 
@@ -80,13 +80,13 @@ We are grateful for collaboration with [ARC-ITTC Data Analytics in Resources and
 </figure>
 
 <p>
-We are actively ooking for passionate new research students, research interns, and collaborators to join the research team. [(More info about current and open projects.)]({{ site.url }}{{ site.baseurl }}/vacancies)  
+We are actively looking for passionate new research students, research interns, and collaborators to join the research team. [(More info about current and open projects.)]({{ site.url }}{{ site.baseurl }}/vacancies)  
 </p>
 
 ### Philosophy
 
-Transitional  Artificial Intelligence Research Group (t~ai) aims to train the next generation of scientists, philosophers and technologists for humanity.  We need to break down the barriers between  science, arts and humanities  with innovations in artificial intelligence. 
+Transitional  Artificial Intelligence Research Group (t~ai) aims to train the next generation of scientists, philosophers and technologists for humanity.  We need to break down the barriers between  science, the arts and the humanities  with innovations in artificial intelligence. 
 
 ### History
 
-t~ai was created at UNSW School of Mathematics and Statistics in January 2020 by Dr Rohitash Chandra. The  group was envisioned  in 2019   with research activies at the Centre of Translational Data Science - University of Sydney in collaboration with EarthBye and Geocoastal Research Group. The group has transitioned from the Artificial Intelligence and Cybernetics Research Group at Software Foundation (Fiji) and University of the South Pacific, Fiji (2013 - 2015).  Since then, we have been actively recruiting research students and interns who have shaped the course of our research - and enabled the development of novel methodologies and applications. 
+t~ai was created at UNSW School of Mathematics and Statistics in January 2020 by Dr Rohitash Chandra. The  group was envisioned  in 2019   with research activities at the Centre of Translational Data Science - University of Sydney, in collaboration with EarthBye and Geocoastal Research Group. The group has transitioned from the Artificial Intelligence and Cybernetics Research Group at the Software Foundation (Fiji) and the University of the South Pacific, Fiji (2013 - 2015).  Since then, we have been actively recruiting research students and interns who have shaped the course of our research - and enabled the development of novel methodologies and applications. 
