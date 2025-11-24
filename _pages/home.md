@@ -37,9 +37,7 @@ Our research encircling methodologies and applications of artificial intelligenc
       <div class="item active"> 
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_3.jpg" alt="Slide 1" />
       </div>
-      <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_4.png" alt="Slide 2" />
-      </div>       
+         
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_5.jpeg" alt="Slide 3" />
       </div>
@@ -52,9 +50,7 @@ Our research encircling methodologies and applications of artificial intelligenc
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_1.jpg" alt="Slide 6" />
       </div> 
-      <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics_2.jpg" alt="Slide 7" />
-      </div> 
+   
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics_4.jpg" alt="Slide 8" />
       </div> 
