@@ -11,8 +11,6 @@ permalink: /publications/
 
 ### Highlights
 
-You can find the [full list](#full-list-of-publications) at the end. All papers are also available on [UNSW Research site](https://research.unsw.edu.au/people/dr-rohitash-chandra/publications).
-
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
@@ -53,8 +51,7 @@ You can find the [full list](#full-list-of-publications) at the end. All papers 
 
  
 ### Full List 
-
-[Articles, Preprints, and Conference Proceedings ](https://research.unsw.edu.au/people/dr-rohitash-chandra/publications)
+ 
 
 {% for publi in site.data.publist %}
 
