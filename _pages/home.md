@@ -29,6 +29,7 @@ Our research encircles methodologies and applications of artificial intelligence
         <li data-target="#carousel" data-slide-to="5"></li> 
         <li data-target="#carousel" data-slide-to="6"></li>   
         <li data-target="#carousel" data-slide-to="9"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
 
     <!-- Items -->
@@ -51,6 +52,9 @@ Our research encircles methodologies and applications of artificial intelligence
       </div>  
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics_5.jpg" alt="Slide 9" />
+      </div> 
+         <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics_2.jpg" alt="Slide 8" />
       </div> 
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
