@@ -48,8 +48,7 @@ permalink: /seminars/
 
  
 ### Full List 
-
-[Articles, Preprints, and Conference Proceedings ](https://research.unsw.edu.au/people/dr-rohitash-chandra/publications)
+ 
 
 {% for publi in site.data.seminars %}
 
