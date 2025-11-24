@@ -27,8 +27,7 @@ Our research encircles methodologies and applications of artificial intelligence
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li> 
         <li data-target="#carousel" data-slide-to="5"></li> 
-        <li data-target="#carousel" data-slide-to="6"></li>  
-        <li data-target="#carousel" data-slide-to="8"></li> 
+        <li data-target="#carousel" data-slide-to="6"></li>   
         <li data-target="#carousel" data-slide-to="9"></li>
     </ol>
 
@@ -49,11 +48,7 @@ Our research encircles methodologies and applications of artificial intelligence
       </div> 
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_1.jpg" alt="Slide 6" />
-      </div> 
-   
-      <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics_4.jpg" alt="Slide 8" />
-      </div> 
+      </div>  
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics_5.jpg" alt="Slide 9" />
       </div> 
