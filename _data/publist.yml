@@ -1,3 +1,31 @@
+- title: "Deep learning framework for crater detection and identification on the Moon and Mars"
+  authors: "Yihan Ma, Jessie Guo, Zeyang Yu,  Rohitash Chandra"
+  link:
+    url: https://doi.org/10.1038/s44453-026-00036-x
+    display: "npj Space Explor. 2, 19 (2026)"
+  highlight: 0
+
+- title: "Evaluation of LLMs for mathematical problem solving"
+  authors: "Ruonan Wang, Runxi Wang, Yuwen Shen, Chengfeng Wu, Qinglin Zhou, Rohitash Chandra"
+  link:
+    url: https://doi.org/10.1016/j.nexres.2026.101705
+    display: "Next Research, Volume 9, July 2026, 101705"
+  highlight: 0
+
+- title: "Landcover classification and change detection using remote sensing and machine learning: a case study of Western Fiji"
+  authors: "Yadvendra Gurjar, Ruoni Wen, Ehsan Farahbakhsh, Rohitash Chandra"
+  link:
+    url: https://doi.org/10.1016/j.asr.2026.03.024
+    display: "Advances in Space Research, Volume 77, Issue 9, May 2026"
+  highlight: 0
+
+- title: "Review of deep learning models for crypto price prediction: implementation and evaluation"
+  authors: "Jingyang Wu, Xinyi Zhang, Fangyixuan Huang, Haochen Zhou, Rohtiash Chandra"
+  link:
+    url: https://doi.org/10.1016/j.nexres.2026.101513
+    display: "Next Research, Volume 8, June 2026, 101513"
+  highlight: 0
+
 - title: "QDeepGR4J: Quantile-based ensemble of deep learning and GR4J hybrid rainfall-runoff models for extreme flow prediction with uncertainty quantification"
   authors: "Arpit Kapoor, Rohitash Chandra"
   link:
