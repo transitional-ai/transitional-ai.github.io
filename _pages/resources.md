@@ -1,5 +1,5 @@
 ---
-title: "t~AI - Web Resources"
+title: "t~AI - Resources"
 layout: piclay
 excerpt: "t~AI - Resources"
 permalink: /resources/
