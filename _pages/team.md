@@ -148,6 +148,8 @@ permalink: /team/
 
 ### Ph.D
 
+* Dr Arpit Kapoor, "Process-Aware Hybrid Deep Learning for Environmental Systems and Extremes'', School of Mathematics and Statistics,  UNSW Sydney,  May 2026 (Principal  Supervisor with Dr Sahani Pathiraja and Prof. Lucy Marshall)
+* Dr Mahsa Tavakoli, "Synergy of language models and time series models for credit rate forecasting'', Western University, Canada,  February 2026 (External supervisor with A/Prof. Cristian  Roman)
 * Dr Saman Forouzandeh, "Recommender systems using graph-based deep learning'', School of Mathematics and Statistics,  UNSW Sydney,  April 2025 (Joint Principal  Supervisor with Dr Pavel Krivitsky)
 * Dr Ratneel Deo, ''Deep learning for understanding geo-coastal and reef development``, University of Sydney, April 2025 (External Supervisor   with Prof. Jody Webster and Dr Tristan Salles)
 * Dr Nhat Minh Megan Nguyen, "Bayesian Inference for Complex Models", University of Sydney,  September 2024 (External Supervisor with A/Prof. Minh-Ngoc Tran and Dr Tongliang Liu)
