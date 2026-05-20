@@ -1,11 +1,18 @@
 ---
-title: "t~AI - Resources"
+title: "t~AI - Web Resources"
 layout: piclay
 excerpt: "t~AI - Resources"
 permalink: /resources/
 ---
 
 ## t~ai Seminar Series
+
+* Rohitash Chandra, “Approaching Consciousness in AI with Hindu philosophy”, (May 2026). 
+[ResearchGate](https://doi.org/10.13140/RG.2.2.21930.17607), [YouTube]
+
+* Discussion with Dr John Hawkins and A/Prof Rohitash Chandra, “Impact of AI in the Workplace”, (May 2026). [YouTube](https://youtu.be/0tggwpZ2NZc)
+
+* Amuche Ibenegbu, Pierre Lafaye de Micheaux and Rohitash Chandra, “tBayes-MICE: A Bayesian Approach to Multiple Imputation for Time Series Data”, (April 2026). [arXiv Link](https://arxiv.org/abs/2603.27142), [YouTube](https://youtu.be/lGbF9P13_y0)
 
 * Tejay Lovelock and Rohitash Chandra, "Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars", (August 2025). [MDPI Remote Sensing](https://www.mdpi.com/2072-4292/17/21/3578), [YouTube](https://youtu.be/wg0SvBLTTvI) 
 
