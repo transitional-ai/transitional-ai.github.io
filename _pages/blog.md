@@ -8,7 +8,7 @@ permalink: /news/
 
 ## Latest News
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="max-width: 450px; margin: 0 auto;">
     <!-- Menu -->
     <ol class="carousel-indicators"> 
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
