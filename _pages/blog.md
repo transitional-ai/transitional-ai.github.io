@@ -8,12 +8,6 @@ permalink: /news/
 
 ## Latest News
 
-{% for post in site.posts %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p>{{ post.summary }}</p>
-  <br/>
-{% endfor %}
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators"> 
@@ -25,13 +19,15 @@ permalink: /news/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">   
       <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Sangdeok.jpeg" alt="Slide 0" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Sangdeok.jpeg" alt="Slide 0" class="img-responsive" />
+        <div class="carousel-caption" style="position: static; text-align: left; padding-top: 5px; color: #666;">
+    <small>¹ Welcoming PhD student Sangdeok Lee to our group. <i>May 20, 2026</i></small>
       </div>
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1_May6_26John.jpeg" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1_May6_26John.jpeg" alt="Slide 1" class="img-responsive" />
       </div>   
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2_May6_26John.jpeg" alt="Slide 2" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2_May6_26John.jpeg" alt="Slide 2" class="img-responsive" />
       </div> 
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -44,12 +40,21 @@ permalink: /news/
   </a>
 </div>
 
+
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
+
+{% for post in site.posts %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p>{{ post.summary }}</p>
+  <br/>
+{% endfor %}
+
+
 <br/>
 <br/>
 <br/>
