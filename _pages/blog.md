@@ -20,7 +20,7 @@ permalink: /news/
     <div class="carousel-inner" markdown="0">   
       <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Sangdeok.jpeg" alt="Slide 0" class="img-responsive" />
-        <div class="carousel-caption" style="position: static; text-align: left; padding-top: 5px; color: #666;">
+        <div style="padding: 6px 0; color: #666; text-align: left;">
     <small>¹ Welcoming PhD student Sangdeok Lee to our group. <i>May 20, 2026</i></small>
       </div>
       <div class="item">
