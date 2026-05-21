@@ -22,13 +22,13 @@ permalink: /news/
       <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Rohit.jpeg" alt="Slide 0" class="img-responsive" />
         <div style="padding: 6px 0; color: #666; text-align: left;">
-         <small style="font-size: 14px;>¹ Assoc.Prof. Rohitash Chandra presenting at the t~AI Seminar series. <i>May 20, 2026</i></small>
+         <small>¹ Assoc.Prof. Rohitash Chandra presenting at the t~AI Seminar series. <i>May 20, 2026</i></small>
         </div> 
       </div>
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Sangdeok.jpeg" alt="Slide 1" class="img-responsive" />
         <div style="padding: 6px 0; color: #666; text-align: left;">
-         <small style="font-size: 14px;>² Welcoming PhD student Sangdeok Lee to our group. <i>May 20, 2026</i></small>
+         <small>² Welcoming PhD student Sangdeok Lee to our group. <i>May 20, 2026</i></small>
         </div> 
       </div>  
       <div class="item">
