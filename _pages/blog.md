@@ -24,7 +24,7 @@ permalink: /news/
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">   
-      <div class="item">
+      <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Sangdeok.jpeg" alt="Slide 0" />
       </div>
       <div class="item">
