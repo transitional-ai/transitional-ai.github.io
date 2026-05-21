@@ -8,6 +8,12 @@ permalink: /news/
 
 ## Latest News
 
+{% for post in site.posts %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p>{{ post.summary }}</p>
+  <br/>
+{% endfor %}
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators"> 
@@ -17,15 +23,13 @@ permalink: /news/
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-   
+    <div class="carousel-inner" markdown="0">   
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Sangdeok.jpeg" alt="Slide 0" />
       </div>
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1_May6_26John.jpeg" alt="Slide 1" />
-      </div> 
-  
+      </div>   
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2_May6_26John.jpeg" alt="Slide 2" />
       </div> 
@@ -42,13 +46,6 @@ permalink: /news/
 
 <br/>
 <br/>
-
-{% for post in site.posts %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p>{{ post.summary }}</p>
-  <br/>
-{% endfor %}
-
 <br/>
 <br/>
 <br/>
