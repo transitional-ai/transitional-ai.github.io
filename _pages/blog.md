@@ -33,6 +33,9 @@ permalink: /news/
       </div>  
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1_May6_26John.jpeg" alt="Slide 2" style="width: 100%; height: 450px; object-fit: cover;" />
+        <div style="padding: 6px 0; color: #666; text-align: left;">
+         <small>³ Dr John Hawkins launched his new book at the UNSW bookstore. <i>May 6, 2026</i></small>
+        </div> 
       </div>   
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2_May6_26John.jpeg" alt="Slide 3" style="width: 100%; height: 450px; object-fit: cover;" />
