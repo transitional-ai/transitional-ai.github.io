@@ -32,6 +32,7 @@ Our research encircles methodologies and applications of artificial intelligence
         <li data-target="#carousel" data-slide-to="7"></li> 
         <li data-target="#carousel" data-slide-to="8"></li>   
         <li data-target="#carousel" data-slide-to="9"></li> 
+        <li data-target="#carousel" data-slide-to="10"></li> 
     </ol>
 
     <!-- Items -->
@@ -48,28 +49,32 @@ Our research encircles methodologies and applications of artificial intelligence
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Rohit.jpeg" alt="Slide 2" />
       </div> 
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Sangdeok.jpeg" alt="Slide 3" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Apr29_26Amuche.jpeg" alt="Slide 3" />
       </div> 
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_7.jpg" alt="Slide 4" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Sangdeok.jpeg" alt="Slide 4" />
       </div> 
       
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics_2.jpg" alt="Slide 5" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_7.jpg" alt="Slide 5" />
+      </div> 
+      
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics_2.jpg" alt="Slide 6" />
       </div>
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics.jpg" alt="Slide 6" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics.jpg" alt="Slide 7" />
       </div>
 
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics_5.jpg" alt="Slide 7" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BBQ_Pics_5.jpg" alt="Slide 8" />
       </div>        
       
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_1.jpg" alt="Slide 8" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_1.jpg" alt="Slide 9" />
       </div>   
       <div class="item"> 
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_3.jpg" alt="Slide 9" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_3.jpg" alt="Slide 10" />
       </div> 
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
