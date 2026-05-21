@@ -21,7 +21,8 @@ permalink: /news/
       <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Sangdeok.jpeg" alt="Slide 0" class="img-responsive" />
         <div style="padding: 6px 0; color: #666; text-align: left;">
-    <small>¹ Welcoming PhD student Sangdeok Lee to our group. <i>May 20, 2026</i></small>
+         <small>¹ Welcoming PhD student Sangdeok Lee to our group. <i>May 20, 2026</i></small>
+        </div> 
       </div>
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1_May6_26John.jpeg" alt="Slide 1" class="img-responsive" />
