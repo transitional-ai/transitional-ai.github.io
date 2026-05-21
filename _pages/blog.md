@@ -8,27 +8,34 @@ permalink: /news/
 
 ## Latest News
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="max-width: 70%; margin: 0 auto; >
     <!-- Menu -->
     <ol class="carousel-indicators"> 
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li> 
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">   
       <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Sangdeok.jpeg" alt="Slide 0" class="img-responsive" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Rohit.jpeg" alt="Slide 0" class="img-responsive" />
         <div style="padding: 6px 0; color: #666; text-align: left;">
-         <small>¹ Welcoming PhD student Sangdeok Lee to our group. <i>May 20, 2026</i></small>
+         <small style="font-size: 14px;>¹ A/Prof Rohitash Chandra presenting at the t~AI Seminar series. <i>May 20, 2026</i></small>
         </div> 
       </div>
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1_May6_26John.jpeg" alt="Slide 1" class="img-responsive" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Sangdeok.jpeg" alt="Slide 1" class="img-responsive" />
+        <div style="padding: 6px 0; color: #666; text-align: left;">
+         <small style="font-size: 14px;>² Welcoming PhD student Sangdeok Lee to our group. <i>May 20, 2026</i></small>
+        </div> 
+      </div>  
+      <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1_May6_26John.jpeg" alt="Slide 2" class="img-responsive" />
       </div>   
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2_May6_26John.jpeg" alt="Slide 2" class="img-responsive" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2_May6_26John.jpeg" alt="Slide 3" class="img-responsive" />
       </div> 
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
