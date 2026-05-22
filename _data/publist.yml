@@ -1,3 +1,10 @@
+- title: "Machine learning-based correlation analysis of decadal cyclone intensity with sea surface temperature: data and tutorial"
+  authors: "Jingyang Wu, Rohitash Chandra"
+  link:
+    url: https://doi.org/10.1007/s00477-026-03251-w
+    display: "Stoch Environ Res Risk Assess, Open access, Volume 40, 130 (2026)"
+  highlight: 0
+
 - title: "Deep learning framework for crater detection and identification on the Moon and Mars"
   authors: "Yihan Ma, Jessie Guo, Zeyang Yu,  Rohitash Chandra"
   link:
@@ -39,7 +46,7 @@
   authors: "Tejay Lovelock, Rohitash Chandra"
   link:
     url: https://doi.org/10.3390/rs17213578
-    display: "Remote Sens. 2025, 17(21), 3578"
+    display: "Remote Sensing, Volume 17,  November 2025, 3578"
   highlight: 1
 
 - title: "Convolutional Neural Networks for Mineral Prospecting Through Alteration Mapping with Remote Sensing Data"
@@ -108,7 +115,7 @@
   description: Anti-vaccine sentiments have been well-known and reported throughout the history of viral outbreaks and vaccination programmes. The COVID-19 pandemic caused fear and uncertainty about vaccines, which has been well expressed on social media platforms such as Twitter (X). We analyse sentiments from the beginning of the COVID-19 pandemic and study the public behaviour on X during the planning, development, and deployment of vaccines expressed in tweets worldwide using a sentiment analysis framework via deep learning models. We provide visualisation and analysis of anti-vaccine sentiments throughout the COVID-19 pandemic. We review the nature of the sentiments expressed with the number of tweets and monthly COVID-19 infections. Our results show a link between the number of tweets, the number of cases, and the change in sentiment polarity scores during major waves of COVID-19. We also find that the first half of the pandemic had drastic changes in the sentiment polarity scores that later stabilised, implying that the vaccine rollout impacted the nature of discussions on social media.
   link:
     url: https://doi.org/10.3390/bdcc8120186
-    display: https://doi.org/10.3390/bdcc8120186
+    display: "Big Data and Cognitive Computing, Volume 8, 186, December 2024"
   highlight: 1
 
 - title: "Deepdive: Leveraging Pre-trained Deep Learning for Deep-Sea ROV Biota Identification in the Great Barrier Reef"
@@ -286,8 +293,8 @@
   description: Google Translate has been prominent for language translation; however, limited work has been done in evaluating the quality of translation when compared to human experts. Sanskrit one of the oldest written languages in the world. In 2022, the Sanskrit language was added to the Google Translate engine. Sanskrit is known as the mother of languages such as Hindi and an ancient source of the Indo-European group of languages. Sanskrit is the original language for sacred Hindu texts such as the Bhagavad Gita. In this study, we present a framework that evaluates the Google Translate for Sanskrit using the Bhagavad Gita. We first publish a translation of the Bhagavad Gita in Sanskrit using Google Translate. Our framework then compares Google Translate version of Bhagavad Gita with expert translations using sentiment and semantic analysis via BERT-based language models. Our results indicate that in terms of sentiment and semantic analysis, there is low level of similarity in selected verses of Google Translate when compared to expert translations. In the qualitative evaluation, we find that Google translate is unsuitable for translation of certain Sanskrit words and phrases due to its poetic nature, contextual significance, metaphor and imagery. The mistranslations are not surprising since the Bhagavad Gita is known as a difficult text not only to translate, but also to interpret since it relies on contextual, philosophical and historical information. Our framework lays the foundation for automatic evaluation of other languages by Google Translate
   authors: "Shukla A; Bansal C; Badhe S; Ranjan M; Chandra R"
   link:
-    url: http://arxiv.org/abs/2303.07201v1
-    display: arxiv:2303.07201 (2023)
+    url: https://doi.org/10.1016/j.nlp.2023.100025
+    display: "Natural Language Processing Journal, Volume 4, September 2023, 100025"
   highlight: 1
 
 - title: "Physics-informed neural entangled-ladder network for inhalation impedance of the respiratory system"

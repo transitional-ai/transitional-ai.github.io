@@ -1,6 +1,6 @@
 - name: A/Prof. Rohitash Chandra
   photo: rohitash.jpg
-  info: Director  and Senior Lecturer in Data Science, University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=pVPvRLoAAAAJ"> Google Scholar </a> <a href="https://research.unsw.edu.au/people/dr-rohitash-chandra"> Web </a> 
+  info: Director, Associate Professor in Data Science, University of New South Wales. <a href="https://scholar.google.com.au/citations?hl=en&user=pVPvRLoAAAAJ"> Google Scholar </a> <a href="https://research.unsw.edu.au/people/dr-rohitash-chandra"> Web </a> 
   email: rohitash.chandra@unsw.edu.au 
  
 - name: Dr Ehsan Farahbakhsh
@@ -44,7 +44,7 @@
   email:  eka@unsw.edu.au
 
 - name:  Prof. Alok Sharma
-  photo: Alok.jpg
+  photo: Alok.png
   info: Professor and Scientist at RIKEN, Japan. <a href="https://scholar.google.com/citations?user=RVEFII8AAAAJ&hl=en"> Google Scholar
   email:  alok@riken.jp
    

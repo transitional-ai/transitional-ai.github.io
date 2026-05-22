@@ -1,14 +1,14 @@
 ---
 title: "t~AI - Web Resources"
 layout: piclay
-excerpt: "t~AI - Resources"
+excerpt: "t~AI - Web Resources"
 permalink: /resources/
 ---
 
 ## t~ai Seminar Series
 
 * Rohitash Chandra, “Approaching Consciousness in AI with Hindu philosophy”, (May 2026). 
-[ResearchGate](https://doi.org/10.13140/RG.2.2.21930.17607), [YouTube]
+[ResearchGate](https://doi.org/10.13140/RG.2.2.21930.17607)
 
 * Discussion with Dr John Hawkins and A/Prof Rohitash Chandra, “Impact of AI in the Workplace”, (May 2026). [YouTube](https://youtu.be/0tggwpZ2NZc)
 
@@ -29,7 +29,7 @@ permalink: /resources/
 
 ## Tutorials
 * R. Chandra, R. and J. Simmons,  Bayesian neural networks via MCMC: a Python-based tutorial. IEEE Access, 2024. [Github](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial), [Video Tutorial](https://www.youtube.com/watch?v=L-GjYvW23BE&feature=youtu.be), [Open access paper](https://ieeexplore.ieee.org/abstract/document/10530647)
-* J. Hawkins, Github tutorial, 2024
+* J. Hawkins, Github tutorial, 2024 [YouTube](https://youtu.be/8NOt2rv6ImM)
 * R. Chandra, Python Programming Bootcamp, (GitHub)[https://github.com/rohitash-chandra/python-bootcamp], 2021.  [Tutorial videos ~ 16 hours](https://www.youtube.com/channel/UCE2LfEGUhHdZIM1gfQqXthw)
 
 ## Open Datasets

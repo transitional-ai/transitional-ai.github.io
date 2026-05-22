@@ -32,7 +32,9 @@ Our research encircles methodologies and applications of artificial intelligence
         <li data-target="#carousel" data-slide-to="7"></li> 
         <li data-target="#carousel" data-slide-to="8"></li>   
         <li data-target="#carousel" data-slide-to="9"></li> 
-        <li data-target="#carousel" data-slide-to="10"></li> 
+        <li data-target="#carousel" data-slide-to="10"></li>
+        <li data-target="#carousel" data-slide-to="11"></li>
+        <li data-target="#carousel" data-slide-to="12"></li> 
     </ol>
 
     <!-- Items -->
@@ -75,7 +77,13 @@ Our research encircles methodologies and applications of artificial intelligence
       </div>   
       <div class="item"> 
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_3.jpg" alt="Slide 10" />
+      </div>
+      <div class="item"> 
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Arpit_present.jpeg" alt="Slide 11" />
       </div> 
+      <div class="item"> 
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Ren_present.jpeg" alt="Slide 12" />
+      </div>  
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
