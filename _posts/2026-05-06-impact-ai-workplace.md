@@ -20,3 +20,5 @@ Dr John Hawkins is an Australian data scientist and the author of the books _Get
 <br>
 Rohitash Chandra is an Associate Professor in Data Science at the UNSW Sydney. He is the director of the Transitional AI Research Group at UNSW, and the chairman of the Pingla Institute.
 He leads a research program  that encircles various methodologies and applications of artificial intelligence. These methodologies encompass Bayesian deep learning ensemble learning, and data augmentation, with applications in large language models, climate extremes, geoscientific models, mineral exploration, remote sensing and geocoastal modelling. His work with large language models is dedicated to machine translation, media, and humanities. He has pioneered the area of language models for studying ancient religious-philosophical texts. 
+
+<br><br>
