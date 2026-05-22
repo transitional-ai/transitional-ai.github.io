@@ -82,7 +82,7 @@ Our research encircles methodologies and applications of artificial intelligence
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Arpit_present.jpeg" alt="Slide 11" />
       </div> 
       <div class="item"> 
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Ren_present.jpeg" alt="Slide 12" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Ren_present.png" alt="Slide 12" />
       </div>  
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
