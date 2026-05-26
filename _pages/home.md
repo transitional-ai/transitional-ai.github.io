@@ -48,13 +48,13 @@ Our research encircles methodologies and applications of artificial intelligence
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May6_26John.jpeg" alt="Slide 1" />
       </div> 
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Rohit.jpeg" alt="Slide 2" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/May20_26Rohit.png" alt="Slide 2" />
       </div> 
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2_Apr29_26Amuche.jpeg" alt="Slide 3" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Apr29_26Amuche.jpeg" alt="Slide 3" />
       </div> 
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2_May20_26Sangdeok.jpeg" alt="Slide 4" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2_May20_26Sangdeok.png" alt="Slide 4" />
       </div> 
       
       <div class="item">
