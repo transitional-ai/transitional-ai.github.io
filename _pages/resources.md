@@ -8,7 +8,7 @@ permalink: /resources/
 ## t~ai Seminar Series
 
 * Rohitash Chandra, “Approaching Consciousness in AI with Hindu philosophy”, (May 2026). 
-[ResearchGate](https://doi.org/10.13140/RG.2.2.21930.17607)
+[ResearchGate](https://doi.org/10.13140/RG.2.2.21930.17607)[YouTube](https://www.youtube.com/watch?v=XamN3ljPKDM&t=9s)
 
 * Discussion with Dr John Hawkins and A/Prof Rohitash Chandra, “Impact of AI in the Workplace”, (May 2026). [YouTube](https://youtu.be/0tggwpZ2NZc)
 
