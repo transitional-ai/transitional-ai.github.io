@@ -7,6 +7,9 @@ permalink: /resources/
 
 ## t~ai Seminar Series
 
+* Sushrut Badhe, “Impact of a Structured Bhagavad Gita Pedagogy Intervention on Dispositional Mindfulness”, (June 2026). 
+[SSRN Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6472118)
+
 * Rohitash Chandra, “Approaching Consciousness in AI with Hindu philosophy”, (May 2026). 
 [ResearchGate](https://doi.org/10.13140/RG.2.2.21930.17607), [YouTube](https://www.youtube.com/watch?v=XamN3ljPKDM&t=9s)
 
