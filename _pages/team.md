@@ -129,10 +129,14 @@ permalink: /team/
  
   
 ## Research Interns and Student Collaborators
-* Simon Yaqing  Zhang, Pingla Institute, May - September 2006
-* Haoyan Chen, Pingla Institute, May - September 2006
-* Jiacheng Chen, Pingla Institute, May - September 2006
-* Yuting Wu, Pingla Institute, May - September 2006
+* Simon Yaqing  Zhang, Pingla Institute, May  
+* Haoyan Chen, Pingla Institute, May  
+* Jiacheng Chen, Pingla Institute, May  
+* Yuting Wu, Pingla Institute, May
+* Maanaav Anil Motiramani, School of Computer Science, UNSW, May 2026
+* Jiaqian Li, School of Mathematics and Statistics, UNSW, March 2026
+* Jun Kim,  School of Mathematics and Statistics, UNSW, May 2026
+* Kaif Hussian,  School of Mathematics and Statistics, UNSW, May 2026
 * Prachi Sharma, Birla Institute of Technology Mesra, March - August 2026
 * Devika Hareesh, School of Mathematics and Statistics, UNSW, March - August 2026
 * Jayesh Sonawane, Pingla Institute, March - August 2026
@@ -141,6 +145,8 @@ permalink: /team/
 * Arun Kumar Selvaraj, School of Mathematics and Statistics, UNSW, January-July 2026
 * Jiaming Yang, School of Computer Science, UNSW   (February - July 2026)
 * Takshil Aggarwal, Delhi Technological University (May - August 2026)
+  
+
 
 
  
