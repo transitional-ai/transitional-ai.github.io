@@ -126,19 +126,21 @@ permalink: /team/
 </div>
 {% endif %}
 
-
-## Masters and Honours Research Students
-
-* Jack Choi, "Transformation of abusive comments using LLMs",  Honours in Quantitative Data science, Since February 2025 (Principal Supervisor)
-* Yathin Suresh, "Ananysis of songs on Billboard charts using NLP", Honours in Computational Data Science, Since February  2025 (Principal Supervisor)
-* Thoma Duffy, "Analysis of antisemitic trends in media using LLMs", Masters in  Statistics, Since February 2025 (Principal Supervisor)
-* Yue Zhang, "Evaluation of LLM-based language translation for Mandarin to English, Masters in Data Science and Decisions, Since May 2025  (Principal Supervisor)
-  
-## Research Interns
  
- * Vamshika Sutar, Indian Institute of Technology Bombay, India (January 2024 - July 2024) 
- * Samiz M. Haghighi,  UNSW Sydney, Australia (January 2024 - July 2024)
- * Siddharth Khedkar, Indian Institute of Technology Guwahati, India (January 2024 - May 2024)
+  
+## Research Interns and Student Collaborators
+* Simon Yaqing  Zhang, Pingla Institute, May - September 2006
+* Haoyan Chen, Pingla Institute, May - September 2006
+* Jiacheng Chen, Pingla Institute, May - September 2006
+* Yuting Wu, Pingla Institute, May - September 2006
+* Prachi Sharma, Birla Institute of Technology Mesra, March - August 2026
+* Devika Hareesh, School of Mathematics and Statistics, UNSW, March - August 2026
+* Jayesh Sonawane, Pingla Institute, March - August 2026
+* Devika Hareesh, School of Mathematics and Statistics, UNSW, March - August 2026
+* Jessie Guo, School of Mathematics and Statistics, UNSW, January- July 2026
+* Arun Kumar Selvaraj, School of Mathematics and Statistics, UNSW, January-July 2026
+* Jiaming Yang, School of Computer Science, UNSW   (February - July 2026)
+* Takshil Aggarwal, Delhi Technological University (May - August 2026)
 
 
  
@@ -157,9 +159,10 @@ permalink: /team/
 * Dr Ehsan Farahbakhsh, “Developing a novel method for three-dimensional modelling of ore deposits by integrating data layers”, Amirkabir University of Technology, Tehran, December 2020 (External Supervisor)
 
 ### Honours
-
-*  Raine Bianchini, "Language models for audio transcription analysis in movies", Honours in Quantitative Data Science, August 2025 (Principal Supervisor)
-* Omkar Chaudhary, "Financial fraud detection in cryptocurrency using graph-based deep learning", Honours thesis in Economics, BITS Pilani -Goa, India, July 2025 (Principal Supervisor)
+*Jack Choi, "Transformation of abusive comments using LLMs",  Honours in Quantitative Data Science,   2025 (Principal Supervisor)
+* Yathin Suresh, "Analysis of songs on Billboard charts using NLP", Honours in Computational Data Science,   2025 (Principal Supervisor)
+* Raine Bianchini, "Language models for audio transcription analysis in movies", Honours in Quantitative Data Science, August 2025 (Principal Supervisor)
+* Omkar Kulkarni, "Financial fraud detection in cryptocurrency using graph-based deep learning", Honours thesis in Economics, BITS Pilani -Goa, India, July 2025 (Principal Supervisor)
 * Xuechun Wang, "Evaluation of Google Translate for selected Chinese texts: sentiment and semantic analysis", Honours in Quantitative Data Science, August 2024  (Principal Supervisor with Dr Rodney Beard) 
 * Shuhao Huang, "Explainable artificial intelligence for drought prediction in Australia", Honours in Computer Engineering, May 2024
 * Albert Demskoy, "Bayesian model for high category cyclone forecasting using  sea-surface temperature: four decades ahead", Honours in Data Science, December 2023
@@ -167,19 +170,22 @@ permalink: /team/
 * Sean Luo, "Evaluation of GANs with dimensional reduction approach", Honours in Data Science, May 2022 (Joint supervision with Dr Sahani Pathiraja)
 * George Maksour, "Evaluation of deep reinforcement learning models for horse-race betting", Honours in Data Science, May 2022 (Joint supervision with Dr Sahani Pathiraja)
 * Jim Ng, “ Conditional ensemble deep learning for modelling Australian climate extremes: streamflow and floods“, Honours thesis, UNSW Sydney, December 2022 (Primary Supervisor with A/Prof Willem Vervoot)
-* Eric Chen, “Deep learning for modelling historic ground-water levels via stream-flow and precipitation data”, Honours thesis, UNSW Sydney, December 2022 (Primary Supervisor with A/Prof Martin Anderson)
+* Eric Chen, “Deep learning for modelling historic ground-water levels via stream-flow and precipitation data”, Honours thesis, UNSW Sydney, December 2022 (Primary supervisor with  A/Prof Martin Anderson)
 * Royce Chen, "Pruning Bayesian neural networks with MCMC", Honours thesis, UNSW Sydney, December 2022 (Joint supervision with Dr Sahani Pathiraja)
 * George Bai, "Bayesian neural ensemble learning with parallelised  and tempered Langevin MCMC",  Honours thesis,  UNSW Sydney, December 2021 (Principal Supervisor)
  
 ### Masters (coursework - minor thesis)
 
-* Zhenyu Zhu, "Sanskrit optical character recognition using advanced deep learning models", Master's in Data Science and Decisions,  August 2025 (Principal Supervisor)
+*Thoma Duffy, "Analysis of antisemitic trends in media using LLMs", Master's in  Statistics, December 2025 (Principal Supervisor)
+* Cheng Wang, "SOM-based mineral exploration", Master's in Information Technology, December 2025 (Principal Supervisor)
+Yue Zhang, "Evaluation of LLM-based language translation for Mandarin to English, " Master's in Data Science and Decisions, December 2025  (Principal Supervisor)
+* Zhenyu Zhu, "Sanskrit optical character recognition using advanced deep learning models", Master's in Data Science and Decisions,  August 2025 (Principal Supervisor)
 * Ziyu Lei, "Political leaning analysis by large language models", Master's in Statistics, May 2025 (Principal Supervisor)
 * Yizhen Fan, "Electric load forecasting using deep learning models", Master's in  Financial Mathematics, August 2025 (Principal Supervisor)
 * Junru Hua, "Extreme value forecasting with data augmentation and deep learning ", Master's in  Data Science and Decisions,  August 2025 (Principal Supervisor)
 * Chen Wang, "Sinophobia during COVID-19: Twitter ", Master's in Data Science, August 2024 (Principal Supervisor) 
 * Tanay Panat, " Global ease of living index with data imputation and dimentionality reduction", Master's in Data Science, December 2024 (Principal Supervisor) 
-* Yeshwanth Rayavarapu, "Comparison of GPT and  Google Translate for translation of selected Indian languages", Master's in Data Science, May 2024, (Principal Supervisor) 
+* Yeshwanth Rayavarapu, "Comparison of GPT and  Google Translate for translation of selected Indian languages", Master's in Data Science, May 2024 (Principal Supervisor) 
 * Ruoni Wen, "Remote sensing and deep learning for landcover classification in Fiji", Master's in Statistics, August 2023, (Principal Supervisor), Co-supervisor Dr Ehsan Farahbakhsh)
 * Alex Bradford,  "Variational deep learning for stock price prediction",  Master's in Statistics, August 2023, (Principal Supervisor) 
 * Mukuan Hsu, "Topic modelling for COVID-19 vaccine-related tweets", Master's in Computing Science,  August 2023, (Principal Supervisor) 
@@ -195,29 +201,14 @@ permalink: /team/
 * Shaodong Lin, "World economic outlook post-COVID-19 with deep learning", Master of Statistics,  School of Mathematics and Statistics, December 2021  (Principal Supervisor) 
 * Yixuan He, "Bayesian neural learning for  financial prediction", Master of Financial Mathematics,  UNSW Sydney, August 2020 (Principal Supervisor) 
 
-### Masters by Research (major thesis)
+### Master's by Research (major thesis)
 
 * Honghui Wang, "Deep learning for instant pedestrian path prediction", Master's by Research,  2024(Principal Supervisor  with A/Prof Gustavo Batista and Dr William Zhi) 
 * Chaarvi Bansal, “Machine learning Framework for COVID-19 Drug Repurposing”, M.Sc. Biological Sciences, Birla Institute of Technology and Science Pilani and UNSW Sydney, 2022 (Principal Supervisor with Prof. P. R. Deepa )
 * Julian Rodriguez, "Machine learning for spatial-temporal mineral prospecting using plate tectonic models, M.Phil, University of Sydney (External Supervisor with Prof. Dietmar Muller, 2019-2020)
 * Ratneel Deo, “Neural network methodologies for cyclone wind intensity and path prediction”, Master of Science in Computing Science, University of the South Pacific, Suva, Fiji, December 2017  (Primary Supervisor - External Supervisor) (Nominated for Best Thesis - Gold Medal)
 
-
-
 ## Research Intern Alumni 
-### 2026
-* Simon Yaqing  Zhang, Pingla Institute, May - September 2006
-* Haoyan Chen, Pingla Institute, May - September 2006
-* Jiacheng Chen, Pingla Institute, May - September 2006
-* Yuting Wu, Pingla Institute, May - September 2006
-* Prachi Sharma, Birla Institute of Technology Mesra, March - August 2026
-* Devika Hareesh, School of Mathematics and Statistics, UNSW, March - August 2026
-* Jayesh Sonawane, Pingla Institute, March - August 2026
-* Devika Hareesh, School of Mathematics and Statistics, UNSW, March - August 2026
-* Jessie Guo, School of Mathematics and Statistics, UNSW, January- July 2026
-* Arun Kumar Selvaraj, School of Mathematics and Statistics, UNSW, January-July 2026
-* Jiaming Yang, School of Computer Science, UNSW   (February - July 2026)
-* Takshil Aggarwal, Delhi Technological University (May - August 2026)
 
 ### 2025
 * Divisha Naharas, University of Nevada - Reno, USA (January -June 2025)
@@ -247,7 +238,6 @@ permalink: /team/
 * Siddharth Khedkar, BITS Pilani, Rajasthan, India (September 2023 - December 2023)
 * Tvisha Malik, Indian Institute of Technology Delhi, India (March 2023 - August 2023) 
   
- 
 ### 2022
 
 * Azal Khan, Indian Institute of Technology, Guwahati, India (January - August 2022)   
@@ -302,7 +292,6 @@ permalink: /team/
 * Aakarsh Yadav, Indian Institute of Technology, India (June 2019 - August 2019)
 * Ashray Aman, Indian Institute of Technology Delhi, India (June 2019 - August 2019)
 * Rishab Gupta, Indian Institute of Technology, India (June 2019 - August 2019)
- 
 
 ### 2018
 
@@ -310,7 +299,6 @@ permalink: /team/
  * Arpit Kapoor, SRM Institute of Technology, India (June 2018 - August 2018)
  * Ratneel Deo, University of the South Pacific, Fiji (December 2017 - February 2018)
  * Wil Grebner, University of Sydney, Australia (February 2018 -  June 2018)
-
 
 
 ## Collaborators 
