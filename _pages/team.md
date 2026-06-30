@@ -205,6 +205,20 @@ permalink: /team/
 
 
 ## Research Intern Alumni 
+### 2026
+* Simon Yaqing  Zhang, Pingla Institute, May - September 2006
+* Haoyan Chen, Pingla Institute, May - September 2006
+* Jiacheng Chen, Pingla Institute, May - September 2006
+* Yuting Wu, Pingla Institute, May - September 2006
+* Prachi Sharma, Birla Institute of Technology Mesra, March - August 2026
+* Devika Hareesh, School of Mathematics and Statistics, UNSW, March - August 2026
+* Jayesh Sonawane, Pingla Institute, March - August 2026
+* Devika Hareesh, School of Mathematics and Statistics, UNSW, March - August 2026
+* Jessie Guo, School of Mathematics and Statistics, UNSW, January- July 2026
+* Arun Kumar Selvaraj, School of Mathematics and Statistics, UNSW, January-July 2026
+* Jiaming Yang, School of Computer Science, UNSW   (February - July 2026)
+* Takshil Aggarwal, Delhi Technological University (May - August 2026)
+
 ### 2025
 * Divisha Naharas, University of Nevada - Reno, USA (January -June 2025)
 * Fangli Cheng, UNSW (January -June 2025)
@@ -214,16 +228,17 @@ permalink: /team/
 * Sungkyun Yoo, Pingla Institute (January - June 2025)
 * Viswas Dubey, Vellore Institute of Technology  (January - June 2025)
 * Sai  Rugved, Indian Institute of Technology Guwahati, India (April - September 2025)
+* Arun Kumar Selvaraj, School of Mathematics and Statistics, UNSW, April-August 2025
 
 ### 2024
 
 * Aryan Chaudhary, National Institute of Technology Rourkela, India (September 2024- March 2025)
 * Vamshika Sutar, Indian Institute of Technology Bombay, India (July 2024 - March 2025)
-* Tanuj Chaudrary, Indian Institute of Technology Guwahati, India (July 2024 - November 2024)
+* Tanuj Chaudhary, Indian Institute of Technology Guwahati, India (July 2024 - November 2024)
 * Kartik Disawal, Indian Institute of Technology Goa, India (January - June 2024)
-* Omkar Chaudhary, BITS Pilani -Goa, India,  (June-December 2024)
+* Omkar Kulkarni, BITS Pilani -Goa, India (June-December 2024)
 
-### 2023
+### 2023 
 * Mahek Vora, Indian Institute of Technology Guwahati, India (January - May 2023)
 * Naman Jain, Indian Institute of Technology Delhi, India (May - July 2023)
 * Akshat Shukla, Indian Institute of Technology Guwahati, India (January - April 2023)
@@ -268,15 +283,14 @@ permalink: /team/
 * Aswin Krishna, Indian Institute of Technology Guwahati, India (December 2020 - February 2021)
 * Prabhat Singh, Indian Institute of Technology Guwahati, India (December 2020 - February 2021)  
 * Jiaxin Yu, School of Mathematics and Statistics, UNSW Sydney, (December 2020 - February 2021)
-* Jiaxi Zhao, School of Mathematics and Statistics, UNSW Sydney, (December 2020 - February 2021)
 * Animesh Renanse, Indian Institute of Technology Guwahati, India (May 2020 - August 2020)
-* Shaurya Goyal, Indian Institute of Technoritamlogy Delhi, India (May 2020 - August 2020)
+* Shaurya Goyal, Indian Institute of Technology Delhi, India (May 2020 - August 2020)
 * Yash Sharma, Indian Institute of Technology Roorkee, India (May 2020 - August 2020)
 * Ashish Gupta, Indian Institute of Technology Delhi, India (May 2020 - August 2020)
 * Manavendrasinh Maharana, Manipal Institute of Technology, India (Jan 2020 - June 2020)
 * Animesh Tiwari, Indian Institute of Technology Guwahati, India (May 2020 - August 2020)
 * Eshwar Nukala, Indian Institute of Technology Guwahati, India (May 2020 - August 2020)
-* Arya Arya, Indian Institute of Technology Jammu, India ( August 2020 - December 2020)  
+* Arya Arya, Indian Institute of Technology Jammu, India ( August 2020 - December 2020) 
 * Mahir Jain, Manipal Institute of Technology, India ( August 2020 - December 2020)
 * Ayush Bhagat, Manipal Institute of Technology, India ( August 2020 - December 2020)
 * Ayush Jain, Indian Institute of Technology Guwahati, India (May 2020 - August 2020)
@@ -308,7 +322,7 @@ permalink: /team/
 * Prof. Christian Omlin, Agder University, Norway
 * Prof. Willem Vervoort, University of Sydney, Australia
 * Prof. Jody Webster, University of Sydney, Australia
-* Prof. Lucy Marshall, Macquarie University, Australia
+* Prof. Lucy Marshall, University of Sydney, Australia
 * A/Prof. Cedric John, Imperial College London, UK
 * A/Prof Cristian Bravo Roman, Western Ontario University, Canada
 * Dr Amit Kumar, Vietnam
