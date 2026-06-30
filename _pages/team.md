@@ -133,6 +133,8 @@ permalink: /team/
 * Haoyan Chen, Pingla Institute, May 2026
 * Jiacheng Chen, Pingla Institute, May 2026
 * Yuting Wu, Pingla Institute, May 2026
+* Ruonan Wang, Pingla Institute, May  2006
+* Jiaming Yang, Pingla Institute, May  2006
 * Maanaav Anil Motiramani, School of Computer Science, UNSW, May 2026
 * Jiaqian Li, School of Mathematics and Statistics, UNSW, March 2026
 * Jun Kim,  School of Mathematics and Statistics, UNSW, May 2026
@@ -143,7 +145,6 @@ permalink: /team/
 * Devika Hareesh, School of Mathematics and Statistics, UNSW, March - August 2026
 * Jessie Guo, School of Mathematics and Statistics, UNSW, January- July 2026
 * Arun Kumar Selvaraj, School of Mathematics and Statistics, UNSW, January-July 2026
-* Jiaming Yang, School of Computer Science, UNSW   (February - July 2026)
 * Takshil Aggarwal, Delhi Technological University (May - August 2026)
   
 
