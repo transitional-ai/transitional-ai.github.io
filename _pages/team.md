@@ -129,10 +129,10 @@ permalink: /team/
  
   
 ## Research Interns and Student Collaborators
-* Simon Yaqing  Zhang, Pingla Institute, May  
-* Haoyan Chen, Pingla Institute, May  
-* Jiacheng Chen, Pingla Institute, May  
-* Yuting Wu, Pingla Institute, May
+* Simon Yaqing  Zhang, Pingla Institute, May 2026
+* Haoyan Chen, Pingla Institute, May 2026
+* Jiacheng Chen, Pingla Institute, May 2026
+* Yuting Wu, Pingla Institute, May 2026
 * Maanaav Anil Motiramani, School of Computer Science, UNSW, May 2026
 * Jiaqian Li, School of Mathematics and Statistics, UNSW, March 2026
 * Jun Kim,  School of Mathematics and Statistics, UNSW, May 2026
