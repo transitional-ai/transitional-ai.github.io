@@ -20,7 +20,15 @@ Our research is organised around three interconnected themes:
 2. **[Earth, Climate and Space](#2-ai-for-earth-climate-and-space)**
 3. **[Digital Humanities and Human-Centred AI](#3-digital-humanities-and-human-centred-ai)**
 
----
+<p align="center">
+  <img src="t-ai.png"
+       alt="Research themes"
+       width="650">
+</p>
+
+<p align="center">
+  <em>Research themes spanning ML methodologies, Earth and space sciences, and digital humanities and human-centred AI.</em>
+</p>
 
 ## 1. AI-ML Methodologies 
 We develop machine-learning methods for robust prediction, representation learning, and decision-making, with particular emphasis on **Bayesian deep learning, neuroevolution, ensemble learning, data augmentation, and uncertainty quantification**.
@@ -74,5 +82,4 @@ Together, this research develops computational approaches to human culture while
 Our goal is to develop **trustworthy, uncertainty-aware, and human-centred AI systems** that combine data, scientific knowledge, and human perspectives.
 
 By bringing together advances in **Bayesian AI, deep learning, foundation models, remote sensing, and computational humanities**, we aim to develop AI that can learn from diverse sources, quantify uncertainty, and support reliable human decision-making across **scientific, environmental, cultural, and societal domains**.
- 
-![Research themes](t-ai.png)
+  
