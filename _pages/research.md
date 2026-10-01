@@ -10,20 +10,19 @@ permalink: /research/
 
 ## Research Themes
 
-I lead a transdisciplinary research program at the intersection of **artificial intelligence, data science, and scientific and cultural applications**. Our research develops robust and uncertainty-aware AI methods and applies them to challenges in **Earth and space sciences, climate, mineral exploration, language, culture, and human-centred AI**.
+Our transdisciplinary research program is at the intersection of **artificial intelligence, data science, and scientific and cultural applications**. Our research develops robust and uncertainty-aware machine learning methods and applies them to challenges in **Earth and space sciences, climate, mineral exploration, language, culture, and human-centred AI**.
 
 A central focus is the development of **deep-learning and Bayesian frameworks for uncertainty-aware decision-making**, complemented by research on foundation models, multimodal AI, and responsible AI.
 
 Our research is organised around three interconnected themes:
 
-1. **[AI Methodologies and Uncertainty](#1-ai-methodologies-and-uncertainty)**
-2. **[AI for Earth, Climate and Space](#2-ai-for-earth-climate-and-space)**
+1. **[AI-ML Methodologies](#1-ai-methodologies-and-uncertainty)**
+2. **[Earth, Climate and Space](#2-ai-for-earth-climate-and-space)**
 3. **[Digital Humanities and Human-Centred AI](#3-digital-humanities-and-human-centred-ai)**
 
 ---
 
-## 1. AI Methodologies and Uncertainty
-
+## 1. AI-ML Methodologies 
 We develop machine-learning methods for robust prediction, representation learning, and decision-making, with particular emphasis on **Bayesian deep learning, neuroevolution, ensemble learning, data augmentation, and uncertainty quantification**.
 
 Our early work developed neuroevolutionary methods for dynamic time-series forecasting and modular pattern recognition ([Chandra et al., 2017](https://doi.org/10.1016/j.neucom.2017.02.065); [Chandra et al., 2018](https://doi.org/10.1016/j.asoc.2018.05.041); [Chandra and Cripps, 2018](https://doi.org/10.1016/j.neucom.2018.08.011)). We subsequently developed GAN-based data augmentation for limited and imbalanced datasets ([Sharma et al., 2022](https://doi.org/10.1109/ACCESS.2022.3158977)) and methods for extreme-event forecasting ([Hua et al., 2025](https://doi.org/10.48550/arXiv.2510.02407)).
@@ -34,7 +33,7 @@ Current work includes **uncertainty-aware data imputation**, spatiotemporal mode
 
 ---
 
-## 2. AI for Earth, Climate and Space
+## 2. Earth, Climate and Space
 
 We apply machine learning, Bayesian inference, and remote sensing to **environmental modelling, mineral exploration, climate extremes, and planetary science**.
 
