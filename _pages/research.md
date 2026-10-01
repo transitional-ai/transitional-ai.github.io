@@ -12,7 +12,7 @@ permalink: /research/
 
 Our transdisciplinary research program is at the intersection of **artificial intelligence, data science, and scientific and cultural applications**. Our research develops robust and uncertainty-aware machine learning methods and applies them to challenges in **Earth and space sciences, climate, mineral exploration, language, culture, and human-centred AI**.
 
-A central focus is the development of **deep-learning and Bayesian frameworks for uncertainty-aware decision-making**, complemented by research on foundation models, multimodal AI, and responsible AI.
+A central focus is the development of **deep-learning and Bayesian frameworks for uncertainty-aware decision-making**, complemented by research on foundation models, multimodal LLMs, and responsible AI.
 
 Our research is organised around three interconnected themes:
 
@@ -75,3 +75,4 @@ Our goal is to develop **trustworthy, uncertainty-aware, and human-centred AI sy
 
 By bringing together advances in **Bayesian AI, deep learning, foundation models, remote sensing, and computational humanities**, we aim to develop AI that can learn from diverse sources, quantify uncertainty, and support reliable human decision-making across **scientific, environmental, cultural, and societal domains**.
  
+![Research themes](t-ai.png)
